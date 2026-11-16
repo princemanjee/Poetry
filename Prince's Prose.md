@@ -1,6 +1,6 @@
 # Prince's Prose
 
-191 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
+192 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
 
 [Contents](#contents) | [Index by category](#by-category) | [Titles A to Z](#titles-a-to-z)
 
@@ -271,6 +271,12 @@ Companion books: [The Undertow of Grace](../The%20Undertow%20of%20Grace/The%20Un
 190. [The oak is in no hurry](#the-oak-is-in-no-hurry)
 191. [Where my feet are](#where-my-feet-are)
 
+### Betrayal
+
+[Betrayal](#betrayal-2)
+
+192. [Brothers](#brothers)
+
 ---
 
 ## Index
@@ -279,7 +285,7 @@ A poem may appear under more than one category. Each title links to the poem.
 
 ### By category
 
-[Addiction & Recovery](#addiction--recovery) (6) | [Betrayal](#betrayal) (4) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (44) | [Grief & Loss](#grief--loss-1) (8) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
+[Addiction & Recovery](#addiction--recovery) (6) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (44) | [Grief & Loss](#grief--loss-1) (9) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
 
 #### Addiction & Recovery
 
@@ -298,6 +304,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [The Handle](#the-handle) (No. 12)
 - [Two Checks](#two-checks) (No. 13)
 - [Load-Bearing](#load-bearing) (No. 14)
+- [Brothers](#brothers) (No. 192)
 
 [Back to the index](#index)
 
@@ -476,6 +483,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Not to make you stronger](#not-to-make-you-stronger) (No. 62)
 - [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 188)
 - [What are tears](#what-are-tears) (No. 189)
+- [Brothers](#brothers) (No. 192)
 
 [Back to the index](#index)
 
@@ -823,6 +831,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 82)
 - [Be home when it arrives](#be-home-when-it-arrives) (No. 71)
 - [Before anyone is awake](#before-anyone-is-awake) (No. 153)
+- [Brothers](#brothers) (No. 192)
 - [Come back out](#come-back-out) (No. 176)
 - [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 65)
 - [Day One](#day-one) (No. 2)
@@ -1031,7 +1040,7 @@ While mine filled up with what you left me there.
 
 *-pr*
 
-No. 1. Categories: [Grief & Loss](#grief--loss-1), [Honor & Character](#honor--character-1), [Betrayal](#betrayal). [Contents](#contents)
+No. 1. Categories: [Grief & Loss](#grief--loss-1), [Honor & Character](#honor--character-1), [Betrayal](#betrayal-1). [Contents](#contents)
 
 ---
 
@@ -1652,7 +1661,7 @@ You did it better.
 
 *-pr*
 
-No. 12. Categories: [Betrayal](#betrayal), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 12. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
 
@@ -1741,7 +1750,7 @@ that nobody slid back.
 
 *-pr*
 
-No. 13. Categories: [Betrayal](#betrayal), [Fatherhood & Duty](#fatherhood--duty-1). [Contents](#contents)
+No. 13. Categories: [Betrayal](#betrayal-1), [Fatherhood & Duty](#fatherhood--duty-1). [Contents](#contents)
 
 ---
 
@@ -1825,7 +1834,7 @@ There's the whole damn difference.
 
 *-pr*
 
-No. 14. Categories: [Betrayal](#betrayal), [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+No. 14. Categories: [Betrayal](#betrayal-1), [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
 
 ---
 
@@ -4731,3 +4740,29 @@ to make its case.
 *-pr*
 
 No. 191. Categories: [Nature as Teacher](#nature-as-teacher-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+## Betrayal
+
+### Brothers
+
+You were my homey You were my bro\
+I raised you from a pup, i taught you everything i know\
+I shepherd you from distraction so you could keep traction\
+I sacrifice my future so you could fulfil your dreams\
+But once you accomplished that you cut me from your team\
+Now youre the george and im the lennie\
+Now our mother cries while you count and shine your penny\
+Now i stand trial and face tribulations\
+And you refuse to acknowledge our blood relation\
+You offer your fellowship to all but the detestable one,\
+He’s the bastard you call your mother and fathers oldest son.\
+Now i sit in this chair , before they flip the switch\
+“Any last words?”
+
+Yeah ain’t life a [*bitch*]
+
+*-pr*
+
+No. 192. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
