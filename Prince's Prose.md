@@ -4783,7 +4783,7 @@ No. 192. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [C
 ### Out of the Harbor
 
 *Drink a fifth or plead the fifth?*\
-*Wrap my fists or sluit my wrists?*\
+*Wrap my fists or slit my wrists?*\
 *Embrace my strength or Succumb to my sorrow?*\
 *Whatever will come of my tomorrow?*
 
