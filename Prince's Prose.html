@@ -558,6 +558,8 @@
   .l { display: block; padding-left: 1.6em; text-indent: -1.6em; }
   .sig { font: italic 400 1rem var(--font-poem); color: var(--color-fg-muted); margin: -.2rem 0 0; }
   .filed { margin: var(--space-xl) 0 0; padding-top: var(--space-md); border-top: 1px solid var(--glass-border); color: var(--color-fg-tertiary); font-size: .93rem; }
+  /* Hidden for now on the single-poem page (#/only/...). Delete this rule to bring them back. */
+  body.single .where, body.single .filed { display: none; }
   .pn { display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-md); margin-top: var(--space-lg); }
   .pn a { display: block; text-decoration: none; padding: .85rem 1rem; border-radius: var(--radius-md); background: var(--glass-bg); border: 1px solid var(--glass-border); color: var(--color-fg-secondary); }
   .pn a:hover { border-color: var(--accent-royal-bright); color: var(--color-fg-primary); }
