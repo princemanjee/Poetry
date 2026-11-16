@@ -1,6 +1,6 @@
 # Prince's Prose
 
-192 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
+193 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
 
 [Contents](#contents) | [Index by category](#by-category) | [Titles A to Z](#titles-a-to-z)
 
@@ -277,6 +277,12 @@ Companion books: [The Undertow of Grace](../The%20Undertow%20of%20Grace/The%20Un
 
 192. [Brothers](#brothers)
 
+### Addiction & Recovery
+
+[Addiction & Recovery](#addiction--recovery-2)
+
+193. [Out of the Harbor](#out-of-the-harbor)
+
 ---
 
 ## Index
@@ -285,7 +291,7 @@ A poem may appear under more than one category. Each title links to the poem.
 
 ### By category
 
-[Addiction & Recovery](#addiction--recovery) (6) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (44) | [Grief & Loss](#grief--loss-1) (9) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
+[Addiction & Recovery](#addiction--recovery-1) (7) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (44) | [Grief & Loss](#grief--loss-1) (10) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
 
 #### Addiction & Recovery
 
@@ -295,6 +301,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Four Leashes](#four-leashes) (No. 9)
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
 - [Pilot Light](#pilot-light) (No. 11)
+- [Out of the Harbor](#out-of-the-harbor) (No. 193)
 
 [Back to the index](#index)
 
@@ -484,6 +491,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 188)
 - [What are tears](#what-are-tears) (No. 189)
 - [Brothers](#brothers) (No. 192)
+- [Out of the Harbor](#out-of-the-harbor) (No. 193)
 
 [Back to the index](#index)
 
@@ -913,6 +921,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 100)
 - [Only to keep turning](#only-to-keep-turning) (No. 53)
 - [Only what is yours](#only-what-is-yours) (No. 171)
+- [Out of the Harbor](#out-of-the-harbor) (No. 193)
 - [Patience at the forge](#patience-at-the-forge) (No. 86)
 - [Peace is not a grip](#peace-is-not-a-grip) (No. 130)
 - [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 124)
@@ -1084,7 +1093,7 @@ and the ink, thank God, is cheap enough to last.
 
 *-pr*
 
-No. 2. Categories: [Addiction & Recovery](#addiction--recovery), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+No. 2. Categories: [Addiction & Recovery](#addiction--recovery-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
 
 ---
 
@@ -1232,7 +1241,7 @@ It was just enough room to keep lying.
 
 *-pr*
 
-No. 5. Categories: [Addiction & Recovery](#addiction--recovery), [Honor & Character](#honor--character-1). [Contents](#contents)
+No. 5. Categories: [Addiction & Recovery](#addiction--recovery-1), [Honor & Character](#honor--character-1). [Contents](#contents)
 
 ---
 
@@ -1286,7 +1295,7 @@ and call it a favor.
 
 *-pr*
 
-No. 6. Categories: [Addiction & Recovery](#addiction--recovery), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 6. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
 
@@ -1462,7 +1471,7 @@ Claimed.
 
 *-pr*
 
-No. 9. Categories: [Addiction & Recovery](#addiction--recovery), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+No. 9. Categories: [Addiction & Recovery](#addiction--recovery-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
 
 ---
 
@@ -1521,7 +1530,7 @@ Then go feed the dogs.
 
 *-pr*
 
-No. 10. Categories: [Addiction & Recovery](#addiction--recovery), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+No. 10. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
 
 ---
 
@@ -1584,7 +1593,7 @@ Somebody could.
 
 *-pr*
 
-No. 11. Categories: [Addiction & Recovery](#addiction--recovery), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+No. 11. Categories: [Addiction & Recovery](#addiction--recovery-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
 
 ---
 
@@ -4766,3 +4775,33 @@ Yeah ain’t life a [*bitch*]
 *-pr*
 
 No. 192. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+
+---
+
+## Addiction & Recovery
+
+### Out of the Harbor
+
+*Drink a fifth or plead the fifth?*\
+*Wrap my fists or sluit my wrists?*\
+*Embrace my strength or Succumb to my sorrow?*\
+*Whatever will come of my tomorrow?*
+
+With all my heart I miss my wife.\
+Now I am buried in dark, and covered in whites.\
+Estranged in my delight,\
+I am read my last rights.
+
+My mother grieves,\
+My brother unseethed,\
+While my neighbors thieve,\
+I find no reprieve.
+
+So now I hang from the tree,\
+my ship is at sea,\
+Thank you lord,\
+I am finally free.
+
+*-pr*
+
+No. 193. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
