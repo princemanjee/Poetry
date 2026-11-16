@@ -4784,13 +4784,13 @@ No. 192. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [C
 
 *Drink a fifth or plead the fifth?*\
 *Wrap my fists or slit my wrists?*\
-*Embrace my strength or Succumb to my sorrow?*\
+*Embrace my strength or succumb to my sorrow?*\
 *Whatever will come of my tomorrow?*
 
 With all my heart I miss my wife.\
 Now I am buried in dark, and covered in whites.\
 Estranged in my delight,\
-I am read my last rights.
+I am read my last rites.
 
 My mother grieves,\
 My brother unseethed,\
@@ -4799,7 +4799,7 @@ I find no reprieve.
 
 So now I hang from the tree,\
 my ship is at sea,\
-Thank you lord,\
+Thank you Lord,\
 I am finally free.
 
 *-pr*
