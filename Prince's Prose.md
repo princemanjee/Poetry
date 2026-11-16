@@ -1,6 +1,6 @@
 # Prince's Prose
 
-194 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
+195 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the seventeen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
 
 [Contents](#contents) | [Index by category](#by-category) | [Titles A to Z](#titles-a-to-z)
 
@@ -28,261 +28,252 @@ Companion books: [The Undertow of Grace](../The%20Undertow%20of%20Grace/The%20Un
 12. [The Handle](#the-handle)
 13. [Two Checks](#two-checks)
 14. [Load-Bearing](#load-bearing)
+15. [Brothers](#brothers)
+16. [Out of the Harbor](#out-of-the-harbor)
+17. [Dearest Love](#dearest-love)
+18. [Effigy](#effigy)
 
 ### Fortitude & Gentleness
 
 [Fortitude & Gentleness](#fortitude--gentleness-2)
 
-15. [The river does not apologize](#the-river-does-not-apologize)
-16. [You are allowed to be gentle](#you-are-allowed-to-be-gentle)
-17. [Do not become the cold](#do-not-become-the-cold)
-18. [Sowing in winter](#sowing-in-winter)
-19. [Tempered, not hardened](#tempered-not-hardened)
-20. [Let the weather come](#let-the-weather-come)
-21. [Keep what they could not hold](#keep-what-they-could-not-hold)
-22. [The door left unbarred](#the-door-left-unbarred)
-23. [Kindness after the blow](#kindness-after-the-blow)
-24. [What the break did not take](#what-the-break-did-not-take)
-25. [No apology for the shade](#no-apology-for-the-shade)
-26. [What the blow did not take](#what-the-blow-did-not-take)
-27. [Trust the gentleness in you](#trust-the-gentleness-in-you)
-28. [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw)
-29. [Strength is what you kept open](#strength-is-what-you-kept-open)
-30. [Gentleness is a decision](#gentleness-is-a-decision)
-31. [Do not apologize for gentleness](#do-not-apologize-for-gentleness)
-32. [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you)
-33. [The bravest thing you ever did](#the-bravest-thing-you-ever-did)
-34. [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy)
-35. [What survives rough hands](#what-survives-rough-hands)
-36. [What it did not take](#what-it-did-not-take)
-37. [Hope is a discipline](#hope-is-a-discipline)
-38. [After all of it](#after-all-of-it)
-39. [The strongest kind of man](#the-strongest-kind-of-man)
-40. [Let it begin with your hands](#let-it-begin-with-your-hands)
-41. [Put the stones down](#put-the-stones-down)
-42. [Gentleness is not weakness](#gentleness-is-not-weakness)
-43. [The measure was never hardness](#the-measure-was-never-hardness)
-44. [If the door still opens](#if-the-door-still-opens)
-45. [The bravest thing you did](#the-bravest-thing-you-did)
-46. [Not how strong it made you](#not-how-strong-it-made-you)
-47. [Look at you, still standing](#look-at-you-still-standing)
-48. [What if the measure was never strength](#what-if-the-measure-was-never-strength)
-49. [A gentle man was not spared](#a-gentle-man-was-not-spared)
-50. [What held the wall](#what-held-the-wall)
-51. [The strength it took](#the-strength-it-took)
-52. [Keep your heart from hardening](#keep-your-heart-from-hardening)
+19. [The river does not apologize](#the-river-does-not-apologize)
+20. [You are allowed to be gentle](#you-are-allowed-to-be-gentle)
+21. [Do not become the cold](#do-not-become-the-cold)
+22. [Sowing in winter](#sowing-in-winter)
+23. [Tempered, not hardened](#tempered-not-hardened)
+24. [Let the weather come](#let-the-weather-come)
+25. [Keep what they could not hold](#keep-what-they-could-not-hold)
+26. [The door left unbarred](#the-door-left-unbarred)
+27. [Kindness after the blow](#kindness-after-the-blow)
+28. [What the break did not take](#what-the-break-did-not-take)
+29. [No apology for the shade](#no-apology-for-the-shade)
+30. [What the blow did not take](#what-the-blow-did-not-take)
+31. [Trust the gentleness in you](#trust-the-gentleness-in-you)
+32. [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw)
+33. [Strength is what you kept open](#strength-is-what-you-kept-open)
+34. [Gentleness is a decision](#gentleness-is-a-decision)
+35. [Do not apologize for gentleness](#do-not-apologize-for-gentleness)
+36. [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you)
+37. [The bravest thing you ever did](#the-bravest-thing-you-ever-did)
+38. [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy)
+39. [What survives rough hands](#what-survives-rough-hands)
+40. [What it did not take](#what-it-did-not-take)
+41. [Hope is a discipline](#hope-is-a-discipline)
+42. [After all of it](#after-all-of-it)
+43. [The strongest kind of man](#the-strongest-kind-of-man)
+44. [Let it begin with your hands](#let-it-begin-with-your-hands)
+45. [Put the stones down](#put-the-stones-down)
+46. [Gentleness is not weakness](#gentleness-is-not-weakness)
+47. [The measure was never hardness](#the-measure-was-never-hardness)
+48. [If the door still opens](#if-the-door-still-opens)
+49. [The bravest thing you did](#the-bravest-thing-you-did)
+50. [Not how strong it made you](#not-how-strong-it-made-you)
+51. [Look at you, still standing](#look-at-you-still-standing)
+52. [What if the measure was never strength](#what-if-the-measure-was-never-strength)
+53. [A gentle man was not spared](#a-gentle-man-was-not-spared)
+54. [What held the wall](#what-held-the-wall)
+55. [The strength it took](#the-strength-it-took)
+56. [Keep your heart from hardening](#keep-your-heart-from-hardening)
 
 ### Healing & Endurance
 
 [Healing & Endurance](#healing--endurance-2)
 
-53. [Only to keep turning](#only-to-keep-turning)
-54. [Let the body do its part](#let-the-body-do-its-part)
-55. [Let it move through](#let-it-move-through)
-56. [Healing is not the pain leaving](#healing-is-not-the-pain-leaving)
-57. [What the dark still holds](#what-the-dark-still-holds)
-58. [What did not harden](#what-did-not-harden)
-59. [Set the bone first](#set-the-bone-first)
-60. [Put down the act](#put-down-the-act)
-61. [The reason came after](#the-reason-came-after)
-62. [Not to make you stronger](#not-to-make-you-stronger)
-63. [The weight no one lifted](#the-weight-no-one-lifted)
-64. [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology)
-65. [Count the harvest, not the rain](#count-the-harvest-not-the-rain)
-66. [A chair for the pain](#a-chair-for-the-pain)
-67. [You have not lost the light](#you-have-not-lost-the-light)
-68. [A steady love will find you](#a-steady-love-will-find-you)
-69. [Not how much, but how](#not-how-much-but-how)
-70. [Healing does not remove the weight](#healing-does-not-remove-the-weight)
-71. [Be home when it arrives](#be-home-when-it-arrives)
-72. [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together)
-73. [Give the pain a chair](#give-the-pain-a-chair)
-74. [Some days are for holding the line](#some-days-are-for-holding-the-line)
-75. [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost)
-76. [One day the ledger balances](#one-day-the-ledger-balances)
-77. [The well still gives](#the-well-still-gives)
-78. [You do not have to prove it](#you-do-not-have-to-prove-it)
-79. [I told my heart to keep going](#i-told-my-heart-to-keep-going)
+57. [Only to keep turning](#only-to-keep-turning)
+58. [Let the body do its part](#let-the-body-do-its-part)
+59. [Let it move through](#let-it-move-through)
+60. [Healing is not the pain leaving](#healing-is-not-the-pain-leaving)
+61. [What the dark still holds](#what-the-dark-still-holds)
+62. [What did not harden](#what-did-not-harden)
+63. [Set the bone first](#set-the-bone-first)
+64. [Put down the act](#put-down-the-act)
+65. [The reason came after](#the-reason-came-after)
+66. [Not to make you stronger](#not-to-make-you-stronger)
+67. [The weight no one lifted](#the-weight-no-one-lifted)
+68. [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology)
+69. [Count the harvest, not the rain](#count-the-harvest-not-the-rain)
+70. [A chair for the pain](#a-chair-for-the-pain)
+71. [You have not lost the light](#you-have-not-lost-the-light)
+72. [A steady love will find you](#a-steady-love-will-find-you)
+73. [Not how much, but how](#not-how-much-but-how)
+74. [Healing does not remove the weight](#healing-does-not-remove-the-weight)
+75. [Be home when it arrives](#be-home-when-it-arrives)
+76. [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together)
+77. [Give the pain a chair](#give-the-pain-a-chair)
+78. [Some days are for holding the line](#some-days-are-for-holding-the-line)
+79. [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost)
+80. [One day the ledger balances](#one-day-the-ledger-balances)
+81. [The well still gives](#the-well-still-gives)
+82. [You do not have to prove it](#you-do-not-have-to-prove-it)
+83. [I told my heart to keep going](#i-told-my-heart-to-keep-going)
 
 ### Growth & Becoming
 
 [Growth & Becoming](#growth--becoming-2)
 
-80. [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me)
-81. [Let me wear the new day](#let-me-wear-the-new-day)
-82. [Ask what the fear is made of](#ask-what-the-fear-is-made-of)
-83. [The acres you have not walked](#the-acres-you-have-not-walked)
-84. [Unfamiliar ground](#unfamiliar-ground)
-85. [The field was never dead](#the-field-was-never-dead)
-86. [Patience at the forge](#patience-at-the-forge)
-87. [No one calls the wheat slow](#no-one-calls-the-wheat-slow)
-88. [Not starting over](#not-starting-over)
-89. [The river keeps its name](#the-river-keeps-its-name)
-90. [The tools are where you left them](#the-tools-are-where-you-left-them)
-91. [The next step](#the-next-step)
-92. [Starting over is not defeat](#starting-over-is-not-defeat)
-93. [Remember there is no hurry](#remember-there-is-no-hurry)
-94. [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground)
-95. [A seat at the table](#a-seat-at-the-table)
-96. [You were never behind](#you-were-never-behind)
-97. [Eighty beats a second](#eighty-beats-a-second)
-98. [Every man I have been](#every-man-i-have-been)
-99. [The shape already in the iron](#the-shape-already-in-the-iron)
-100. [One day you will see it plainly](#one-day-you-will-see-it-plainly)
-101. [Have patience with yourself](#have-patience-with-yourself)
+84. [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me)
+85. [Let me wear the new day](#let-me-wear-the-new-day)
+86. [Ask what the fear is made of](#ask-what-the-fear-is-made-of)
+87. [The acres you have not walked](#the-acres-you-have-not-walked)
+88. [Unfamiliar ground](#unfamiliar-ground)
+89. [The field was never dead](#the-field-was-never-dead)
+90. [Patience at the forge](#patience-at-the-forge)
+91. [No one calls the wheat slow](#no-one-calls-the-wheat-slow)
+92. [Not starting over](#not-starting-over)
+93. [The river keeps its name](#the-river-keeps-its-name)
+94. [The tools are where you left them](#the-tools-are-where-you-left-them)
+95. [The next step](#the-next-step)
+96. [Starting over is not defeat](#starting-over-is-not-defeat)
+97. [Remember there is no hurry](#remember-there-is-no-hurry)
+98. [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground)
+99. [A seat at the table](#a-seat-at-the-table)
+100. [You were never behind](#you-were-never-behind)
+101. [Eighty beats a second](#eighty-beats-a-second)
+102. [Every man I have been](#every-man-i-have-been)
+103. [The shape already in the iron](#the-shape-already-in-the-iron)
+104. [One day you will see it plainly](#one-day-you-will-see-it-plainly)
+105. [Have patience with yourself](#have-patience-with-yourself)
 
 ### Grace & Self-Forgiveness
 
 [Grace & Self-Forgiveness](#grace--self-forgiveness-2)
 
-102. [Every phase carries light](#every-phase-carries-light)
-103. [Grace for this body](#grace-for-this-body)
-104. [The oak is not late](#the-oak-is-not-late)
-105. [You would give any man time](#you-would-give-any-man-time)
-106. [You forgive the sky its rain](#you-forgive-the-sky-its-rain)
-107. [Stand on the ground you have](#stand-on-the-ground-you-have)
-108. [Forgive the man you were](#forgive-the-man-you-were)
-109. [Grace for what survived](#grace-for-what-survived)
-110. [A kinder foreman](#a-kinder-foreman)
-111. [Not everything is a repair](#not-everything-is-a-repair)
-112. [The same man walks out](#the-same-man-walks-out)
-113. [Mercy runs forward](#mercy-runs-forward)
-114. [Grace for the man who got through](#grace-for-the-man-who-got-through)
-115. [Mercy for the parts that survived](#mercy-for-the-parts-that-survived)
-116. [Forgive yourself the storms](#forgive-yourself-the-storms)
-117. [Grace for the body that carries me](#grace-for-the-body-that-carries-me)
-118. [He was working with less light](#he-was-working-with-less-light)
-119. [Grace for the parts that survived](#grace-for-the-parts-that-survived)
-120. [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in)
-121. [They stood the watch](#they-stood-the-watch)
-122. [I watched the dawn come down](#i-watched-the-dawn-come-down)
+106. [Every phase carries light](#every-phase-carries-light)
+107. [Grace for this body](#grace-for-this-body)
+108. [The oak is not late](#the-oak-is-not-late)
+109. [You would give any man time](#you-would-give-any-man-time)
+110. [You forgive the sky its rain](#you-forgive-the-sky-its-rain)
+111. [Stand on the ground you have](#stand-on-the-ground-you-have)
+112. [Forgive the man you were](#forgive-the-man-you-were)
+113. [Grace for what survived](#grace-for-what-survived)
+114. [A kinder foreman](#a-kinder-foreman)
+115. [Not everything is a repair](#not-everything-is-a-repair)
+116. [The same man walks out](#the-same-man-walks-out)
+117. [Mercy runs forward](#mercy-runs-forward)
+118. [Grace for the man who got through](#grace-for-the-man-who-got-through)
+119. [Mercy for the parts that survived](#mercy-for-the-parts-that-survived)
+120. [Forgive yourself the storms](#forgive-yourself-the-storms)
+121. [Grace for the body that carries me](#grace-for-the-body-that-carries-me)
+122. [He was working with less light](#he-was-working-with-less-light)
+123. [Grace for the parts that survived](#grace-for-the-parts-that-survived)
+124. [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in)
+125. [They stood the watch](#they-stood-the-watch)
+126. [I watched the dawn come down](#i-watched-the-dawn-come-down)
 
 ### Rest & Stillness
 
 [Rest & Stillness](#rest--stillness-2)
 
-123. [Stand in the new snow](#stand-in-the-new-snow)
-124. [Peace is not a windless sky](#peace-is-not-a-windless-sky)
-125. [Rest is a form of trust](#rest-is-a-form-of-trust)
-126. [Not every storm is yours to face](#not-every-storm-is-yours-to-face)
-127. [Winter is not a sentence](#winter-is-not-a-sentence)
-128. [Rest is not the pause](#rest-is-not-the-pause)
-129. [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal)
-130. [Peace is not a grip](#peace-is-not-a-grip)
-131. [Put the problem down for the night](#put-the-problem-down-for-the-night)
-132. [Roots go down in winter](#roots-go-down-in-winter)
-133. [Alone was never the problem](#alone-was-never-the-problem)
-134. [Give yourself leave to rest](#give-yourself-leave-to-rest)
-135. [In the lean months](#in-the-lean-months)
-136. [Dear June, remind me](#dear-june-remind-me)
-137. [Leave the window open](#leave-the-window-open)
-138. [Keep the window open](#keep-the-window-open)
-139. [Still enough to hear it](#still-enough-to-hear-it)
-140. [What your hands are for](#what-your-hands-are-for)
-141. [Make no apology for the rest](#make-no-apology-for-the-rest)
-142. [I want the composure of September](#i-want-the-composure-of-september)
+127. [Stand in the new snow](#stand-in-the-new-snow)
+128. [Peace is not a windless sky](#peace-is-not-a-windless-sky)
+129. [Rest is a form of trust](#rest-is-a-form-of-trust)
+130. [Not every storm is yours to face](#not-every-storm-is-yours-to-face)
+131. [Winter is not a sentence](#winter-is-not-a-sentence)
+132. [Rest is not the pause](#rest-is-not-the-pause)
+133. [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal)
+134. [Peace is not a grip](#peace-is-not-a-grip)
+135. [Put the problem down for the night](#put-the-problem-down-for-the-night)
+136. [Roots go down in winter](#roots-go-down-in-winter)
+137. [Alone was never the problem](#alone-was-never-the-problem)
+138. [Give yourself leave to rest](#give-yourself-leave-to-rest)
+139. [In the lean months](#in-the-lean-months)
+140. [Dear June, remind me](#dear-june-remind-me)
+141. [Leave the window open](#leave-the-window-open)
+142. [Keep the window open](#keep-the-window-open)
+143. [Still enough to hear it](#still-enough-to-hear-it)
+144. [What your hands are for](#what-your-hands-are-for)
+145. [Make no apology for the rest](#make-no-apology-for-the-rest)
+146. [I want the composure of September](#i-want-the-composure-of-september)
 
 ### Worth & Belonging
 
 [Worth & Belonging](#worth--belonging-2)
 
-143. [Worthy of its return](#worthy-of-its-return)
-144. [Worth does not move with the water](#worth-does-not-move-with-the-water)
-145. [Go stand in the sun](#go-stand-in-the-sun)
-146. [Not everyone speaks it](#not-everyone-speaks-it)
-147. [Nothing left to prove](#nothing-left-to-prove)
-148. [A chair set for you](#a-chair-set-for-you)
-149. [Stand still and let them look](#stand-still-and-let-them-look)
-150. [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you)
-151. [The house you come home to](#the-house-you-come-home-to)
-152. [Nothing in the field withholds](#nothing-in-the-field-withholds)
-153. [Before anyone is awake](#before-anyone-is-awake)
-154. [What if I am a quieter thing](#what-if-i-am-a-quieter-thing)
-155. [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size)
+147. [Worthy of its return](#worthy-of-its-return)
+148. [Worth does not move with the water](#worth-does-not-move-with-the-water)
+149. [Go stand in the sun](#go-stand-in-the-sun)
+150. [Not everyone speaks it](#not-everyone-speaks-it)
+151. [Nothing left to prove](#nothing-left-to-prove)
+152. [A chair set for you](#a-chair-set-for-you)
+153. [Stand still and let them look](#stand-still-and-let-them-look)
+154. [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you)
+155. [The house you come home to](#the-house-you-come-home-to)
+156. [Nothing in the field withholds](#nothing-in-the-field-withholds)
+157. [Before anyone is awake](#before-anyone-is-awake)
+158. [What if I am a quieter thing](#what-if-i-am-a-quieter-thing)
+159. [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size)
 
 ### Fatherhood & Duty
 
 [Fatherhood & Duty](#fatherhood--duty-2)
 
-156. [Kneeling is its own prayer](#kneeling-is-its-own-prayer)
-157. [What I carry there](#what-i-carry-there)
-158. [Tell me this is not prayer](#tell-me-this-is-not-prayer)
-159. [Nothing gets done with you here](#nothing-gets-done-with-you-here)
-160. [No one told me about the arms](#no-one-told-me-about-the-arms)
-161. [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer)
-162. [It took becoming a father](#it-took-becoming-a-father)
-163. [When my back aches from being a father](#when-my-back-aches-from-being-a-father)
-164. [You were built to feel](#you-were-built-to-feel)
-165. [Stone fruit season](#stone-fruit-season)
+160. [Kneeling is its own prayer](#kneeling-is-its-own-prayer)
+161. [What I carry there](#what-i-carry-there)
+162. [Tell me this is not prayer](#tell-me-this-is-not-prayer)
+163. [Nothing gets done with you here](#nothing-gets-done-with-you-here)
+164. [No one told me about the arms](#no-one-told-me-about-the-arms)
+165. [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer)
+166. [It took becoming a father](#it-took-becoming-a-father)
+167. [When my back aches from being a father](#when-my-back-aches-from-being-a-father)
+168. [You were built to feel](#you-were-built-to-feel)
+169. [Stone fruit season](#stone-fruit-season)
 
 ### Letting Go
 
 [Letting Go](#letting-go-2)
 
-166. [Winters that were never mine](#winters-that-were-never-mine)
-167. [Winters that were never yours](#winters-that-were-never-yours)
-168. [You do not need the whole map](#you-do-not-need-the-whole-map)
-169. [The man you would have been](#the-man-you-would-have-been)
-170. [What made the difference](#what-made-the-difference)
-171. [Only what is yours](#only-what-is-yours)
-172. [What May taught me](#what-may-taught-me)
-173. [Set down what was never yours](#set-down-what-was-never-yours)
-174. [What the ground does with what falls](#what-the-ground-does-with-what-falls)
+170. [Winters that were never mine](#winters-that-were-never-mine)
+171. [Winters that were never yours](#winters-that-were-never-yours)
+172. [You do not need the whole map](#you-do-not-need-the-whole-map)
+173. [The man you would have been](#the-man-you-would-have-been)
+174. [What made the difference](#what-made-the-difference)
+175. [Only what is yours](#only-what-is-yours)
+176. [What May taught me](#what-may-taught-me)
+177. [Set down what was never yours](#set-down-what-was-never-yours)
+178. [What the ground does with what falls](#what-the-ground-does-with-what-falls)
 
 ### Seasons & Letters
 
 [Seasons & Letters](#seasons--letters-2)
 
-175. [A note for the new month](#a-note-for-the-new-month)
-176. [Come back out](#come-back-out)
-177. [Dear summer, remind me](#dear-summer-remind-me)
-178. [Dear July, the long light](#dear-july-the-long-light)
-179. [Dear July, the middle of the year](#dear-july-the-middle-of-the-year)
-180. [Dear August, be patient](#dear-august-be-patient)
+179. [A note for the new month](#a-note-for-the-new-month)
+180. [Come back out](#come-back-out)
+181. [Dear summer, remind me](#dear-summer-remind-me)
+182. [Dear July, the long light](#dear-july-the-long-light)
+183. [Dear July, the middle of the year](#dear-july-the-middle-of-the-year)
+184. [Dear August, be patient](#dear-august-be-patient)
 
 ### Honor & Character
 
 [Honor & Character](#honor--character-2)
 
-181. [No one saw the climb](#no-one-saw-the-climb)
-182. [Not the distance](#not-the-distance)
-183. [Ask what held](#ask-what-held)
-184. [What if it was never the changing](#what-if-it-was-never-the-changing)
+185. [No one saw the climb](#no-one-saw-the-climb)
+186. [Not the distance](#not-the-distance)
+187. [Ask what held](#ask-what-held)
+188. [What if it was never the changing](#what-if-it-was-never-the-changing)
 
 ### Faith & Reverence
 
 [Faith & Reverence](#faith--reverence-2)
 
-185. [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower)
-186. [The way the earth turns](#the-way-the-earth-turns)
-187. [Letters I have not opened](#letters-i-have-not-opened)
+189. [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower)
+190. [The way the earth turns](#the-way-the-earth-turns)
+191. [Letters I have not opened](#letters-i-have-not-opened)
 
 ### Grief & Loss
 
 [Grief & Loss](#grief--loss-2)
 
-188. [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders)
-189. [What are tears](#what-are-tears)
+192. [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders)
+193. [What are tears](#what-are-tears)
 
 ### Nature as Teacher
 
 [Nature as Teacher](#nature-as-teacher-2)
 
-190. [The oak is in no hurry](#the-oak-is-in-no-hurry)
-191. [Where my feet are](#where-my-feet-are)
-
-### Betrayal
-
-[Betrayal](#betrayal-2)
-
-192. [Brothers](#brothers)
-
-### Addiction & Recovery
-
-[Addiction & Recovery](#addiction--recovery-2)
-
-193. [Out of the Harbor](#out-of-the-harbor)
-194. [Dearest Love](#dearest-love)
+194. [The oak is in no hurry](#the-oak-is-in-no-hurry)
+195. [Where my feet are](#where-my-feet-are)
 
 ---
 
@@ -292,7 +283,7 @@ A poem may appear under more than one category. Each title links to the poem.
 
 ### By category
 
-[Addiction & Recovery](#addiction--recovery-1) (8) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (45) | [Grief & Loss](#grief--loss-1) (10) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
+[Addiction & Recovery](#addiction--recovery) (8) | [Betrayal](#betrayal) (6) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (45) | [Grief & Loss](#grief--loss-1) (11) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
 
 #### Addiction & Recovery
 
@@ -302,8 +293,8 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Four Leashes](#four-leashes) (No. 9)
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
 - [Pilot Light](#pilot-light) (No. 11)
-- [Out of the Harbor](#out-of-the-harbor) (No. 193)
-- [Dearest Love](#dearest-love) (No. 194)
+- [Out of the Harbor](#out-of-the-harbor) (No. 16)
+- [Dearest Love](#dearest-love) (No. 17)
 
 [Back to the index](#index)
 
@@ -313,7 +304,8 @@ A poem may appear under more than one category. Each title links to the poem.
 - [The Handle](#the-handle) (No. 12)
 - [Two Checks](#two-checks) (No. 13)
 - [Load-Bearing](#load-bearing) (No. 14)
-- [Brothers](#brothers) (No. 192)
+- [Brothers](#brothers) (No. 15)
+- [Effigy](#effigy) (No. 18)
 
 [Back to the index](#index)
 
@@ -327,16 +319,16 @@ A poem may appear under more than one category. Each title links to the poem.
 #### Faith & Reverence
 
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
-- [Hope is a discipline](#hope-is-a-discipline) (No. 37)
-- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 56)
-- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 99)
-- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 125)
-- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 156)
-- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 158)
-- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 161)
-- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 185)
-- [The way the earth turns](#the-way-the-earth-turns) (No. 186)
-- [Letters I have not opened](#letters-i-have-not-opened) (No. 187)
+- [Hope is a discipline](#hope-is-a-discipline) (No. 41)
+- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 60)
+- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 103)
+- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 129)
+- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 160)
+- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 162)
+- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 165)
+- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 189)
+- [The way the earth turns](#the-way-the-earth-turns) (No. 190)
+- [Letters I have not opened](#letters-i-have-not-opened) (No. 191)
 
 [Back to the index](#index)
 
@@ -344,142 +336,142 @@ A poem may appear under more than one category. Each title links to the poem.
 
 - [Two Checks](#two-checks) (No. 13)
 - [Load-Bearing](#load-bearing) (No. 14)
-- [The weight no one lifted](#the-weight-no-one-lifted) (No. 63)
-- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 155)
-- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 156)
-- [What I carry there](#what-i-carry-there) (No. 157)
-- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 158)
-- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 159)
-- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 160)
-- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 161)
-- [It took becoming a father](#it-took-becoming-a-father) (No. 162)
-- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 163)
-- [You were built to feel](#you-were-built-to-feel) (No. 164)
-- [Stone fruit season](#stone-fruit-season) (No. 165)
+- [The weight no one lifted](#the-weight-no-one-lifted) (No. 67)
+- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 159)
+- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 160)
+- [What I carry there](#what-i-carry-there) (No. 161)
+- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 162)
+- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 163)
+- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 164)
+- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 165)
+- [It took becoming a father](#it-took-becoming-a-father) (No. 166)
+- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 167)
+- [You were built to feel](#you-were-built-to-feel) (No. 168)
+- [Stone fruit season](#stone-fruit-season) (No. 169)
 
 [Back to the index](#index)
 
 #### Fortitude & Gentleness
 
 - [Four Leashes](#four-leashes) (No. 9)
-- [The river does not apologize](#the-river-does-not-apologize) (No. 15)
-- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 16)
-- [Do not become the cold](#do-not-become-the-cold) (No. 17)
-- [Sowing in winter](#sowing-in-winter) (No. 18)
-- [Tempered, not hardened](#tempered-not-hardened) (No. 19)
-- [Let the weather come](#let-the-weather-come) (No. 20)
-- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 21)
-- [The door left unbarred](#the-door-left-unbarred) (No. 22)
-- [Kindness after the blow](#kindness-after-the-blow) (No. 23)
-- [What the break did not take](#what-the-break-did-not-take) (No. 24)
-- [No apology for the shade](#no-apology-for-the-shade) (No. 25)
-- [What the blow did not take](#what-the-blow-did-not-take) (No. 26)
-- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 27)
-- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 28)
-- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 29)
-- [Gentleness is a decision](#gentleness-is-a-decision) (No. 30)
-- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 31)
-- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 32)
-- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 33)
-- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 34)
-- [What survives rough hands](#what-survives-rough-hands) (No. 35)
-- [What it did not take](#what-it-did-not-take) (No. 36)
-- [Hope is a discipline](#hope-is-a-discipline) (No. 37)
-- [After all of it](#after-all-of-it) (No. 38)
-- [The strongest kind of man](#the-strongest-kind-of-man) (No. 39)
-- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 40)
-- [Put the stones down](#put-the-stones-down) (No. 41)
-- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 42)
-- [The measure was never hardness](#the-measure-was-never-hardness) (No. 43)
-- [If the door still opens](#if-the-door-still-opens) (No. 44)
-- [The bravest thing you did](#the-bravest-thing-you-did) (No. 45)
-- [Not how strong it made you](#not-how-strong-it-made-you) (No. 46)
-- [Look at you, still standing](#look-at-you-still-standing) (No. 47)
-- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 48)
-- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 49)
-- [What held the wall](#what-held-the-wall) (No. 50)
-- [The strength it took](#the-strength-it-took) (No. 51)
-- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 52)
-- [Only to keep turning](#only-to-keep-turning) (No. 53)
-- [Let the body do its part](#let-the-body-do-its-part) (No. 54)
-- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 56)
-- [What did not harden](#what-did-not-harden) (No. 58)
-- [The weight no one lifted](#the-weight-no-one-lifted) (No. 63)
-- [A chair for the pain](#a-chair-for-the-pain) (No. 66)
-- [Not how much, but how](#not-how-much-but-how) (No. 69)
-- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 70)
-- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 72)
-- [Give the pain a chair](#give-the-pain-a-chair) (No. 73)
-- [The well still gives](#the-well-still-gives) (No. 77)
-- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 78)
-- [Let me wear the new day](#let-me-wear-the-new-day) (No. 81)
-- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 82)
-- [Unfamiliar ground](#unfamiliar-ground) (No. 84)
-- [The next step](#the-next-step) (No. 91)
-- [Stand in the new snow](#stand-in-the-new-snow) (No. 123)
-- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 124)
-- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 129)
-- [Still enough to hear it](#still-enough-to-hear-it) (No. 139)
-- [What your hands are for](#what-your-hands-are-for) (No. 140)
-- [Not everyone speaks it](#not-everyone-speaks-it) (No. 146)
-- [A chair set for you](#a-chair-set-for-you) (No. 148)
-- [Stand still and let them look](#stand-still-and-let-them-look) (No. 149)
-- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 155)
-- [You were built to feel](#you-were-built-to-feel) (No. 164)
-- [Winters that were never mine](#winters-that-were-never-mine) (No. 166)
-- [What made the difference](#what-made-the-difference) (No. 170)
-- [The way the earth turns](#the-way-the-earth-turns) (No. 186)
-- [What are tears](#what-are-tears) (No. 189)
+- [The river does not apologize](#the-river-does-not-apologize) (No. 19)
+- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 20)
+- [Do not become the cold](#do-not-become-the-cold) (No. 21)
+- [Sowing in winter](#sowing-in-winter) (No. 22)
+- [Tempered, not hardened](#tempered-not-hardened) (No. 23)
+- [Let the weather come](#let-the-weather-come) (No. 24)
+- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 25)
+- [The door left unbarred](#the-door-left-unbarred) (No. 26)
+- [Kindness after the blow](#kindness-after-the-blow) (No. 27)
+- [What the break did not take](#what-the-break-did-not-take) (No. 28)
+- [No apology for the shade](#no-apology-for-the-shade) (No. 29)
+- [What the blow did not take](#what-the-blow-did-not-take) (No. 30)
+- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 31)
+- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 32)
+- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 33)
+- [Gentleness is a decision](#gentleness-is-a-decision) (No. 34)
+- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 35)
+- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 36)
+- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 37)
+- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 38)
+- [What survives rough hands](#what-survives-rough-hands) (No. 39)
+- [What it did not take](#what-it-did-not-take) (No. 40)
+- [Hope is a discipline](#hope-is-a-discipline) (No. 41)
+- [After all of it](#after-all-of-it) (No. 42)
+- [The strongest kind of man](#the-strongest-kind-of-man) (No. 43)
+- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 44)
+- [Put the stones down](#put-the-stones-down) (No. 45)
+- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 46)
+- [The measure was never hardness](#the-measure-was-never-hardness) (No. 47)
+- [If the door still opens](#if-the-door-still-opens) (No. 48)
+- [The bravest thing you did](#the-bravest-thing-you-did) (No. 49)
+- [Not how strong it made you](#not-how-strong-it-made-you) (No. 50)
+- [Look at you, still standing](#look-at-you-still-standing) (No. 51)
+- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 52)
+- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 53)
+- [What held the wall](#what-held-the-wall) (No. 54)
+- [The strength it took](#the-strength-it-took) (No. 55)
+- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 56)
+- [Only to keep turning](#only-to-keep-turning) (No. 57)
+- [Let the body do its part](#let-the-body-do-its-part) (No. 58)
+- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 60)
+- [What did not harden](#what-did-not-harden) (No. 62)
+- [The weight no one lifted](#the-weight-no-one-lifted) (No. 67)
+- [A chair for the pain](#a-chair-for-the-pain) (No. 70)
+- [Not how much, but how](#not-how-much-but-how) (No. 73)
+- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 74)
+- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 76)
+- [Give the pain a chair](#give-the-pain-a-chair) (No. 77)
+- [The well still gives](#the-well-still-gives) (No. 81)
+- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 82)
+- [Let me wear the new day](#let-me-wear-the-new-day) (No. 85)
+- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 86)
+- [Unfamiliar ground](#unfamiliar-ground) (No. 88)
+- [The next step](#the-next-step) (No. 95)
+- [Stand in the new snow](#stand-in-the-new-snow) (No. 127)
+- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 128)
+- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 133)
+- [Still enough to hear it](#still-enough-to-hear-it) (No. 143)
+- [What your hands are for](#what-your-hands-are-for) (No. 144)
+- [Not everyone speaks it](#not-everyone-speaks-it) (No. 150)
+- [A chair set for you](#a-chair-set-for-you) (No. 152)
+- [Stand still and let them look](#stand-still-and-let-them-look) (No. 153)
+- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 159)
+- [You were built to feel](#you-were-built-to-feel) (No. 168)
+- [Winters that were never mine](#winters-that-were-never-mine) (No. 170)
+- [What made the difference](#what-made-the-difference) (No. 174)
+- [The way the earth turns](#the-way-the-earth-turns) (No. 190)
+- [What are tears](#what-are-tears) (No. 193)
 
 [Back to the index](#index)
 
 #### Grace & Self-Forgiveness
 
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
-- [Do not become the cold](#do-not-become-the-cold) (No. 17)
-- [After all of it](#after-all-of-it) (No. 38)
-- [Put the stones down](#put-the-stones-down) (No. 41)
-- [Put down the act](#put-down-the-act) (No. 60)
-- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 72)
-- [Give the pain a chair](#give-the-pain-a-chair) (No. 73)
-- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 74)
-- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 75)
-- [One day the ledger balances](#one-day-the-ledger-balances) (No. 76)
-- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 78)
-- [Patience at the forge](#patience-at-the-forge) (No. 86)
-- [Not starting over](#not-starting-over) (No. 88)
-- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 94)
-- [A seat at the table](#a-seat-at-the-table) (No. 95)
-- [You were never behind](#you-were-never-behind) (No. 96)
-- [Every man I have been](#every-man-i-have-been) (No. 98)
-- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 100)
-- [Have patience with yourself](#have-patience-with-yourself) (No. 101)
-- [Every phase carries light](#every-phase-carries-light) (No. 102)
-- [Grace for this body](#grace-for-this-body) (No. 103)
-- [The oak is not late](#the-oak-is-not-late) (No. 104)
-- [You would give any man time](#you-would-give-any-man-time) (No. 105)
-- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 106)
-- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 107)
-- [Forgive the man you were](#forgive-the-man-you-were) (No. 108)
-- [Grace for what survived](#grace-for-what-survived) (No. 109)
-- [A kinder foreman](#a-kinder-foreman) (No. 110)
-- [Not everything is a repair](#not-everything-is-a-repair) (No. 111)
-- [The same man walks out](#the-same-man-walks-out) (No. 112)
-- [Mercy runs forward](#mercy-runs-forward) (No. 113)
-- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 114)
-- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 115)
-- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 116)
-- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 117)
-- [He was working with less light](#he-was-working-with-less-light) (No. 118)
-- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 119)
-- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 120)
-- [They stood the watch](#they-stood-the-watch) (No. 121)
-- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 122)
-- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 141)
-- [The house you come home to](#the-house-you-come-home-to) (No. 151)
-- [It took becoming a father](#it-took-becoming-a-father) (No. 162)
-- [You were built to feel](#you-were-built-to-feel) (No. 164)
-- [Dearest Love](#dearest-love) (No. 194)
+- [Dearest Love](#dearest-love) (No. 17)
+- [Do not become the cold](#do-not-become-the-cold) (No. 21)
+- [After all of it](#after-all-of-it) (No. 42)
+- [Put the stones down](#put-the-stones-down) (No. 45)
+- [Put down the act](#put-down-the-act) (No. 64)
+- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 76)
+- [Give the pain a chair](#give-the-pain-a-chair) (No. 77)
+- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 78)
+- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 79)
+- [One day the ledger balances](#one-day-the-ledger-balances) (No. 80)
+- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 82)
+- [Patience at the forge](#patience-at-the-forge) (No. 90)
+- [Not starting over](#not-starting-over) (No. 92)
+- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 98)
+- [A seat at the table](#a-seat-at-the-table) (No. 99)
+- [You were never behind](#you-were-never-behind) (No. 100)
+- [Every man I have been](#every-man-i-have-been) (No. 102)
+- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 104)
+- [Have patience with yourself](#have-patience-with-yourself) (No. 105)
+- [Every phase carries light](#every-phase-carries-light) (No. 106)
+- [Grace for this body](#grace-for-this-body) (No. 107)
+- [The oak is not late](#the-oak-is-not-late) (No. 108)
+- [You would give any man time](#you-would-give-any-man-time) (No. 109)
+- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 110)
+- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 111)
+- [Forgive the man you were](#forgive-the-man-you-were) (No. 112)
+- [Grace for what survived](#grace-for-what-survived) (No. 113)
+- [A kinder foreman](#a-kinder-foreman) (No. 114)
+- [Not everything is a repair](#not-everything-is-a-repair) (No. 115)
+- [The same man walks out](#the-same-man-walks-out) (No. 116)
+- [Mercy runs forward](#mercy-runs-forward) (No. 117)
+- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 118)
+- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 119)
+- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 120)
+- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 121)
+- [He was working with less light](#he-was-working-with-less-light) (No. 122)
+- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 123)
+- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 124)
+- [They stood the watch](#they-stood-the-watch) (No. 125)
+- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 126)
+- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 145)
+- [The house you come home to](#the-house-you-come-home-to) (No. 155)
+- [It took becoming a father](#it-took-becoming-a-father) (No. 166)
+- [You were built to feel](#you-were-built-to-feel) (No. 168)
 
 [Back to the index](#index)
 
@@ -490,62 +482,63 @@ A poem may appear under more than one category. Each title links to the poem.
 - [The Floor](#the-floor) (No. 4)
 - [They Don't Kill You](#they-dont-kill-you) (No. 6)
 - [The Handle](#the-handle) (No. 12)
-- [Not to make you stronger](#not-to-make-you-stronger) (No. 62)
-- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 188)
-- [What are tears](#what-are-tears) (No. 189)
-- [Brothers](#brothers) (No. 192)
-- [Out of the Harbor](#out-of-the-harbor) (No. 193)
+- [Brothers](#brothers) (No. 15)
+- [Out of the Harbor](#out-of-the-harbor) (No. 16)
+- [Effigy](#effigy) (No. 18)
+- [Not to make you stronger](#not-to-make-you-stronger) (No. 66)
+- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 192)
+- [What are tears](#what-are-tears) (No. 193)
 
 [Back to the index](#index)
 
 #### Growth & Becoming
 
 - [Pilot Light](#pilot-light) (No. 11)
-- [Sowing in winter](#sowing-in-winter) (No. 18)
-- [Let the weather come](#let-the-weather-come) (No. 20)
-- [Set the bone first](#set-the-bone-first) (No. 59)
-- [The reason came after](#the-reason-came-after) (No. 61)
-- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 65)
-- [One day the ledger balances](#one-day-the-ledger-balances) (No. 76)
-- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 80)
-- [Let me wear the new day](#let-me-wear-the-new-day) (No. 81)
-- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 82)
-- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 83)
-- [Unfamiliar ground](#unfamiliar-ground) (No. 84)
-- [The field was never dead](#the-field-was-never-dead) (No. 85)
-- [Patience at the forge](#patience-at-the-forge) (No. 86)
-- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 87)
-- [Not starting over](#not-starting-over) (No. 88)
-- [The river keeps its name](#the-river-keeps-its-name) (No. 89)
-- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 90)
-- [The next step](#the-next-step) (No. 91)
-- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 92)
-- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 93)
-- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 94)
-- [A seat at the table](#a-seat-at-the-table) (No. 95)
-- [You were never behind](#you-were-never-behind) (No. 96)
-- [Eighty beats a second](#eighty-beats-a-second) (No. 97)
-- [Every man I have been](#every-man-i-have-been) (No. 98)
-- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 99)
-- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 100)
-- [Have patience with yourself](#have-patience-with-yourself) (No. 101)
-- [The oak is not late](#the-oak-is-not-late) (No. 104)
-- [You would give any man time](#you-would-give-any-man-time) (No. 105)
-- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 107)
-- [Forgive the man you were](#forgive-the-man-you-were) (No. 108)
-- [Mercy runs forward](#mercy-runs-forward) (No. 113)
-- [He was working with less light](#he-was-working-with-less-light) (No. 118)
-- [Roots go down in winter](#roots-go-down-in-winter) (No. 132)
-- [Alone was never the problem](#alone-was-never-the-problem) (No. 133)
-- [It took becoming a father](#it-took-becoming-a-father) (No. 162)
-- [Winters that were never mine](#winters-that-were-never-mine) (No. 166)
-- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 168)
-- [The man you would have been](#the-man-you-would-have-been) (No. 169)
-- [Not the distance](#not-the-distance) (No. 182)
-- [Ask what held](#ask-what-held) (No. 183)
-- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 184)
-- [Letters I have not opened](#letters-i-have-not-opened) (No. 187)
-- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 190)
+- [Sowing in winter](#sowing-in-winter) (No. 22)
+- [Let the weather come](#let-the-weather-come) (No. 24)
+- [Set the bone first](#set-the-bone-first) (No. 63)
+- [The reason came after](#the-reason-came-after) (No. 65)
+- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 69)
+- [One day the ledger balances](#one-day-the-ledger-balances) (No. 80)
+- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 84)
+- [Let me wear the new day](#let-me-wear-the-new-day) (No. 85)
+- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 86)
+- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 87)
+- [Unfamiliar ground](#unfamiliar-ground) (No. 88)
+- [The field was never dead](#the-field-was-never-dead) (No. 89)
+- [Patience at the forge](#patience-at-the-forge) (No. 90)
+- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 91)
+- [Not starting over](#not-starting-over) (No. 92)
+- [The river keeps its name](#the-river-keeps-its-name) (No. 93)
+- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 94)
+- [The next step](#the-next-step) (No. 95)
+- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 96)
+- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 97)
+- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 98)
+- [A seat at the table](#a-seat-at-the-table) (No. 99)
+- [You were never behind](#you-were-never-behind) (No. 100)
+- [Eighty beats a second](#eighty-beats-a-second) (No. 101)
+- [Every man I have been](#every-man-i-have-been) (No. 102)
+- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 103)
+- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 104)
+- [Have patience with yourself](#have-patience-with-yourself) (No. 105)
+- [The oak is not late](#the-oak-is-not-late) (No. 108)
+- [You would give any man time](#you-would-give-any-man-time) (No. 109)
+- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 111)
+- [Forgive the man you were](#forgive-the-man-you-were) (No. 112)
+- [Mercy runs forward](#mercy-runs-forward) (No. 117)
+- [He was working with less light](#he-was-working-with-less-light) (No. 122)
+- [Roots go down in winter](#roots-go-down-in-winter) (No. 136)
+- [Alone was never the problem](#alone-was-never-the-problem) (No. 137)
+- [It took becoming a father](#it-took-becoming-a-father) (No. 166)
+- [Winters that were never mine](#winters-that-were-never-mine) (No. 170)
+- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 172)
+- [The man you would have been](#the-man-you-would-have-been) (No. 173)
+- [Not the distance](#not-the-distance) (No. 186)
+- [Ask what held](#ask-what-held) (No. 187)
+- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 188)
+- [Letters I have not opened](#letters-i-have-not-opened) (No. 191)
+- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 194)
 
 [Back to the index](#index)
 
@@ -553,73 +546,73 @@ A poem may appear under more than one category. Each title links to the poem.
 
 - [Day One](#day-one) (No. 2)
 - [The Floor](#the-floor) (No. 4)
-- [Tempered, not hardened](#tempered-not-hardened) (No. 19)
-- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 21)
-- [Kindness after the blow](#kindness-after-the-blow) (No. 23)
-- [What the break did not take](#what-the-break-did-not-take) (No. 24)
-- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 32)
-- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 34)
-- [What survives rough hands](#what-survives-rough-hands) (No. 35)
-- [What it did not take](#what-it-did-not-take) (No. 36)
-- [Put the stones down](#put-the-stones-down) (No. 41)
-- [The measure was never hardness](#the-measure-was-never-hardness) (No. 43)
-- [Not how strong it made you](#not-how-strong-it-made-you) (No. 46)
-- [Look at you, still standing](#look-at-you-still-standing) (No. 47)
-- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 48)
-- [What held the wall](#what-held-the-wall) (No. 50)
-- [Only to keep turning](#only-to-keep-turning) (No. 53)
-- [Let the body do its part](#let-the-body-do-its-part) (No. 54)
-- [Let it move through](#let-it-move-through) (No. 55)
-- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 56)
-- [What the dark still holds](#what-the-dark-still-holds) (No. 57)
-- [What did not harden](#what-did-not-harden) (No. 58)
-- [Set the bone first](#set-the-bone-first) (No. 59)
-- [Put down the act](#put-down-the-act) (No. 60)
-- [The reason came after](#the-reason-came-after) (No. 61)
-- [Not to make you stronger](#not-to-make-you-stronger) (No. 62)
-- [The weight no one lifted](#the-weight-no-one-lifted) (No. 63)
-- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 64)
-- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 65)
-- [A chair for the pain](#a-chair-for-the-pain) (No. 66)
-- [You have not lost the light](#you-have-not-lost-the-light) (No. 67)
-- [A steady love will find you](#a-steady-love-will-find-you) (No. 68)
-- [Not how much, but how](#not-how-much-but-how) (No. 69)
-- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 70)
-- [Be home when it arrives](#be-home-when-it-arrives) (No. 71)
-- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 72)
-- [Give the pain a chair](#give-the-pain-a-chair) (No. 73)
-- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 74)
-- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 75)
-- [One day the ledger balances](#one-day-the-ledger-balances) (No. 76)
-- [The well still gives](#the-well-still-gives) (No. 77)
-- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 78)
-- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 79)
-- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 90)
-- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 92)
-- [A seat at the table](#a-seat-at-the-table) (No. 95)
-- [Grace for this body](#grace-for-this-body) (No. 103)
-- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 106)
-- [Grace for what survived](#grace-for-what-survived) (No. 109)
-- [A kinder foreman](#a-kinder-foreman) (No. 110)
-- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 114)
-- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 115)
-- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 119)
-- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 120)
-- [They stood the watch](#they-stood-the-watch) (No. 121)
-- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 126)
-- [Rest is not the pause](#rest-is-not-the-pause) (No. 128)
-- [In the lean months](#in-the-lean-months) (No. 135)
-- [Leave the window open](#leave-the-window-open) (No. 137)
-- [Keep the window open](#keep-the-window-open) (No. 138)
-- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 150)
-- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 163)
-- [The man you would have been](#the-man-you-would-have-been) (No. 169)
-- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 174)
-- [Come back out](#come-back-out) (No. 176)
-- [No one saw the climb](#no-one-saw-the-climb) (No. 181)
-- [The way the earth turns](#the-way-the-earth-turns) (No. 186)
-- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 188)
-- [Where my feet are](#where-my-feet-are) (No. 191)
+- [Tempered, not hardened](#tempered-not-hardened) (No. 23)
+- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 25)
+- [Kindness after the blow](#kindness-after-the-blow) (No. 27)
+- [What the break did not take](#what-the-break-did-not-take) (No. 28)
+- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 36)
+- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 38)
+- [What survives rough hands](#what-survives-rough-hands) (No. 39)
+- [What it did not take](#what-it-did-not-take) (No. 40)
+- [Put the stones down](#put-the-stones-down) (No. 45)
+- [The measure was never hardness](#the-measure-was-never-hardness) (No. 47)
+- [Not how strong it made you](#not-how-strong-it-made-you) (No. 50)
+- [Look at you, still standing](#look-at-you-still-standing) (No. 51)
+- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 52)
+- [What held the wall](#what-held-the-wall) (No. 54)
+- [Only to keep turning](#only-to-keep-turning) (No. 57)
+- [Let the body do its part](#let-the-body-do-its-part) (No. 58)
+- [Let it move through](#let-it-move-through) (No. 59)
+- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 60)
+- [What the dark still holds](#what-the-dark-still-holds) (No. 61)
+- [What did not harden](#what-did-not-harden) (No. 62)
+- [Set the bone first](#set-the-bone-first) (No. 63)
+- [Put down the act](#put-down-the-act) (No. 64)
+- [The reason came after](#the-reason-came-after) (No. 65)
+- [Not to make you stronger](#not-to-make-you-stronger) (No. 66)
+- [The weight no one lifted](#the-weight-no-one-lifted) (No. 67)
+- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 68)
+- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 69)
+- [A chair for the pain](#a-chair-for-the-pain) (No. 70)
+- [You have not lost the light](#you-have-not-lost-the-light) (No. 71)
+- [A steady love will find you](#a-steady-love-will-find-you) (No. 72)
+- [Not how much, but how](#not-how-much-but-how) (No. 73)
+- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 74)
+- [Be home when it arrives](#be-home-when-it-arrives) (No. 75)
+- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 76)
+- [Give the pain a chair](#give-the-pain-a-chair) (No. 77)
+- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 78)
+- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 79)
+- [One day the ledger balances](#one-day-the-ledger-balances) (No. 80)
+- [The well still gives](#the-well-still-gives) (No. 81)
+- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 82)
+- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 83)
+- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 94)
+- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 96)
+- [A seat at the table](#a-seat-at-the-table) (No. 99)
+- [Grace for this body](#grace-for-this-body) (No. 107)
+- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 110)
+- [Grace for what survived](#grace-for-what-survived) (No. 113)
+- [A kinder foreman](#a-kinder-foreman) (No. 114)
+- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 118)
+- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 119)
+- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 123)
+- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 124)
+- [They stood the watch](#they-stood-the-watch) (No. 125)
+- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 130)
+- [Rest is not the pause](#rest-is-not-the-pause) (No. 132)
+- [In the lean months](#in-the-lean-months) (No. 139)
+- [Leave the window open](#leave-the-window-open) (No. 141)
+- [Keep the window open](#keep-the-window-open) (No. 142)
+- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 154)
+- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 167)
+- [The man you would have been](#the-man-you-would-have-been) (No. 173)
+- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 178)
+- [Come back out](#come-back-out) (No. 180)
+- [No one saw the climb](#no-one-saw-the-climb) (No. 185)
+- [The way the earth turns](#the-way-the-earth-turns) (No. 190)
+- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 192)
+- [Where my feet are](#where-my-feet-are) (No. 195)
 
 [Back to the index](#index)
 
@@ -628,401 +621,402 @@ A poem may appear under more than one category. Each title links to the poem.
 - [The Undertow of Grace](#the-undertow-of-grace) (No. 1)
 - [The Twenty-Mile Rule](#the-twenty-mile-rule) (No. 5)
 - [Load-Bearing](#load-bearing) (No. 14)
-- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 16)
-- [The door left unbarred](#the-door-left-unbarred) (No. 22)
-- [Kindness after the blow](#kindness-after-the-blow) (No. 23)
-- [No apology for the shade](#no-apology-for-the-shade) (No. 25)
-- [What the blow did not take](#what-the-blow-did-not-take) (No. 26)
-- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 29)
-- [Gentleness is a decision](#gentleness-is-a-decision) (No. 30)
-- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 31)
-- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 33)
-- [The strongest kind of man](#the-strongest-kind-of-man) (No. 39)
-- [The measure was never hardness](#the-measure-was-never-hardness) (No. 43)
-- [The bravest thing you did](#the-bravest-thing-you-did) (No. 45)
-- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 49)
-- [The strength it took](#the-strength-it-took) (No. 51)
-- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 52)
-- [Put down the act](#put-down-the-act) (No. 60)
-- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 79)
-- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 80)
-- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 120)
-- [Worthy of its return](#worthy-of-its-return) (No. 143)
-- [Nothing left to prove](#nothing-left-to-prove) (No. 147)
-- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 152)
-- [Before anyone is awake](#before-anyone-is-awake) (No. 153)
-- [What I carry there](#what-i-carry-there) (No. 157)
-- [Only what is yours](#only-what-is-yours) (No. 171)
-- [No one saw the climb](#no-one-saw-the-climb) (No. 181)
-- [Not the distance](#not-the-distance) (No. 182)
-- [Ask what held](#ask-what-held) (No. 183)
-- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 184)
+- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 20)
+- [The door left unbarred](#the-door-left-unbarred) (No. 26)
+- [Kindness after the blow](#kindness-after-the-blow) (No. 27)
+- [No apology for the shade](#no-apology-for-the-shade) (No. 29)
+- [What the blow did not take](#what-the-blow-did-not-take) (No. 30)
+- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 33)
+- [Gentleness is a decision](#gentleness-is-a-decision) (No. 34)
+- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 35)
+- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 37)
+- [The strongest kind of man](#the-strongest-kind-of-man) (No. 43)
+- [The measure was never hardness](#the-measure-was-never-hardness) (No. 47)
+- [The bravest thing you did](#the-bravest-thing-you-did) (No. 49)
+- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 53)
+- [The strength it took](#the-strength-it-took) (No. 55)
+- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 56)
+- [Put down the act](#put-down-the-act) (No. 64)
+- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 83)
+- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 84)
+- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 124)
+- [Worthy of its return](#worthy-of-its-return) (No. 147)
+- [Nothing left to prove](#nothing-left-to-prove) (No. 151)
+- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 156)
+- [Before anyone is awake](#before-anyone-is-awake) (No. 157)
+- [What I carry there](#what-i-carry-there) (No. 161)
+- [Only what is yours](#only-what-is-yours) (No. 175)
+- [No one saw the climb](#no-one-saw-the-climb) (No. 185)
+- [Not the distance](#not-the-distance) (No. 186)
+- [Ask what held](#ask-what-held) (No. 187)
+- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 188)
 
 [Back to the index](#index)
 
 #### Letting Go
 
-- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 94)
-- [Not everything is a repair](#not-everything-is-a-repair) (No. 111)
-- [The same man walks out](#the-same-man-walks-out) (No. 112)
-- [Peace is not a grip](#peace-is-not-a-grip) (No. 130)
-- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 159)
-- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 160)
-- [Winters that were never mine](#winters-that-were-never-mine) (No. 166)
-- [Winters that were never yours](#winters-that-were-never-yours) (No. 167)
-- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 168)
-- [The man you would have been](#the-man-you-would-have-been) (No. 169)
-- [What made the difference](#what-made-the-difference) (No. 170)
-- [Only what is yours](#only-what-is-yours) (No. 171)
-- [What May taught me](#what-may-taught-me) (No. 172)
-- [Set down what was never yours](#set-down-what-was-never-yours) (No. 173)
-- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 174)
-- [A note for the new month](#a-note-for-the-new-month) (No. 175)
+- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 98)
+- [Not everything is a repair](#not-everything-is-a-repair) (No. 115)
+- [The same man walks out](#the-same-man-walks-out) (No. 116)
+- [Peace is not a grip](#peace-is-not-a-grip) (No. 134)
+- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 163)
+- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 164)
+- [Winters that were never mine](#winters-that-were-never-mine) (No. 170)
+- [Winters that were never yours](#winters-that-were-never-yours) (No. 171)
+- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 172)
+- [The man you would have been](#the-man-you-would-have-been) (No. 173)
+- [What made the difference](#what-made-the-difference) (No. 174)
+- [Only what is yours](#only-what-is-yours) (No. 175)
+- [What May taught me](#what-may-taught-me) (No. 176)
+- [Set down what was never yours](#set-down-what-was-never-yours) (No. 177)
+- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 178)
+- [A note for the new month](#a-note-for-the-new-month) (No. 179)
 
 [Back to the index](#index)
 
 #### Nature as Teacher
 
-- [Do not become the cold](#do-not-become-the-cold) (No. 17)
-- [Let the weather come](#let-the-weather-come) (No. 20)
-- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 21)
-- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 34)
-- [What survives rough hands](#what-survives-rough-hands) (No. 35)
-- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 40)
-- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 42)
-- [Let it move through](#let-it-move-through) (No. 55)
-- [What the dark still holds](#what-the-dark-still-holds) (No. 57)
-- [Not to make you stronger](#not-to-make-you-stronger) (No. 62)
-- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 64)
-- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 65)
-- [You have not lost the light](#you-have-not-lost-the-light) (No. 67)
-- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 75)
-- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 83)
-- [The field was never dead](#the-field-was-never-dead) (No. 85)
-- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 87)
-- [The river keeps its name](#the-river-keeps-its-name) (No. 89)
-- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 93)
-- [Eighty beats a second](#eighty-beats-a-second) (No. 97)
-- [Every phase carries light](#every-phase-carries-light) (No. 102)
-- [The oak is not late](#the-oak-is-not-late) (No. 104)
-- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 106)
-- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 116)
-- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 122)
-- [Stand in the new snow](#stand-in-the-new-snow) (No. 123)
-- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 127)
-- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 131)
-- [Roots go down in winter](#roots-go-down-in-winter) (No. 132)
-- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 134)
-- [In the lean months](#in-the-lean-months) (No. 135)
-- [Still enough to hear it](#still-enough-to-hear-it) (No. 139)
-- [What your hands are for](#what-your-hands-are-for) (No. 140)
-- [I want the composure of September](#i-want-the-composure-of-september) (No. 142)
-- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 144)
-- [Go stand in the sun](#go-stand-in-the-sun) (No. 145)
-- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 152)
-- [Before anyone is awake](#before-anyone-is-awake) (No. 153)
-- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 154)
-- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 163)
-- [Stone fruit season](#stone-fruit-season) (No. 165)
-- [What May taught me](#what-may-taught-me) (No. 172)
-- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 174)
-- [A note for the new month](#a-note-for-the-new-month) (No. 175)
-- [Come back out](#come-back-out) (No. 176)
-- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 185)
-- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 190)
-- [Where my feet are](#where-my-feet-are) (No. 191)
+- [Do not become the cold](#do-not-become-the-cold) (No. 21)
+- [Let the weather come](#let-the-weather-come) (No. 24)
+- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 25)
+- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 38)
+- [What survives rough hands](#what-survives-rough-hands) (No. 39)
+- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 44)
+- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 46)
+- [Let it move through](#let-it-move-through) (No. 59)
+- [What the dark still holds](#what-the-dark-still-holds) (No. 61)
+- [Not to make you stronger](#not-to-make-you-stronger) (No. 66)
+- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 68)
+- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 69)
+- [You have not lost the light](#you-have-not-lost-the-light) (No. 71)
+- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 79)
+- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 87)
+- [The field was never dead](#the-field-was-never-dead) (No. 89)
+- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 91)
+- [The river keeps its name](#the-river-keeps-its-name) (No. 93)
+- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 97)
+- [Eighty beats a second](#eighty-beats-a-second) (No. 101)
+- [Every phase carries light](#every-phase-carries-light) (No. 106)
+- [The oak is not late](#the-oak-is-not-late) (No. 108)
+- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 110)
+- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 120)
+- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 126)
+- [Stand in the new snow](#stand-in-the-new-snow) (No. 127)
+- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 131)
+- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 135)
+- [Roots go down in winter](#roots-go-down-in-winter) (No. 136)
+- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 138)
+- [In the lean months](#in-the-lean-months) (No. 139)
+- [Still enough to hear it](#still-enough-to-hear-it) (No. 143)
+- [What your hands are for](#what-your-hands-are-for) (No. 144)
+- [I want the composure of September](#i-want-the-composure-of-september) (No. 146)
+- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 148)
+- [Go stand in the sun](#go-stand-in-the-sun) (No. 149)
+- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 156)
+- [Before anyone is awake](#before-anyone-is-awake) (No. 157)
+- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 158)
+- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 167)
+- [Stone fruit season](#stone-fruit-season) (No. 169)
+- [What May taught me](#what-may-taught-me) (No. 176)
+- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 178)
+- [A note for the new month](#a-note-for-the-new-month) (No. 179)
+- [Come back out](#come-back-out) (No. 180)
+- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 189)
+- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 194)
+- [Where my feet are](#where-my-feet-are) (No. 195)
 
 [Back to the index](#index)
 
 #### Rest & Stillness
 
 - [The Strip of Light](#the-strip-of-light) (No. 7)
-- [Set the bone first](#set-the-bone-first) (No. 59)
-- [Be home when it arrives](#be-home-when-it-arrives) (No. 71)
-- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 83)
-- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 87)
-- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 93)
-- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 117)
-- [Stand in the new snow](#stand-in-the-new-snow) (No. 123)
-- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 124)
-- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 125)
-- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 126)
-- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 127)
-- [Rest is not the pause](#rest-is-not-the-pause) (No. 128)
-- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 129)
-- [Peace is not a grip](#peace-is-not-a-grip) (No. 130)
-- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 131)
-- [Roots go down in winter](#roots-go-down-in-winter) (No. 132)
-- [Alone was never the problem](#alone-was-never-the-problem) (No. 133)
-- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 134)
-- [In the lean months](#in-the-lean-months) (No. 135)
-- [Dear June, remind me](#dear-june-remind-me) (No. 136)
-- [Leave the window open](#leave-the-window-open) (No. 137)
-- [Keep the window open](#keep-the-window-open) (No. 138)
-- [Still enough to hear it](#still-enough-to-hear-it) (No. 139)
-- [What your hands are for](#what-your-hands-are-for) (No. 140)
-- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 141)
-- [I want the composure of September](#i-want-the-composure-of-september) (No. 142)
-- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 144)
-- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 150)
-- [The house you come home to](#the-house-you-come-home-to) (No. 151)
-- [Set down what was never yours](#set-down-what-was-never-yours) (No. 173)
-- [Dear summer, remind me](#dear-summer-remind-me) (No. 177)
-- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 179)
-- [Dear August, be patient](#dear-august-be-patient) (No. 180)
-- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 190)
+- [Set the bone first](#set-the-bone-first) (No. 63)
+- [Be home when it arrives](#be-home-when-it-arrives) (No. 75)
+- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 87)
+- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 91)
+- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 97)
+- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 121)
+- [Stand in the new snow](#stand-in-the-new-snow) (No. 127)
+- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 128)
+- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 129)
+- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 130)
+- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 131)
+- [Rest is not the pause](#rest-is-not-the-pause) (No. 132)
+- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 133)
+- [Peace is not a grip](#peace-is-not-a-grip) (No. 134)
+- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 135)
+- [Roots go down in winter](#roots-go-down-in-winter) (No. 136)
+- [Alone was never the problem](#alone-was-never-the-problem) (No. 137)
+- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 138)
+- [In the lean months](#in-the-lean-months) (No. 139)
+- [Dear June, remind me](#dear-june-remind-me) (No. 140)
+- [Leave the window open](#leave-the-window-open) (No. 141)
+- [Keep the window open](#keep-the-window-open) (No. 142)
+- [Still enough to hear it](#still-enough-to-hear-it) (No. 143)
+- [What your hands are for](#what-your-hands-are-for) (No. 144)
+- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 145)
+- [I want the composure of September](#i-want-the-composure-of-september) (No. 146)
+- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 148)
+- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 154)
+- [The house you come home to](#the-house-you-come-home-to) (No. 155)
+- [Set down what was never yours](#set-down-what-was-never-yours) (No. 177)
+- [Dear summer, remind me](#dear-summer-remind-me) (No. 181)
+- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 183)
+- [Dear August, be patient](#dear-august-be-patient) (No. 184)
+- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 194)
 
 [Back to the index](#index)
 
 #### Seasons & Letters
 
-- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 64)
-- [A steady love will find you](#a-steady-love-will-find-you) (No. 68)
-- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 80)
-- [The field was never dead](#the-field-was-never-dead) (No. 85)
-- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 127)
-- [Dear June, remind me](#dear-june-remind-me) (No. 136)
-- [I want the composure of September](#i-want-the-composure-of-september) (No. 142)
-- [Stone fruit season](#stone-fruit-season) (No. 165)
-- [Winters that were never yours](#winters-that-were-never-yours) (No. 167)
-- [What May taught me](#what-may-taught-me) (No. 172)
-- [A note for the new month](#a-note-for-the-new-month) (No. 175)
-- [Come back out](#come-back-out) (No. 176)
-- [Dear summer, remind me](#dear-summer-remind-me) (No. 177)
-- [Dear July, the long light](#dear-july-the-long-light) (No. 178)
-- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 179)
-- [Dear August, be patient](#dear-august-be-patient) (No. 180)
+- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 68)
+- [A steady love will find you](#a-steady-love-will-find-you) (No. 72)
+- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 84)
+- [The field was never dead](#the-field-was-never-dead) (No. 89)
+- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 131)
+- [Dear June, remind me](#dear-june-remind-me) (No. 140)
+- [I want the composure of September](#i-want-the-composure-of-september) (No. 146)
+- [Stone fruit season](#stone-fruit-season) (No. 169)
+- [Winters that were never yours](#winters-that-were-never-yours) (No. 171)
+- [What May taught me](#what-may-taught-me) (No. 176)
+- [A note for the new month](#a-note-for-the-new-month) (No. 179)
+- [Come back out](#come-back-out) (No. 180)
+- [Dear summer, remind me](#dear-summer-remind-me) (No. 181)
+- [Dear July, the long light](#dear-july-the-long-light) (No. 182)
+- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 183)
+- [Dear August, be patient](#dear-august-be-patient) (No. 184)
 
 [Back to the index](#index)
 
 #### Worth & Belonging
 
 - [The Door Opens Outward](#the-door-opens-outward) (No. 8)
-- [The river does not apologize](#the-river-does-not-apologize) (No. 15)
-- [No apology for the shade](#no-apology-for-the-shade) (No. 25)
-- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 27)
-- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 28)
-- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 32)
-- [If the door still opens](#if-the-door-still-opens) (No. 44)
-- [You have not lost the light](#you-have-not-lost-the-light) (No. 67)
-- [A steady love will find you](#a-steady-love-will-find-you) (No. 68)
-- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 129)
-- [Alone was never the problem](#alone-was-never-the-problem) (No. 133)
-- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 141)
-- [Worthy of its return](#worthy-of-its-return) (No. 143)
-- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 144)
-- [Go stand in the sun](#go-stand-in-the-sun) (No. 145)
-- [Not everyone speaks it](#not-everyone-speaks-it) (No. 146)
-- [Nothing left to prove](#nothing-left-to-prove) (No. 147)
-- [A chair set for you](#a-chair-set-for-you) (No. 148)
-- [Stand still and let them look](#stand-still-and-let-them-look) (No. 149)
-- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 150)
-- [The house you come home to](#the-house-you-come-home-to) (No. 151)
-- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 152)
-- [Before anyone is awake](#before-anyone-is-awake) (No. 153)
-- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 154)
-- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 155)
-- [Dear July, the long light](#dear-july-the-long-light) (No. 178)
-- [No one saw the climb](#no-one-saw-the-climb) (No. 181)
+- [The river does not apologize](#the-river-does-not-apologize) (No. 19)
+- [No apology for the shade](#no-apology-for-the-shade) (No. 29)
+- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 31)
+- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 32)
+- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 36)
+- [If the door still opens](#if-the-door-still-opens) (No. 48)
+- [You have not lost the light](#you-have-not-lost-the-light) (No. 71)
+- [A steady love will find you](#a-steady-love-will-find-you) (No. 72)
+- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 133)
+- [Alone was never the problem](#alone-was-never-the-problem) (No. 137)
+- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 145)
+- [Worthy of its return](#worthy-of-its-return) (No. 147)
+- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 148)
+- [Go stand in the sun](#go-stand-in-the-sun) (No. 149)
+- [Not everyone speaks it](#not-everyone-speaks-it) (No. 150)
+- [Nothing left to prove](#nothing-left-to-prove) (No. 151)
+- [A chair set for you](#a-chair-set-for-you) (No. 152)
+- [Stand still and let them look](#stand-still-and-let-them-look) (No. 153)
+- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 154)
+- [The house you come home to](#the-house-you-come-home-to) (No. 155)
+- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 156)
+- [Before anyone is awake](#before-anyone-is-awake) (No. 157)
+- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 158)
+- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 159)
+- [Dear July, the long light](#dear-july-the-long-light) (No. 182)
+- [No one saw the climb](#no-one-saw-the-climb) (No. 185)
 
 [Back to the index](#index)
 
 ### Titles A to Z
 
-- [A chair for the pain](#a-chair-for-the-pain) (No. 66)
-- [A chair set for you](#a-chair-set-for-you) (No. 148)
-- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 49)
-- [A kinder foreman](#a-kinder-foreman) (No. 110)
-- [A note for the new month](#a-note-for-the-new-month) (No. 175)
-- [A seat at the table](#a-seat-at-the-table) (No. 95)
-- [A steady love will find you](#a-steady-love-will-find-you) (No. 68)
-- [After all of it](#after-all-of-it) (No. 38)
-- [Alone was never the problem](#alone-was-never-the-problem) (No. 133)
-- [Ask what held](#ask-what-held) (No. 183)
-- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 82)
-- [Be home when it arrives](#be-home-when-it-arrives) (No. 71)
-- [Before anyone is awake](#before-anyone-is-awake) (No. 153)
-- [Brothers](#brothers) (No. 192)
-- [Come back out](#come-back-out) (No. 176)
-- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 65)
+- [A chair for the pain](#a-chair-for-the-pain) (No. 70)
+- [A chair set for you](#a-chair-set-for-you) (No. 152)
+- [A gentle man was not spared](#a-gentle-man-was-not-spared) (No. 53)
+- [A kinder foreman](#a-kinder-foreman) (No. 114)
+- [A note for the new month](#a-note-for-the-new-month) (No. 179)
+- [A seat at the table](#a-seat-at-the-table) (No. 99)
+- [A steady love will find you](#a-steady-love-will-find-you) (No. 72)
+- [After all of it](#after-all-of-it) (No. 42)
+- [Alone was never the problem](#alone-was-never-the-problem) (No. 137)
+- [Ask what held](#ask-what-held) (No. 187)
+- [Ask what the fear is made of](#ask-what-the-fear-is-made-of) (No. 86)
+- [Be home when it arrives](#be-home-when-it-arrives) (No. 75)
+- [Before anyone is awake](#before-anyone-is-awake) (No. 157)
+- [Brothers](#brothers) (No. 15)
+- [Come back out](#come-back-out) (No. 180)
+- [Count the harvest, not the rain](#count-the-harvest-not-the-rain) (No. 69)
 - [Day One](#day-one) (No. 2)
-- [Dear August, be patient](#dear-august-be-patient) (No. 180)
-- [Dear July, the long light](#dear-july-the-long-light) (No. 178)
-- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 179)
-- [Dear June, remind me](#dear-june-remind-me) (No. 136)
-- [Dear summer, remind me](#dear-summer-remind-me) (No. 177)
-- [Dearest Love](#dearest-love) (No. 194)
-- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 31)
-- [Do not become the cold](#do-not-become-the-cold) (No. 17)
-- [Eighty beats a second](#eighty-beats-a-second) (No. 97)
-- [Every man I have been](#every-man-i-have-been) (No. 98)
-- [Every phase carries light](#every-phase-carries-light) (No. 102)
-- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 28)
-- [Forgive the man you were](#forgive-the-man-you-were) (No. 108)
-- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 116)
+- [Dear August, be patient](#dear-august-be-patient) (No. 184)
+- [Dear July, the long light](#dear-july-the-long-light) (No. 182)
+- [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 183)
+- [Dear June, remind me](#dear-june-remind-me) (No. 140)
+- [Dear summer, remind me](#dear-summer-remind-me) (No. 181)
+- [Dearest Love](#dearest-love) (No. 17)
+- [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 35)
+- [Do not become the cold](#do-not-become-the-cold) (No. 21)
+- [Effigy](#effigy) (No. 18)
+- [Eighty beats a second](#eighty-beats-a-second) (No. 101)
+- [Every man I have been](#every-man-i-have-been) (No. 102)
+- [Every phase carries light](#every-phase-carries-light) (No. 106)
+- [Feeling deeply is not the flaw](#feeling-deeply-is-not-the-flaw) (No. 32)
+- [Forgive the man you were](#forgive-the-man-you-were) (No. 112)
+- [Forgive yourself the storms](#forgive-yourself-the-storms) (No. 120)
 - [Four Leashes](#four-leashes) (No. 9)
-- [Gentleness is a decision](#gentleness-is-a-decision) (No. 30)
-- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 129)
-- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 42)
-- [Give the pain a chair](#give-the-pain-a-chair) (No. 73)
-- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 134)
-- [Go stand in the sun](#go-stand-in-the-sun) (No. 145)
+- [Gentleness is a decision](#gentleness-is-a-decision) (No. 34)
+- [Gentleness is enough of a goal](#gentleness-is-enough-of-a-goal) (No. 133)
+- [Gentleness is not weakness](#gentleness-is-not-weakness) (No. 46)
+- [Give the pain a chair](#give-the-pain-a-chair) (No. 77)
+- [Give yourself leave to rest](#give-yourself-leave-to-rest) (No. 138)
+- [Go stand in the sun](#go-stand-in-the-sun) (No. 149)
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
-- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 117)
-- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 114)
-- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 119)
-- [Grace for this body](#grace-for-this-body) (No. 103)
-- [Grace for what survived](#grace-for-what-survived) (No. 109)
-- [Have patience with yourself](#have-patience-with-yourself) (No. 101)
+- [Grace for the body that carries me](#grace-for-the-body-that-carries-me) (No. 121)
+- [Grace for the man who got through](#grace-for-the-man-who-got-through) (No. 118)
+- [Grace for the parts that survived](#grace-for-the-parts-that-survived) (No. 123)
+- [Grace for this body](#grace-for-this-body) (No. 107)
+- [Grace for what survived](#grace-for-what-survived) (No. 113)
+- [Have patience with yourself](#have-patience-with-yourself) (No. 105)
 - [Have You Eaten?](#have-you-eaten) (No. 3)
-- [He was working with less light](#he-was-working-with-less-light) (No. 118)
-- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 70)
-- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 56)
-- [Hope is a discipline](#hope-is-a-discipline) (No. 37)
-- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 75)
-- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 161)
-- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 80)
-- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 79)
-- [I want the composure of September](#i-want-the-composure-of-september) (No. 142)
-- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 122)
-- [If the door still opens](#if-the-door-still-opens) (No. 44)
-- [In the lean months](#in-the-lean-months) (No. 135)
-- [It took becoming a father](#it-took-becoming-a-father) (No. 162)
-- [Keep the window open](#keep-the-window-open) (No. 138)
-- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 21)
-- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 52)
-- [Kindness after the blow](#kindness-after-the-blow) (No. 23)
-- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 156)
-- [Leave the window open](#leave-the-window-open) (No. 137)
-- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 40)
-- [Let it move through](#let-it-move-through) (No. 55)
-- [Let me wear the new day](#let-me-wear-the-new-day) (No. 81)
-- [Let the body do its part](#let-the-body-do-its-part) (No. 54)
-- [Let the weather come](#let-the-weather-come) (No. 20)
-- [Letters I have not opened](#letters-i-have-not-opened) (No. 187)
+- [He was working with less light](#he-was-working-with-less-light) (No. 122)
+- [Healing does not remove the weight](#healing-does-not-remove-the-weight) (No. 74)
+- [Healing is not the pain leaving](#healing-is-not-the-pain-leaving) (No. 60)
+- [Hope is a discipline](#hope-is-a-discipline) (No. 41)
+- [How the orchard forgives the frost](#how-the-orchard-forgives-the-frost) (No. 79)
+- [I keep saying I will make time for prayer](#i-keep-saying-i-will-make-time-for-prayer) (No. 165)
+- [I once thought winter was a boy like me](#i-once-thought-winter-was-a-boy-like-me) (No. 84)
+- [I told my heart to keep going](#i-told-my-heart-to-keep-going) (No. 83)
+- [I want the composure of September](#i-want-the-composure-of-september) (No. 146)
+- [I watched the dawn come down](#i-watched-the-dawn-come-down) (No. 126)
+- [If the door still opens](#if-the-door-still-opens) (No. 48)
+- [In the lean months](#in-the-lean-months) (No. 139)
+- [It took becoming a father](#it-took-becoming-a-father) (No. 166)
+- [Keep the window open](#keep-the-window-open) (No. 142)
+- [Keep what they could not hold](#keep-what-they-could-not-hold) (No. 25)
+- [Keep your heart from hardening](#keep-your-heart-from-hardening) (No. 56)
+- [Kindness after the blow](#kindness-after-the-blow) (No. 27)
+- [Kneeling is its own prayer](#kneeling-is-its-own-prayer) (No. 160)
+- [Leave the window open](#leave-the-window-open) (No. 141)
+- [Let it begin with your hands](#let-it-begin-with-your-hands) (No. 44)
+- [Let it move through](#let-it-move-through) (No. 59)
+- [Let me wear the new day](#let-me-wear-the-new-day) (No. 85)
+- [Let the body do its part](#let-the-body-do-its-part) (No. 58)
+- [Let the weather come](#let-the-weather-come) (No. 24)
+- [Letters I have not opened](#letters-i-have-not-opened) (No. 191)
 - [Load-Bearing](#load-bearing) (No. 14)
-- [Look at you, still standing](#look-at-you-still-standing) (No. 47)
-- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 141)
-- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 155)
-- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 115)
-- [Mercy runs forward](#mercy-runs-forward) (No. 113)
-- [No apology for the shade](#no-apology-for-the-shade) (No. 25)
-- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 87)
-- [No one saw the climb](#no-one-saw-the-climb) (No. 181)
-- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 160)
-- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 126)
-- [Not everyone speaks it](#not-everyone-speaks-it) (No. 146)
-- [Not everything is a repair](#not-everything-is-a-repair) (No. 111)
-- [Not how much, but how](#not-how-much-but-how) (No. 69)
-- [Not how strong it made you](#not-how-strong-it-made-you) (No. 46)
-- [Not starting over](#not-starting-over) (No. 88)
-- [Not the distance](#not-the-distance) (No. 182)
-- [Not to make you stronger](#not-to-make-you-stronger) (No. 62)
-- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 159)
-- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 152)
-- [Nothing left to prove](#nothing-left-to-prove) (No. 147)
-- [One day the ledger balances](#one-day-the-ledger-balances) (No. 76)
-- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 100)
-- [Only to keep turning](#only-to-keep-turning) (No. 53)
-- [Only what is yours](#only-what-is-yours) (No. 171)
-- [Out of the Harbor](#out-of-the-harbor) (No. 193)
-- [Patience at the forge](#patience-at-the-forge) (No. 86)
-- [Peace is not a grip](#peace-is-not-a-grip) (No. 130)
-- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 124)
+- [Look at you, still standing](#look-at-you-still-standing) (No. 51)
+- [Make no apology for the rest](#make-no-apology-for-the-rest) (No. 145)
+- [May you never cut yourself down to size](#may-you-never-cut-yourself-down-to-size) (No. 159)
+- [Mercy for the parts that survived](#mercy-for-the-parts-that-survived) (No. 119)
+- [Mercy runs forward](#mercy-runs-forward) (No. 117)
+- [No apology for the shade](#no-apology-for-the-shade) (No. 29)
+- [No one calls the wheat slow](#no-one-calls-the-wheat-slow) (No. 91)
+- [No one saw the climb](#no-one-saw-the-climb) (No. 185)
+- [No one told me about the arms](#no-one-told-me-about-the-arms) (No. 164)
+- [Not every storm is yours to face](#not-every-storm-is-yours-to-face) (No. 130)
+- [Not everyone speaks it](#not-everyone-speaks-it) (No. 150)
+- [Not everything is a repair](#not-everything-is-a-repair) (No. 115)
+- [Not how much, but how](#not-how-much-but-how) (No. 73)
+- [Not how strong it made you](#not-how-strong-it-made-you) (No. 50)
+- [Not starting over](#not-starting-over) (No. 92)
+- [Not the distance](#not-the-distance) (No. 186)
+- [Not to make you stronger](#not-to-make-you-stronger) (No. 66)
+- [Nothing gets done with you here](#nothing-gets-done-with-you-here) (No. 163)
+- [Nothing in the field withholds](#nothing-in-the-field-withholds) (No. 156)
+- [Nothing left to prove](#nothing-left-to-prove) (No. 151)
+- [One day the ledger balances](#one-day-the-ledger-balances) (No. 80)
+- [One day you will see it plainly](#one-day-you-will-see-it-plainly) (No. 104)
+- [Only to keep turning](#only-to-keep-turning) (No. 57)
+- [Only what is yours](#only-what-is-yours) (No. 175)
+- [Out of the Harbor](#out-of-the-harbor) (No. 16)
+- [Patience at the forge](#patience-at-the-forge) (No. 90)
+- [Peace is not a grip](#peace-is-not-a-grip) (No. 134)
+- [Peace is not a windless sky](#peace-is-not-a-windless-sky) (No. 128)
 - [Pilot Light](#pilot-light) (No. 11)
-- [Put down the act](#put-down-the-act) (No. 60)
-- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 131)
-- [Put the stones down](#put-the-stones-down) (No. 41)
-- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 93)
-- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 125)
-- [Rest is not the pause](#rest-is-not-the-pause) (No. 128)
-- [Roots go down in winter](#roots-go-down-in-winter) (No. 132)
-- [Set down what was never yours](#set-down-what-was-never-yours) (No. 173)
-- [Set the bone first](#set-the-bone-first) (No. 59)
-- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 94)
-- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 74)
-- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 150)
-- [Sowing in winter](#sowing-in-winter) (No. 18)
-- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 64)
-- [Stand in the new snow](#stand-in-the-new-snow) (No. 123)
-- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 107)
-- [Stand still and let them look](#stand-still-and-let-them-look) (No. 149)
-- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 92)
-- [Still enough to hear it](#still-enough-to-hear-it) (No. 139)
-- [Stone fruit season](#stone-fruit-season) (No. 165)
-- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 29)
-- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 158)
-- [Tempered, not hardened](#tempered-not-hardened) (No. 19)
-- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 120)
-- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 83)
-- [The bravest thing you did](#the-bravest-thing-you-did) (No. 45)
-- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 33)
-- [The door left unbarred](#the-door-left-unbarred) (No. 22)
+- [Put down the act](#put-down-the-act) (No. 64)
+- [Put the problem down for the night](#put-the-problem-down-for-the-night) (No. 135)
+- [Put the stones down](#put-the-stones-down) (No. 45)
+- [Remember there is no hurry](#remember-there-is-no-hurry) (No. 97)
+- [Rest is a form of trust](#rest-is-a-form-of-trust) (No. 129)
+- [Rest is not the pause](#rest-is-not-the-pause) (No. 132)
+- [Roots go down in winter](#roots-go-down-in-winter) (No. 136)
+- [Set down what was never yours](#set-down-what-was-never-yours) (No. 177)
+- [Set the bone first](#set-the-bone-first) (No. 63)
+- [Set the seed in unfamiliar ground](#set-the-seed-in-unfamiliar-ground) (No. 98)
+- [Some days are for holding the line](#some-days-are-for-holding-the-line) (No. 78)
+- [Some days you let the ground hold you](#some-days-you-let-the-ground-hold-you) (No. 154)
+- [Sowing in winter](#sowing-in-winter) (No. 22)
+- [Spring does not ask for an apology](#spring-does-not-ask-for-an-apology) (No. 68)
+- [Stand in the new snow](#stand-in-the-new-snow) (No. 127)
+- [Stand on the ground you have](#stand-on-the-ground-you-have) (No. 111)
+- [Stand still and let them look](#stand-still-and-let-them-look) (No. 153)
+- [Starting over is not defeat](#starting-over-is-not-defeat) (No. 96)
+- [Still enough to hear it](#still-enough-to-hear-it) (No. 143)
+- [Stone fruit season](#stone-fruit-season) (No. 169)
+- [Strength is what you kept open](#strength-is-what-you-kept-open) (No. 33)
+- [Tell me this is not prayer](#tell-me-this-is-not-prayer) (No. 162)
+- [Tempered, not hardened](#tempered-not-hardened) (No. 23)
+- [Thank the crew that brought you in](#thank-the-crew-that-brought-you-in) (No. 124)
+- [The acres you have not walked](#the-acres-you-have-not-walked) (No. 87)
+- [The bravest thing you did](#the-bravest-thing-you-did) (No. 49)
+- [The bravest thing you ever did](#the-bravest-thing-you-ever-did) (No. 37)
+- [The door left unbarred](#the-door-left-unbarred) (No. 26)
 - [The Door Opens Outward](#the-door-opens-outward) (No. 8)
-- [The field was never dead](#the-field-was-never-dead) (No. 85)
+- [The field was never dead](#the-field-was-never-dead) (No. 89)
 - [The Floor](#the-floor) (No. 4)
-- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 185)
+- [The fullness of God in a chamomile flower](#the-fullness-of-god-in-a-chamomile-flower) (No. 189)
 - [The Handle](#the-handle) (No. 12)
-- [The house you come home to](#the-house-you-come-home-to) (No. 151)
-- [The man you would have been](#the-man-you-would-have-been) (No. 169)
-- [The measure was never hardness](#the-measure-was-never-hardness) (No. 43)
-- [The next step](#the-next-step) (No. 91)
-- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 190)
-- [The oak is not late](#the-oak-is-not-late) (No. 104)
-- [The reason came after](#the-reason-came-after) (No. 61)
-- [The river does not apologize](#the-river-does-not-apologize) (No. 15)
-- [The river keeps its name](#the-river-keeps-its-name) (No. 89)
-- [The same man walks out](#the-same-man-walks-out) (No. 112)
-- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 99)
-- [The strength it took](#the-strength-it-took) (No. 51)
+- [The house you come home to](#the-house-you-come-home-to) (No. 155)
+- [The man you would have been](#the-man-you-would-have-been) (No. 173)
+- [The measure was never hardness](#the-measure-was-never-hardness) (No. 47)
+- [The next step](#the-next-step) (No. 95)
+- [The oak is in no hurry](#the-oak-is-in-no-hurry) (No. 194)
+- [The oak is not late](#the-oak-is-not-late) (No. 108)
+- [The reason came after](#the-reason-came-after) (No. 65)
+- [The river does not apologize](#the-river-does-not-apologize) (No. 19)
+- [The river keeps its name](#the-river-keeps-its-name) (No. 93)
+- [The same man walks out](#the-same-man-walks-out) (No. 116)
+- [The shape already in the iron](#the-shape-already-in-the-iron) (No. 103)
+- [The strength it took](#the-strength-it-took) (No. 55)
 - [The Strip of Light](#the-strip-of-light) (No. 7)
-- [The strongest kind of man](#the-strongest-kind-of-man) (No. 39)
-- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 90)
+- [The strongest kind of man](#the-strongest-kind-of-man) (No. 43)
+- [The tools are where you left them](#the-tools-are-where-you-left-them) (No. 94)
 - [The Twenty-Mile Rule](#the-twenty-mile-rule) (No. 5)
 - [The Undertow of Grace](#the-undertow-of-grace) (No. 1)
-- [The way the earth turns](#the-way-the-earth-turns) (No. 186)
-- [The weight no one lifted](#the-weight-no-one-lifted) (No. 63)
-- [The well still gives](#the-well-still-gives) (No. 77)
+- [The way the earth turns](#the-way-the-earth-turns) (No. 190)
+- [The weight no one lifted](#the-weight-no-one-lifted) (No. 67)
+- [The well still gives](#the-well-still-gives) (No. 81)
 - [They Don't Kill You](#they-dont-kill-you) (No. 6)
-- [They stood the watch](#they-stood-the-watch) (No. 121)
-- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 27)
+- [They stood the watch](#they-stood-the-watch) (No. 125)
+- [Trust the gentleness in you](#trust-the-gentleness-in-you) (No. 31)
 - [Two Checks](#two-checks) (No. 13)
-- [Unfamiliar ground](#unfamiliar-ground) (No. 84)
-- [What are tears](#what-are-tears) (No. 189)
-- [What did not harden](#what-did-not-harden) (No. 58)
-- [What held the wall](#what-held-the-wall) (No. 50)
-- [What I carry there](#what-i-carry-there) (No. 157)
-- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 154)
-- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 184)
-- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 48)
-- [What it did not take](#what-it-did-not-take) (No. 36)
-- [What made the difference](#what-made-the-difference) (No. 170)
-- [What May taught me](#what-may-taught-me) (No. 172)
-- [What survives rough hands](#what-survives-rough-hands) (No. 35)
-- [What the blow did not take](#what-the-blow-did-not-take) (No. 26)
-- [What the break did not take](#what-the-break-did-not-take) (No. 24)
-- [What the dark still holds](#what-the-dark-still-holds) (No. 57)
-- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 174)
-- [What your hands are for](#what-your-hands-are-for) (No. 140)
-- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 163)
-- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 34)
-- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 32)
-- [Where my feet are](#where-my-feet-are) (No. 191)
-- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 127)
-- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 188)
-- [Winters that were never mine](#winters-that-were-never-mine) (No. 166)
-- [Winters that were never yours](#winters-that-were-never-yours) (No. 167)
-- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 144)
-- [Worthy of its return](#worthy-of-its-return) (No. 143)
-- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 16)
-- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 72)
-- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 78)
-- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 168)
-- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 106)
-- [You have not lost the light](#you-have-not-lost-the-light) (No. 67)
-- [You were built to feel](#you-were-built-to-feel) (No. 164)
-- [You were never behind](#you-were-never-behind) (No. 96)
-- [You would give any man time](#you-would-give-any-man-time) (No. 105)
+- [Unfamiliar ground](#unfamiliar-ground) (No. 88)
+- [What are tears](#what-are-tears) (No. 193)
+- [What did not harden](#what-did-not-harden) (No. 62)
+- [What held the wall](#what-held-the-wall) (No. 54)
+- [What I carry there](#what-i-carry-there) (No. 161)
+- [What if I am a quieter thing](#what-if-i-am-a-quieter-thing) (No. 158)
+- [What if it was never the changing](#what-if-it-was-never-the-changing) (No. 188)
+- [What if the measure was never strength](#what-if-the-measure-was-never-strength) (No. 52)
+- [What it did not take](#what-it-did-not-take) (No. 40)
+- [What made the difference](#what-made-the-difference) (No. 174)
+- [What May taught me](#what-may-taught-me) (No. 176)
+- [What survives rough hands](#what-survives-rough-hands) (No. 39)
+- [What the blow did not take](#what-the-blow-did-not-take) (No. 30)
+- [What the break did not take](#what-the-break-did-not-take) (No. 28)
+- [What the dark still holds](#what-the-dark-still-holds) (No. 61)
+- [What the ground does with what falls](#what-the-ground-does-with-what-falls) (No. 178)
+- [What your hands are for](#what-your-hands-are-for) (No. 144)
+- [When my back aches from being a father](#when-my-back-aches-from-being-a-father) (No. 167)
+- [When the name you carry grows heavy](#when-the-name-you-carry-grows-heavy) (No. 38)
+- [When you love more than comes back to you](#when-you-love-more-than-comes-back-to-you) (No. 36)
+- [Where my feet are](#where-my-feet-are) (No. 195)
+- [Winter is not a sentence](#winter-is-not-a-sentence) (No. 131)
+- [Winter still sits in my shoulders](#winter-still-sits-in-my-shoulders) (No. 192)
+- [Winters that were never mine](#winters-that-were-never-mine) (No. 170)
+- [Winters that were never yours](#winters-that-were-never-yours) (No. 171)
+- [Worth does not move with the water](#worth-does-not-move-with-the-water) (No. 148)
+- [Worthy of its return](#worthy-of-its-return) (No. 147)
+- [You are allowed to be gentle](#you-are-allowed-to-be-gentle) (No. 20)
+- [You do not have to hold it all together](#you-do-not-have-to-hold-it-all-together) (No. 76)
+- [You do not have to prove it](#you-do-not-have-to-prove-it) (No. 82)
+- [You do not need the whole map](#you-do-not-need-the-whole-map) (No. 172)
+- [You forgive the sky its rain](#you-forgive-the-sky-its-rain) (No. 110)
+- [You have not lost the light](#you-have-not-lost-the-light) (No. 71)
+- [You were built to feel](#you-were-built-to-feel) (No. 168)
+- [You were never behind](#you-were-never-behind) (No. 100)
+- [You would give any man time](#you-would-give-any-man-time) (No. 109)
 
 ---
 
@@ -1053,7 +1047,7 @@ While mine filled up with what you left me there.
 
 *-pr*
 
-No. 1. Categories: [Grief & Loss](#grief--loss-1), [Honor & Character](#honor--character-1), [Betrayal](#betrayal-1). [Contents](#contents)
+No. 1. Categories: [Grief & Loss](#grief--loss-1), [Honor & Character](#honor--character-1), [Betrayal](#betrayal). [Contents](#contents)
 
 ---
 
@@ -1097,7 +1091,7 @@ and the ink, thank God, is cheap enough to last.
 
 *-pr*
 
-No. 2. Categories: [Addiction & Recovery](#addiction--recovery-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+No. 2. Categories: [Addiction & Recovery](#addiction--recovery), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
 
 ---
 
@@ -1245,7 +1239,7 @@ It was just enough room to keep lying.
 
 *-pr*
 
-No. 5. Categories: [Addiction & Recovery](#addiction--recovery-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+No. 5. Categories: [Addiction & Recovery](#addiction--recovery), [Honor & Character](#honor--character-1). [Contents](#contents)
 
 ---
 
@@ -1299,7 +1293,7 @@ and call it a favor.
 
 *-pr*
 
-No. 6. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 6. Categories: [Addiction & Recovery](#addiction--recovery), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
 
@@ -1475,7 +1469,7 @@ Claimed.
 
 *-pr*
 
-No. 9. Categories: [Addiction & Recovery](#addiction--recovery-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+No. 9. Categories: [Addiction & Recovery](#addiction--recovery), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
 
 ---
 
@@ -1534,7 +1528,7 @@ Then go feed the dogs.
 
 *-pr*
 
-No. 10. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+No. 10. Categories: [Addiction & Recovery](#addiction--recovery), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
 
 ---
 
@@ -1597,7 +1591,7 @@ Somebody could.
 
 *-pr*
 
-No. 11. Categories: [Addiction & Recovery](#addiction--recovery-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+No. 11. Categories: [Addiction & Recovery](#addiction--recovery), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
 
 ---
 
@@ -1674,7 +1668,7 @@ You did it better.
 
 *-pr*
 
-No. 12. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 12. Categories: [Betrayal](#betrayal), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
 
@@ -1763,7 +1757,7 @@ that nobody slid back.
 
 *-pr*
 
-No. 13. Categories: [Betrayal](#betrayal-1), [Fatherhood & Duty](#fatherhood--duty-1). [Contents](#contents)
+No. 13. Categories: [Betrayal](#betrayal), [Fatherhood & Duty](#fatherhood--duty-1). [Contents](#contents)
 
 ---
 
@@ -1847,2916 +1841,9 @@ There's the whole damn difference.
 
 *-pr*
 
-No. 14. Categories: [Betrayal](#betrayal-1), [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+No. 14. Categories: [Betrayal](#betrayal), [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
 
 ---
-
----
-
-## Fortitude & Gentleness
-
-### The river does not apologize
-
-Stop apologizing for gentleness,\
-as if the river should be sorry\
-for bringing water to the low fields,\
-as if the porch light should ask pardon.
-
-A steady hand is not weakness.\
-It is what the work requires.
-
-*-pr*
-
-No. 15. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### You are allowed to be gentle
-
-The world taught you to harden,\
-to hold the line and never flinch.
-
-Gentleness is not what is left when strength fails.\
-It is the heavier tool, chosen.
-
-*-pr*
-
-No. 16. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Do not become the cold
-
-I have seen an orchard take the frost\
-and set heavy fruit in June.\
-It forgives the winter by bearing.
-
-Gentleness is not the soft part of a man.\
-It is the part that holds.
-
-*-pr*
-
-No. 17. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Sowing in winter
-
-You talk about tomorrow like a coming flood.\
-Yet you leave five dollars on the diner table\
-and fix the loose hinge on the screen door.
-
-You put seed in the ground with frost still on it.\
-A man expecting the end of the world\
-does not bother with the door.
-
-*-pr*
-
-No. 18. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Tempered, not hardened
-
-The fire does not make a man strong.\
-Heat makes iron hard,\
-and a brittle blade snaps on the first swing.
-
-You are strong because you took the heat\
-and still know how to bend.\
-You can hold a child's hand\
-without closing yours into a fist.
-
-*-pr*
-
-No. 19. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Let the weather come
-
-The field takes what the sky sends.\
-It takes the long rain and the frost,\
-and by harvest is more itself, not less.
-
-Stand in it.\
-No weather stays.\
-What you are meant to be\
-is whatever is still standing\
-when the snow starts.
-
-*-pr*
-
-No. 20. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Keep what they could not hold
-
-Keep the gentleness you carried\
-through hands that did not know its worth.\
-It was not theirs to keep, or to break.
-
-The field lies bare the whole of winter\
-and remembers the wheat by spring.
-
-*-pr*
-
-No. 21. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### The door left unbarred
-
-Remember the cost to leave the door unbarred\
-after what once came through it.\
-Any man can throw a bolt.\
-You kept yours open.
-
-Nothing you did took more nerve.
-
-*-pr*
-
-No. 22. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Kindness after the blow
-
-You were not strong enough to keep the pain out.\
-No one is.
-
-The test came after, when they handed you\
-every reason to turn to stone, and you set them down.\
-You stayed kind in a bitter place.\
-That is the harder discipline.
-
-*-pr*
-
-No. 23. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### What the break did not take
-
-Anyone can come out of a loss with harder hands.\
-That was never the work.
-
-The work is the part the break did not reach.\
-You still open the door. You still answer the call.\
-The difference was not the armor.\
-It was the part you refused to cover.
-
-*-pr*
-
-No. 24. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### No apology for the shade
-
-The oak owes no one an explanation\
-for the shade it throws across the yard.\
-The well is not sorry for the water\
-it gives to whoever lowers the bucket.
-
-Gentleness is not a leak in a man.\
-It is what he built himself to hold.
-
-*-pr*
-
-No. 25. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### What the blow did not take
-
-Anyone can be hardened.\
-The blow does that on its own.\
-The rarer thing is the man who takes it\
-and still lowers his voice for a toddler,\
-still opens his hand to feed a stray,\
-still chooses the quiet room when shouting is easy.
-
-Strength was never the question.\
-The question is what you kept.
-
-*-pr*
-
-No. 26. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Trust the gentleness in you
-
-Trust the gentleness.\
-It has outlasted hands that did not know\
-how to hold it, and it is still here.\
-It is not a soft metal.\
-It is the tempered blade,\
-heated, struck, and cooled in oil,\
-still careful with what it touches.
-
-*-pr*
-
-No. 27. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Feeling deeply is not the flaw
-
-The man who notices the flinch,\
-the scrape of a chair,\
-the silence at the dinner table,\
-is carrying more than the man who does not.
-
-Call it what it is.\
-Not a weakness.\
-Strength that has learned to keep its voice down.
-
-*-pr*
-
-No. 28. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Strength is what you kept open
-
-Do not measure yourself by the walls.\
-Any man can stack brick\
-after the first blow lands.\
-Measure what you left open on purpose.
-
-The hand that still unclenches,\
-the front door you still answer,\
-the voice you never let harden.\
-That took more than the masonry.
-
-*-pr*
-
-No. 29. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Gentleness is a decision
-
-Do not mistake a quiet hand for a weak one.\
-The river takes its time and carves the limestone.\
-A man who could strike and does not\
-carries more in his open palm\
-than a fist ever held.
-
-*-pr*
-
-No. 30. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Do not apologize for gentleness
-
-The rain does not feel shame\
-for watering the neighbor's wheat.\
-The sun does not ask permission\
-before it warms a stranger's neck on the train.\
-A gentle hand is not a flaw in a man.\
-It is a discipline he kept.
-
-*-pr*
-
-No. 31. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### When you love more than comes back to you
-
-It is how an oak is built.\
-The roots push further into the dark dirt\
-than any branch reaches into the air.\
-The trunk stands on what you cannot see.
-
-*-pr*
-
-No. 32. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### The bravest thing you ever did
-
-It was not what you took.\
-It was what you kept open afterward.\
-The front door.\
-The hand resting on the table.
-
-*-pr*
-
-No. 33. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### When the name you carry grows heavy
-
-Lie flat on the dirt.\
-The earth has taken the weight\
-of every man who ever knelt on it.\
-It asked him nothing.\
-It held him until he stood,\
-then let him walk away.
-
-*-pr*
-
-No. 34. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### What survives rough hands
-
-The quiet in you was never weak.\
-It outlasted men who did not know\
-how to hold a delicate thing.
-
-Trust it the way you trust a March field.\
-Under the frost and the flattened stems\
-the roots are already pulling water.
-
-*-pr*
-
-No. 35. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### What it did not take
-
-It is not the iron it left in you.\
-Not the anvil you learned to lift\
-without making a sound.
-
-It is what you refused to surrender.\
-The open hand.\
-The level voice.
-
-*-pr*
-
-No. 36. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Hope is a discipline
-
-Worry is the imagination losing its faith.\
-Hope is the same imagination\
-ordered back to its post.
-
-*-pr*
-
-No. 37. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### After all of it
-
-After the years that asked for more than you had,\
-if you can still be moved,\
-if a stranger's trouble still reaches you,\
-if your hand is still open and not a fist,\
-that is enough.\
-That is the whole account.
-
-*-pr*
-
-No. 38. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### The strongest kind of man
-
-Any man can go hard.\
-It costs him nothing.\
-The rare one carries the years on his back\
-and still sets a coffee cup down without a sound.\
-If your hands have borne that much\
-and stayed careful,\
-you are the strongest kind there is.
-
-*-pr*
-
-No. 39. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Let it begin with your hands
-
-Notice the dew set down on the grass\
-before anyone is awake.\
-Notice the spring wind carrying a cardinal's song\
-across the yard,\
-and the oak tree holding a place\
-for whoever needs to sit.
-
-On the days when kindness seems too far off to reach,\
-look at your own two hands.\
-They have carried worse than this.\
-Put them to work.
-
-*-pr*
-
-No. 40. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Put the stones down
-
-You do not have to prove your strength\
-to anyone after being broken.\
-You do not have to stack walls around yourself\
-with hands that have already worked too hard.
-
-Put the stones down.\
-Tend what is still standing at your feet,\
-the small green shoots that came through\
-the same winter you did.\
-It was never about how hard the hurt made you.\
-It was about how much gentleness you kept\
-when freezing would have been easier.
-
-*-pr*
-
-No. 41. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### Gentleness is not weakness
-
-Gentleness is not weakness.\
-It is the quiet nerve of every field\
-that greens again after the fire\
-has had its say.
-
-*-pr*
-
-No. 42. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### The measure was never hardness
-
-The measure was never how hard the fire made you.\
-Good steel takes the blow,\
-bends,\
-and comes back true.
-
-*-pr*
-
-No. 43. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### If the door still opens
-
-After all of it,\
-if your front door still opens when a neighbor knocks,\
-if you still get out of the chair and answer,\
-that is enough.\
-That was the whole of the work.
-
-*-pr*
-
-No. 44. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### The bravest thing you did
-
-When they tally what you stood through,\
-the bravest thing you ever did\
-was not the ground you held.\
-It was the front door you left unbolted\
-after you had every reason to slide the iron home.
-
-*-pr*
-
-No. 45. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Not how strong it made you
-
-Anything left in a fire comes out harder.\
-That is not the measure.\
-It is what you carried out unburnt.\
-The even voice.\
-The open hand.\
-The mercy you still had for the next man in line.
-
-*-pr*
-
-No. 46. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Look at you, still standing
-
-The whole load on your back.\
-Nothing set down,\
-nothing handed off.\
-And still you find the sun\
-and turn your face to it.
-
-*-pr*
-
-No. 47. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### What if the measure was never strength
-
-What if the measure was never\
-how hard it made you,\
-but how much you carried out\
-with your hands still open.
-
-*-pr*
-
-No. 48. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### A gentle man was not spared
-
-A gentle man is not one\
-the world went easy on.\
-He has met all of it,\
-and refused it a room in his house.
-
-*-pr*
-
-No. 49. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### What held the wall
-
-What if the gentleness in you\
-was never the crack in the wall,\
-but the mortar.\
-The thing that held the stones\
-when everything else gave way.
-
-*-pr*
-
-No. 50. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### The strength it took
-
-Gentleness is not the absence of strength.\
-Consider what he walked through,\
-what it should have made of him,\
-and what he chose to remain.
-
-Staying gentle was the harder work.
-
-*-pr*
-
-No. 51. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Keep your heart from hardening
-
-Keep your heart from hardening.\
-Kindness is always looking\
-for steady ground to land on.\
-Be that ground.
-
-*-pr*
-
-No. 52. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
----
-
-## Healing & Endurance
-
-### Only to keep turning
-
-Winter has settled on you\
-like a coat you never bought\
-and cannot take off.
-
-Each morning you find which way is south\
-by the half of the roof the frost quits first,\
-and set your face to it.
-
-No one asked you to be warm yet.\
-Only to keep turning.
-
-*-pr*
-
-No. 53. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Let the body do its part
-
-A man who blocks the wind\
-still has to stand in it.
-
-When your hands shake after the fact,\
-do not call it weakness.\
-The body is only taking its share of a load\
-you refused to put down.
-
-*-pr*
-
-No. 54. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Let it move through
-
-The ache of the year is a river, not a lake.\
-Dam it up in your chest\
-and it will flood the basement.
-
-Give it a channel.\
-Sit on the back step. Look at the pines.\
-Let the water pass.
-
-*-pr*
-
-No. 55. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Healing is not the pain leaving
-
-I used to think a fixed bone would stop hurting.\
-It aches every time it rains.
-
-Healing is not a clean slate.\
-It is pulling out a chair at the kitchen table,\
-letting the grief sit down with you,\
-and pouring the coffee anyway.
-
-*-pr*
-
-No. 56. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### What the dark still holds
-
-It may not be as bad as it looks.\
-I have stood in nights I was sure were empty,\
-looking east for a sun that keeps its own hours,\
-and missed the porch light two doors down,\
-the neighbor's cigarette on his back step,\
-the kitchen window somebody left burning.
-
-Kindness keeps the same hours as the dark.\
-Turn your back on the sun a minute.\
-Your eyes will find the rest.
-
-*-pr*
-
-No. 57. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### What did not harden
-
-Healing is not forgetting the fire.\
-It is standing on the far side of it\
-and finding your hands still open,\
-your voice still low,\
-your word still good.
-
-The heat had every chance to turn you to iron.\
-That it did not is the whole difference.
-
-*-pr*
-
-No. 58. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Set the bone first
-
-You chose to mend before you moved,\
-to set the bone before you put weight on it.\
-Call that patience, not delay.
-
-A man who means to walk the whole road\
-makes sure the leg will hold.
-
-*-pr*
-
-No. 59. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Put down the act
-
-Healing is not forgetting.\
-It is putting down the act.
-
-A man can walk around for years\
-with one hand pressed to his side,\
-lift the couch one-armed,\
-never say why, not to anyone,\
-not at night, not to the ceiling,\
-and call that strength.\
-He is the only one it fools.
-
-Say it plainly. That hurt.\
-The hand comes away on its own.
-
-*-pr*
-
-No. 60. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### The reason came after
-
-Nothing sent the storm.\
-Some things just fall,\
-and there is no reason in the falling.
-
-The reason came after,\
-when you knelt in the wet dirt\
-and built something a man could stand on.
-
-*-pr*
-
-No. 61. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Not to make you stronger
-
-The break was not sent to make you stronger.\
-It only split the wood to show what held it together.\
-The oak takes lightning down one side\
-and comes up green in April anyway.
-
-Nothing good left when it split.\
-It only needed the light.
-
-*-pr*
-
-No. 62. Categories: [Healing & Endurance](#healing--endurance-1), [Grief & Loss](#grief--loss-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### The weight no one lifted
-
-You are tired the way a beam is tired,\
-having held the roof through every storm\
-while the house slept beneath it.
-
-You carried everyone who asked\
-and a few who never did.\
-It is no shame to say your arms ache.\
-It is the truth about the load.
-
-*-pr*
-
-No. 63. Categories: [Healing & Endurance](#healing--endurance-1), [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Spring does not ask for an apology
-
-Spring does not ask the winter to apologize for the cold.\
-It does not stand at the fence waiting for the frost\
-to explain itself.
-
-The ground softens, and the work begins.\
-Take the thaw as it comes and plant again.
-
-*-pr*
-
-No. 64. Categories: [Healing & Endurance](#healing--endurance-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Count the harvest, not the rain
-
-Do not measure the years by how hard it rained.\
-Rain is only weather.\
-Walk the rows instead.\
-Count the corn that came up\
-out of that mud and stood.
-
-That is what shaped you.\
-Not the storm. The harvest.
-
-*-pr*
-
-No. 65. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### A chair for the pain
-
-Healing is not prying the ache out\
-like a bent nail from a floorboard.\
-It is pulling out a wooden chair,\
-letting it sit at your table,\
-and finishing your plate.
-
-It will stay as long as it stays.\
-So will you.
-
-*-pr*
-
-No. 66. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### You have not lost the light
-
-The sky has been low a long while,\
-that is all.\
-Wait for one clear night.\
-The moon has never seen its own face.\
-It only knows it shines by the river,\
-by the slate rooftops,\
-by the gravel road turned silver to your door.
-
-Look at what stands lit around you.\
-That is yours.
-
-*-pr*
-
-No. 67. Categories: [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### A steady love will find you
-
-Believe this, even in February.\
-A steady love is on its way.\
-Not loud. Not sudden.
-
-It will come the way the first warm day comes\
-after a winter you were sure would not end,\
-when you step out onto the porch without your coat\
-and the air, for once, does not fight you.
-
-*-pr*
-
-No. 68. Categories: [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
-
----
-
-### Not how much, but how
-
-It was never the weight you carried.\
-Plenty of men stand under worse\
-and come out as stone.\
-It was how you walked through it.\
-You kept a steady hand on your own shoulder\
-the whole way down into the cellar,\
-and the whole way back up the stairs.
-
-*-pr*
-
-No. 69. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Healing does not remove the weight
-
-I waited for the pain to leave the house.\
-It stayed.\
-So I pulled up a second chair.\
-I learned to work with it at the table.\
-Healing is not the absence of the anvil.\
-It is a back that has learned to carry it.
-
-*-pr*
-
-No. 70. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Be home when it arrives
-
-Pain has one use.\
-It calls a man back into his own body,\
-back to the breath, the knuckles,\
-the pine floor under his boots.\
-Stay there. Sweep the kitchen.\
-Keep the house in order.\
-When healing knocks,\
-let it find someone home.
-
-*-pr*
-
-No. 71. Categories: [Healing & Endurance](#healing--endurance-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### You do not have to hold it all together
-
-You are the field and the weather over it.\
-When the rain breaks, let it fall.\
-The ground is not weakened by taking water.\
-It goes on holding the foundation of the house.
-
-*-pr*
-
-No. 72. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Give the pain a chair
-
-Do not rush it out the door.\
-Seat it at the table\
-like a traveler passing through.\
-Let it drink from your cup.
-
-A guest kept in a steady house\
-sets down his knife in time.
-
-*-pr*
-
-No. 73. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### Some days are for holding the line
-
-Not every day is for growth you can measure.\
-Not every sunrise asks you to be more\
-than the man you were last night.\
-Some days the whole work is to stand\
-where you stood,\
-and be standing there at dark.
-
-*-pr*
-
-No. 74. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### How the orchard forgives the frost
-
-Trust your heart to hold its worth after the break,\
-the way a mended keel still holds the sea.\
-Then learn from the orchard\
-how to forgive the frost.\
-It does not argue.\
-It bears apples again.
-
-*-pr*
-
-No. 75. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### One day the ledger balances
-
-One day you will sit with the years\
-and do the honest accounting.\
-You will find nothing went to waste.\
-Every loss bought something.\
-If what it bought was a man\
-who finally treats himself as worth keeping,\
-the books close square.
-
-*-pr*
-
-No. 76. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### The well still gives
-
-After the dry years,\
-after all that was asked of you and taken,\
-lower the bucket.\
-If it comes up heavy with water,\
-if there is still some for the neighbor who comes thirsty,\
-then nothing that matters was lost.
-
-*-pr*
-
-No. 77. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### You do not have to prove it
-
-After all of it, if you are still kind,\
-that is enough.\
-You do not have to lay stone around your heart\
-with hands gone hard from the work.
-
-Tend what is still at your feet.\
-The rows that survived.\
-The boy who needs you.\
-The friend who kept calling.
-
-You will not find your proof\
-in how hard the pain made you.\
-You will find it in what was left standing,\
-still gentle, still yours.
-
-*-pr*
-
-No. 78. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### I told my heart to keep going
-
-I told my heart it could keep going.\
-It took me at my word.\
-I have made harder promises\
-and kept them for less reason.
-
-*-pr*
-
-No. 79. Categories: [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
----
-
-## Growth & Becoming
-
-### I once thought winter was a boy like me
-
-restless for spring,\
-checking the ground for green.
-
-But who is this\
-frosting the window,\
-carrying what he does not know\
-the way a man carries a pocket watch,\
-close to the chest, without checking it.
-
-He is in no hurry to be understood.\
-That is the man I want to be.
-
-*-pr*
-
-No. 80. Categories: [Growth & Becoming](#growth--becoming-1), [Honor & Character](#honor--character-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
-
----
-
-### Let me wear the new day
-
-the way the pasture wears the dew,\
-carrying what fell in the night\
-without complaint.\
-Let gentleness have the first word\
-and resolve the last.
-
-*-pr*
-
-No. 81. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Ask what the fear is made of
-
-Are you afraid of the next step,\
-or only a stranger to where it lands?
-
-Every road I trust now\
-was dirt the first time I walked it.\
-Fear and unfamiliarity wear the same heavy coat.\
-Take the step. The ground will tell you which.
-
-*-pr*
-
-No. 82. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### The acres you have not walked
-
-You only work the near field.\
-The dirt you can see from the porch.
-
-There is wind moving in the far acres.\
-The deed is in your name.\
-Walk out and lie down in the grass you own.
-
-*-pr*
-
-No. 83. Categories: [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Unfamiliar ground
-
-Ask yourself whether it is fear,\
-or only that you have never stood there.\
-Every good road I have taken\
-felt strange under my boots for the first mile.
-
-The gravel shifts.\
-Strange is not the same as wrong.
-
-*-pr*
-
-No. 84. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### The field was never dead
-
-The field was never dead. It was only waiting.\
-The roots kept working in the dark\
-through months no one looked at them.
-
-Whatever you buried to survive the cold\
-is moving now beneath the topsoil.\
-Give it time to break the dirt.
-
-*-pr*
-
-No. 85. Categories: [Growth & Becoming](#growth--becoming-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Patience at the forge
-
-Give yourself the patience you give the steel.\
-The slow heat, the long wait,\
-the strike that comes only when the iron glows orange.
-
-Nothing worth holding was hammered cold.\
-Take the time the work takes.\
-You are the work.
-
-*-pr*
-
-No. 86. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### No one calls the wheat slow
-
-Winter wheat goes in before the frost\
-and sits under the snow for months.\
-No farmer stands at the edge of the field calling it slow.
-
-Time is not a wage you have to earn.\
-It is the dirt you were given.\
-Stand in it.
-
-*-pr*
-
-No. 87. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Not starting over
-
-You are not starting over.\
-You are walking back to a man you left standing at the gate,\
-the one who held the post while you were gone.
-
-He is not angry. He kept the place.\
-Shake his hand. You know him.
-
-*-pr*
-
-No. 88. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### The river keeps its name
-
-Look for yourself in the river, not the mirror.\
-The glass holds still and tells you nothing.\
-The water takes your face apart\
-and gathers it again.\
-It is never the same water,\
-and you are never quite the same man.
-
-Every season brings a new current,\
-every bend shifts the bank,\
-and still the river keeps its name.\
-It still knows the way down to the gulf.
-
-*-pr*
-
-No. 89. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### The tools are where you left them
-
-The life you stopped making plans for has not gone anywhere.\
-It is a workshop with the door unlocked,\
-the wrenches on the bench,\
-the sawdust only sawdust.
-
-Go back in. Pick one up.\
-The wooden handle will remember your grip.
-
-*-pr*
-
-No. 90. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### The next step
-
-Ask yourself plainly.\
-Is it the step you fear,\
-or the man standing on the far side of the river.\
-He has already done what you are still deciding.\
-You will not know his name until you cross.
-
-*-pr*
-
-No. 91. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Starting over is not defeat
-
-The field is turned under every November.\
-The forge is banked at night\
-and lit again with the sun.\
-Nobody calls the farmer a failure.\
-Nobody calls the blacksmith a coward.\
-Laying the first stone twice\
-takes more nerve than laying it once.
-
-*-pr*
-
-No. 92. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Remember there is no hurry
-
-The ground has waited\
-on slower things than a man.\
-An elm does not ask your name\
-before it drops its shade.\
-It drops it on whoever stands there.
-
-*-pr*
-
-No. 93. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Set the seed in unfamiliar ground
-
-Take what you have left\
-and press it into a new field.\
-Turn the dirt with the spade.\
-Wait on the rain.
-
-Come back the slow way,\
-one green inch at a time.
-
-*-pr*
-
-No. 94. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### A seat at the table
-
-This hard season will not last,\
-and neither will the man I am inside it.\
-I want to give him room to breathe,\
-before the next one takes his place.\
-I want to stay on speaking terms\
-with every man I have been.
-
-When the work is done,\
-I hope they sit at one long table in the low light,\
-glad I pulled up a chair for this one too.\
-Maybe that is what the dark is for.\
-Not to find your way back into your body,\
-but to gather every man it has had to be.
-
-*-pr*
-
-No. 95. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### You were never behind
-
-No one is timing you.\
-The sun was never late.\
-The river never hurried toward a sea\
-that was not going anywhere.\
-You were never behind.\
-You are only learning to carry\
-what is yours.
-
-*-pr*
-
-No. 96. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### Eighty beats a second
-
-A hummingbird's wings beat eighty times a second.\
-The motion vanishes.\
-You see a bird holding still in the air\
-to hover at one flower and drink.\
-The work no one watches\
-is what lets you hold steady.\
-Do not apologize for the labor it takes\
-to arrive at a stillness\
-anyone would mistake for ease.
-
-*-pr*
-
-No. 97. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Every man I have been
-
-This hard season will pass,\
-and so will the man standing in it.\
-While he is here I want to give him air.\
-I leave the line open to every man I have been.\
-The one who had nothing,\
-the one who nearly quit.\
-When the last of the work is done\
-we can all stand on the same porch.\
-None of us left out in the yard.
-
-*-pr*
-
-No. 98. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### The shape already in the iron
-
-The ore does not reach for the blade.\
-The blade is in it already,\
-waiting on heat and a heavy hammer.\
-What you are becoming\
-is not a thing to chase down the road.\
-It has been walking toward you the whole time,\
-carrying your name.\
-Your work is not to strain.\
-Your work is to stand in the fire\
-and let it find you.
-
-*-pr*
-
-No. 99. Categories: [Growth & Becoming](#growth--becoming-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### One day you will see it plainly
-
-One day you will see it plainly.\
-None of it was lost.\
-Not the long hours, not the hard ground,\
-if they taught you to speak to yourself\
-the way you speak to a man you respect.
-
-*-pr*
-
-No. 100. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### Have patience with yourself
-
-Iron takes its time to cool\
-and is stronger for the waiting.\
-The road was not laid in a morning.
-
-Grant yourself the same patience\
-you would grant any honest work.\
-Time was given to you.\
-Take it.
-
-*-pr*
-
-No. 101. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
----
-
-## Grace & Self-Forgiveness
-
-### Every phase carries light
-
-The moon comes up over the shed\
-thin as a nail paring,\
-and nobody walks out to the yard\
-to tell it to try harder.
-
-You stand under it with the porch light off\
-and will not sign your own pardon,\
-as if a man carries light\
-only when he is full.
-
-Half of it is lit the whole time.\
-The dark is only where you stand.
-
-*-pr*
-
-No. 102. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Grace for this body
-
-I will let it tire.\
-I will let it set the sack of cement down\
-two steps short of the post hole\
-and call that far enough.\
-I will let it hold the banister.
-
-When it falters on the landing\
-I will remember\
-it has never been this old either.
-
-*-pr*
-
-No. 103. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### The oak is not late
-
-Have patience with yourself,\
-the way you have it for the south field,\
-for the white oak that takes a hundred years\
-and is not late.
-
-*-pr*
-
-No. 104. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### You would give any man time
-
-You honor the seed as much as the harvest,\
-the raw iron as much as the knife.\
-You would give any man time.\
-Give it to yourself.
-
-*-pr*
-
-No. 105. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### You forgive the sky its rain
-
-You forgive the sky without a second thought.\
-Why not the rain in your own head?
-
-It falls for the same reason.\
-It fills the well.\
-Wait and see what stands when it stops.
-
-*-pr*
-
-No. 106. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Stand on the ground you have
-
-No mason curses a brick before he lays it.\
-No smith beats the iron out of spite.
-
-You want a better man in the mirror,\
-but you keep spitting in his face.\
-Wash the glass.\
-Thank the man who got you this far,\
-then tell him the shift is not over.
-
-*-pr*
-
-No. 107. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Forgive the man you were
-
-He did not have the manual you carry now.\
-He was working with a bad flashlight\
-under the hood of a car he did not own.
-
-Forgive him the stripped bolts.\
-You will need the same mercy ten years from now,\
-and you should not have to ask yourself twice.
-
-*-pr*
-
-No. 108. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Grace for what survived
-
-Be gentle with the parts of you\
-that pulled you from the wreck.
-
-They were not graceful.\
-They built walls out of scrap wood.\
-They went quiet when they should have spoken.\
-They did not have the right tools.
-
-They just kept you breathing\
-long enough to find some.
-
-*-pr*
-
-No. 109. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### A kinder foreman
-
-Show the body some mercy.\
-It lifted the lumber you asked it to lift.\
-It stood on the concrete as long as you asked it to stand.
-
-It is walking this ground for the first time.\
-Give it a kinder foreman.
-
-*-pr*
-
-No. 110. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Not everything is a repair
-
-I have spent my life fixing engines,\
-so it took me years to learn\
-that a man is not a broken part.\
-You cannot tighten him back into place.
-
-Set the tools down.\
-Let mercy do what the wrench cannot.
-
-*-pr*
-
-No. 111. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### The same man walks out
-
-You do not leave the past by becoming someone new.\
-No one waits down the road to trade you places.
-
-The same man walks out who walked in.\
-Forgive him.\
-Then go.
-
-*-pr*
-
-No. 112. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### Mercy runs forward
-
-Forgive the man you were.\
-He did what he knew with what he had in his pockets.\
-The mercy you show him\
-is the mercy the next man inherits.
-
-You are the next man.
-
-*-pr*
-
-No. 113. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Grace for the man who got through
-
-Offer yourself the grace you would offer a stranger\
-who came through a hard stretch with the tools he had\
-instead of the ones he wished for.
-
-You did not do it cleanly. You did it.\
-Let that be enough tonight.
-
-*-pr*
-
-No. 114. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Mercy for the parts that survived
-
-Show some mercy to the parts of you\
-that survived the only way they knew how.\
-The fist that learned to close before the blow.\
-The silence that learned to pass for calm.\
-The watch you kept at the front window for years.
-
-They were not wrong.\
-They were on duty.\
-Thank them.\
-Then tell them to stand down.
-
-*-pr*
-
-No. 115. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Forgive yourself the storms
-
-Forgive yourself the storms.\
-You did not call them and you could not stop them,\
-and still you stood in the open and held.
-
-The wheat field does not curse the rain.\
-It takes what falls and makes a crop of it.\
-Take what fell.\
-Bail it into hay.
-
-*-pr*
-
-No. 116. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Grace for the body that carries me
-
-I owe this body some grace.\
-It has carried firewood and grief for thirty years\
-and asked for nothing back.\
-When the knee gives out on the stairs,\
-I will not curse it.\
-It is doing this for the first time, too.\
-It is learning the ice while it walks.
-
-*-pr*
-
-No. 117. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### He was working with less light
-
-The man I was at twenty\
-read the map by the light he had.\
-It was a thin bulb.\
-I would not fault a son for that.\
-I set the grudge down on the floor.\
-The road clears for the man I have not become yet,\
-who will look back at me in ten years\
-and need the same pardon.
-
-*-pr*
-
-No. 118. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Grace for the parts that survived
-
-Have grace for the parts of you\
-that survived the only way they knew.\
-They were not wise.\
-They were not gentle.\
-But they kept the house from burning.
-
-*-pr*
-
-No. 119. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Thank the crew that brought you in
-
-Be merciful to the parts of yourself\
-that survived the only way they knew how.\
-They were a rough crew.\
-They did not steer pretty,\
-and some of what they did you would not do again.\
-But they brought the ship in.
-
-If you are still here,\
-still taking the morning air,\
-still able to be gentle\
-after everything that tried to make you hard,\
-you did not fail yourself.\
-You held on to the one thing the storm was after.\
-You made port with it.
-
-*-pr*
-
-No. 120. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### They stood the watch
-
-May you find grace for the parts of you\
-that made it through the only way they knew.\
-They were not wrong.\
-They stood the watch.
-
-*-pr*
-
-No. 121. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### I watched the dawn come down
-
-I watched the dawn come down\
-on ground still cold from the night.\
-It asked nothing of the field.\
-It simply gave it light.
-
-I understood, at last,\
-what it looks like to forgive myself.
-
-*-pr*
-
-No. 122. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
----
-
-## Rest & Stillness
-
-### Stand in the new snow
-
-Watch how calm the ground becomes\
-when it stops fighting what has fallen.
-
-You could carry that quiet.\
-It is not weather. It is a choice.
-
-*-pr*
-
-No. 123. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Peace is not a windless sky
-
-It takes courage to let peace be what it is,\
-not the dead calm you asked for,\
-but a steady hand on the wheel,\
-a roof that holds when the gale hits.
-
-*-pr*
-
-No. 124. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Rest is a form of trust
-
-When the sun goes down,\
-set the day down with it\
-like a heavy coat.\
-Do not lie awake\
-trying to guarantee the morning.
-
-*-pr*
-
-No. 125. Categories: [Rest & Stillness](#rest--stillness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### Not every storm is yours to face
-
-Some come only to make you stop,\
-to put down the wrench and sit in the doorway.\
-Listen for the quiet\
-you carried all along\
-and never had the time to hear.
-
-*-pr*
-
-No. 126. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Winter is not a sentence
-
-Why do you serve January like a sentence?\
-It was never a punishment.
-
-The field lies fallow and is not ashamed.\
-The forge is banked, not cold.\
-Set the shovel down.\
-Rest is also the work.
-
-*-pr*
-
-No. 127. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Rest is not the pause
-
-The field lies fallow so the soil can pull itself together.\
-The axe is set down on the stump so it can be honed.
-
-You still think sleep is an interruption of the work.\
-You are driving a truck on fumes,\
-angry at the pump for slowing you down.
-
-*-pr*
-
-No. 128. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Gentleness is enough of a goal
-
-If your only aim is to stay gentle,\
-that is enough.\
-There is a freedom in standing where you are,\
-with nothing left to prove.
-
-It will carry a man further\
-than any race he could have run.
-
-*-pr*
-
-No. 129. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Peace is not a grip
-
-I thought peace was a matter of grip,\
-of holding every piece in place\
-until my hands forgot how to open.\
-It is not.
-
-Peace is the load set down at the door.\
-The arms still ache.\
-That passes.
-
-*-pr*
-
-No. 130. Categories: [Rest & Stillness](#rest--stillness-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### Put the problem down for the night
-
-Not every night calls for a fix.\
-Some call for the back step and the cold air.\
-The sky does its old work without any help from me.
-
-Most of what I carry shrinks under that much black.\
-What remains can wait for morning.
-
-*-pr*
-
-No. 131. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Roots go down in winter
-
-You are not stuck.\
-The oak does not do all its growing\
-where you can see it.\
-Half the work is done in the dark,\
-roots splitting limestone\
-while not a single branch moves above the frost.
-
-Stillness is not the pause between the work.\
-It is the work.
-
-*-pr*
-
-No. 132. Categories: [Rest & Stillness](#rest--stillness-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Alone was never the problem
-
-Alone was never the problem.\
-Alone was the first quiet room you were ever given,\
-no one at the door, no one to answer to,\
-and in the corner, waiting to be introduced,\
-a man you had not met yet.
-
-Sit down with him.\
-Learn his name.\
-He has been patient a long time.
-
-*-pr*
-
-No. 133. Categories: [Rest & Stillness](#rest--stillness-1), [Growth & Becoming](#growth--becoming-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Give yourself leave to rest
-
-The dark floor of the pines holds the damp.\
-A seed sits under it\
-and does nothing for a month.\
-Nobody calls it idle.
-
-*-pr*
-
-No. 134. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### In the lean months
-
-You do not have to perform.\
-The moon spends half its time\
-down to a sliver.\
-It keeps no ledger of who noticed the dark.
-
-*-pr*
-
-No. 135. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Dear June, remind me
-
-Remind me the arms of this life are open.\
-A man can set the shovel down\
-and let the heat take over.
-
-*-pr*
-
-No. 136. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
-
----
-
-### Leave the window open
-
-Some days the whole of your duty\
-is to leave the window open,\
-let the wind and the sparrows have the room,\
-and trust that hope knows the way back in.
-
-*-pr*
-
-No. 137. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Keep the window open
-
-Some days this is the only work.\
-Leave the window open.\
-Do not throw the latch.\
-Hope knows this house.\
-Let it come in on its own\
-and find you in your chair.
-
-*-pr*
-
-No. 138. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### Still enough to hear it
-
-Sometimes the whole work is to get quiet.\
-Quiet enough to hear the dirt beneath the noise.\
-A hard world has never once\
-kept the wheat from coming up.\
-Goodness grows anyway.\
-Stand still long enough\
-and you will see it.
-
-*-pr*
-
-No. 139. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### What your hands are for
-
-When it is too much to hold, open your hands.\
-Put them in cold water.\
-Put them in the dirt.\
-Run them along the grain of a pine board,\
-the bark of the oak by the fence,\
-the hair of a boy asleep on your shoulder.\
-Hands were not made only to carry.\
-They were made to tend, to build,\
-and when the time comes,\
-to open.
-
-*-pr*
-
-No. 140. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Make no apology for the rest
-
-Make no apology for being a man who tires.\
-For setting the load down at the door.\
-For letting the ones you have carried\
-carry you a while.
-
-You earned the chair.\
-Take it.
-
-*-pr*
-
-No. 141. Categories: [Rest & Stillness](#rest--stillness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### I want the composure of September
-
-I want the composure of September.\
-The way it sits on the porch at dusk\
-with the day's work set down beside it,\
-sleeves rolled, boots off,\
-in no hurry to be anywhere but here.
-
-It watches autumn walk up the road\
-and hears it say the light is going.\
-It answers with a late wind\
-that lays the long grass down in a bow.
-
-It holds the harvest back one more week,\
-with hands that have never once been rushed.
-
-See how wide the earth opens\
-for what takes its time.
-
-*-pr*
-
-No. 142. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
----
-
-## Worth & Belonging
-
-### Worthy of its return
-
-A man who works without a ledger\
-still gets paid at the end of the week.
-
-If your entire record is waking at five, boiling the water,\
-and keeping the heat on for the house,\
-you are allowed to sit at the table you bought.
-
-*-pr*
-
-No. 143. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Worth does not move with the water
-
-Set the striving down on the workbench.\
-Stand still.
-
-The river trades its water every afternoon\
-and keeps its name.\
-Your worth was never in the current.\
-It is the limestone bed beneath it.\
-It does not wash out.
-
-*-pr*
-
-No. 144. Categories: [Worth & Belonging](#worth--belonging-1), [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Go stand in the sun
-
-When you forget what you are worth,\
-go out to the yard and stand there.
-
-The sun will lay its heat across your shoulders.\
-The oak will put its shade down over you.\
-Neither will ask to see your wallet.\
-You belong on the dirt you stand on.\
-That was settled before you were born.
-
-*-pr*
-
-No. 145. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Not everyone speaks it
-
-It may be that you speak a quieter tongue,\
-one that hears the silence before the answer,\
-and reads the room before a word is said.
-
-Not everyone was raised in that language.\
-Keep speaking it anyway.
-
-*-pr*
-
-No. 146. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Nothing left to prove
-
-The proof is already on the table.\
-The years, the work, the word you kept.\
-What is left is trusting the man who did it.
-
-Give him that.\
-He has earned the quiet.
-
-*-pr*
-
-No. 147. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### A chair set for you
-
-You carried the plates to other men's tables\
-long enough to forget a place was set for you.\
-It takes a different nerve to pull the chair out\
-and eat what they cooked for you.
-
-*-pr*
-
-No. 148. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Stand still and let them look
-
-You are not afraid of the bulb on the porch.\
-You are afraid of what it will show.\
-You have guessed wrong.\
-You have never stood still long enough\
-to learn your own worth in the morning.\
-Stand still. Let them look.\
-What they find will not shame you.
-
-*-pr*
-
-No. 149. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Some days you let the ground hold you
-
-Sit in the grass.\
-Let it take the weight.\
-The soil takes what falls\
-the same way it takes rain.\
-Nobody calls the rain unnecessary.
-
-*-pr*
-
-No. 150. Categories: [Worth & Belonging](#worth--belonging-1), [Healing & Endurance](#healing--endurance-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### The house you come home to
-
-It was not built to be looked at.\
-Like the gravel under your boots\
-it owes no apology for its shape.\
-The give in the knees.\
-The gray at the temples.
-
-It asks only for a chair\
-to set the load down.
-
-*-pr*
-
-No. 151. Categories: [Worth & Belonging](#worth--belonging-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Nothing in the field withholds
-
-The creek does not ration its water.\
-The elm drops its shade\
-on the stray dog and the priest.
-
-You are made of the same dirt.\
-Let the water run.\
-It was never meant to be kept in a jar.
-
-*-pr*
-
-No. 152. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Before anyone is awake
-
-The dew sits on the mower\
-before the house is up.\
-It sinks into the roots\
-and burns off by ten o'clock.
-
-No one comes out to thank it.\
-The yard is green all the same.
-
-*-pr*
-
-No. 153. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### What if I am a quieter thing
-
-What if I meet myself more fully\
-in an open field than in a crowded room.\
-What if I read my face in the sky\
-more easily than in a mirror.\
-What if my pulse keeps time\
-with the sparrows at first light.\
-What if I am a different, quieter thing,\
-and no less a man for it.
-
-*-pr*
-
-No. 154. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### May you never cut yourself down to size
-
-May you never trim what you feel\
-to something a closed hand can hold.\
-Let it stand at its full height.\
-The ones who mean to carry it will make room for the whole weight.
-
-*-pr*
-
-No. 155. Categories: [Worth & Belonging](#worth--belonging-1), [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
----
-
-## Fatherhood & Duty
-
-### Kneeling is its own prayer
-
-Again I tell myself\
-to keep an hour for God,\
-then drop to one knee in the grass\
-to inspect what a two-year-old holds up.\
-Three acorns and a twig.\
-I wash the small feet.\
-I hold the scraped shin\
-and blow on it, which does nothing,\
-and he stops crying.
-
-At night I unroll the mat.\
-The knees of my trousers are green.
-
-*-pr*
-
-No. 156. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### What I carry there
-
-His head fits my palm,\
-his ear to my chest.\
-He sleeps to the beat of it.\
-He has never asked what I keep there.
-
-So I guard it,\
-and keep it worth guarding.
-
-*-pr*
-
-No. 157. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### Tell me this is not prayer
-
-I tell myself to make an hour for God.\
-Then I am down on one knee in the gravel\
-because my son holds up an acorn\
-and needs a witness.\
-I wash the mud from his heel.\
-I inspect the scraped shin,\
-tell him it will hold,\
-and he stops crying.
-
-Most of my life is spent kneeling.\
-The trousers are worn through.\
-Tell me this is not prayer.
-
-*-pr*
-
-No. 158. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### Nothing gets done with you here
-
-I cannot chop an onion with crayons on the board.\
-I cannot fix the trap under the sink\
-with your hand closed around my wrench.\
-Nothing gets done with you here.
-
-Then I look at your hand,\
-the knuckles filling out,\
-one day closer to turning the doorknob without me.
-
-The sink can leak a while longer.\
-Nothing gets done with you here.\
-That is the work.
-
-*-pr*
-
-No. 159. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### No one told me about the arms
-
-No one told me my arms would never rest again.\
-They ache from carrying you up the stairs,\
-or they ache from the empty air when you are at school.\
-There is no third option.\
-I will carry either.
-
-*-pr*
-
-No. 160. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### I keep saying I will make time for prayer
-
-I bend to inspect a two-year-old's treasure,\
-three acorns and a muddy twig.\
-I wash his feet in the tub.\
-I blow on the scraped shin,\
-say I love him at his eye level,\
-so the words have somewhere to land.
-
-I have spent whole years kneeling.\
-Tell me that was not prayer.
-
-*-pr*
-
-No. 161. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
-
----
-
-### It took becoming a father
-
-It took becoming a father\
-to meet the men I had been before.\
-The boy in the driveway, the hothead,\
-the one who kept running.\
-I shook each of their hands.\
-Now when I come home to myself\
-I open the door quietly,\
-with something good in my pockets.
-
-*-pr*
-
-No. 162. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### When my back aches from being a father
-
-When my back aches from lifting the boy,\
-I lie flat on the floorboards.\
-The oak teaches me without a word\
-how to give all I am\
-to feet that walk on me all afternoon.\
-It stays solid underneath them.\
-It calls it holding, not loss.
-
-*-pr*
-
-No. 163. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Nature as Teacher](#nature-as-teacher-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### You were built to feel
-
-A river was built to move water.\
-That is the design, not a flaw.\
-When it rises, let it rise.
-
-The lower pasture is not weak\
-for taking the flood.\
-It is how the hay comes back.
-
-*-pr*
-
-No. 164. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
-
----
-
-### Stone fruit season
-
-The earth meets us halfway through the year\
-with the labor of late summer.\
-I rise before the light to take a knife to the apricots,\
-halving them for my children,\
-working the stone from the flesh\
-in a motion my wrists have memorized.
-
-I thank the ground for this reminder.\
-A man can give all of himself\
-and still keep his center.
-
-*-pr*
-
-No. 165. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Nature as Teacher](#nature-as-teacher-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
-
----
-
----
-
-## Letting Go
-
-### Winters that were never mine
-
-I am learning to set down\
-the frost that was never mine to carry,\
-to open my hands\
-and leave them open.
-
-Stop handing your harvest\
-to another man's weather.
-
-*-pr*
-
-No. 166. Categories: [Letting Go](#letting-go-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Winters that were never yours
-
-Set down the frost that was never yours to carry.\
-Feel for others, but with open hands,\
-not a fist that takes their cold as your own.
-
-Do not hand your one spring\
-to every storm that walks past you.\
-The field comes green on its own calendar.
-
-*-pr*
-
-No. 167. Categories: [Letting Go](#letting-go-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
-
----
-
-### You do not need the whole map
-
-Thirty years in, I still check the mirrors.\
-The headlights only show forty yards of asphalt,\
-and forty yards is enough to steer by.
-
-Somewhere past the county line,\
-I stopped demanding to see the destination,\
-and started watching the man behind the wheel.
-
-*-pr*
-
-No. 168. Categories: [Letting Go](#letting-go-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### The man you would have been
-
-Let go of the man you would have been\
-if the bad year had skipped your house.\
-He is a pencil sketch. He never bled.
-
-The man standing in your boots\
-knows what a hundred pounds feels like\
-before he bends his knees.\
-Stand with him.\
-He is the one who showed up to work.
-
-*-pr*
-
-No. 169. Categories: [Letting Go](#letting-go-1), [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### What made the difference
-
-Any man can clench his jaw and call it strength.\
-It takes something else to open your hands\
-and let the river take what was only water.
-
-That was the difference.
-
-*-pr*
-
-No. 170. Categories: [Letting Go](#letting-go-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Only what is yours
-
-Count the load again.\
-Some of it has your name on it.\
-Most of it does not.
-
-A man can carry a great deal\
-and still learn the difference between duty and habit.\
-Set down what was never yours.\
-Walk lighter, not smaller.
-
-*-pr*
-
-No. 171. Categories: [Letting Go](#letting-go-1), [Honor & Character](#honor--character-1). [Contents](#contents)
-
----
-
-### What May taught me
-
-I have stopped waiting for the hard years\
-to say they were sorry.\
-The apple orchard never got an apology\
-from the late frost,\
-and it has never once withheld the fruit.
-
-May comes.\
-The branches do what branches do.\
-I have decided to do the same.
-
-*-pr*
-
-No. 172. Categories: [Letting Go](#letting-go-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Set down what was never yours
-
-You are allowed to set it down.\
-The weight you picked up because no one else would.\
-The blame that was handed to you,\
-which you carried, because carrying is what you know.
-
-Let it go the way frost goes on the first morning of spring.\
-No fight. No sound.\
-Gone before the coffee in your mug is cold.
-
-*-pr*
-
-No. 173. Categories: [Letting Go](#letting-go-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### What the ground does with what falls
-
-You carry a heavy load\
-and will not set it down.\
-The forest floor takes the dead oak branch\
-and holds it until it rots into soil.
-
-In time it turns the weight to ground\
-that a green shoot can stand on.
-
-*-pr*
-
-No. 174. Categories: [Letting Go](#letting-go-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
----
-
-## Seasons & Letters
-
-### A note for the new month
-
-The field does not ask the winter to apologize.\
-It takes the frost, the long dark, the silence.\
-When the thaw comes it turns green again\
-without a word about the ice.
-
-Let this month find you the same.\
-Demand no apology.\
-Go about the work of growing back.
-
-*-pr*
-
-No. 175. Categories: [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1), [Letting Go](#letting-go-1). [Contents](#contents)
-
----
-
-### Come back out
-
-The ground has thawed enough to walk on\
-and the wind has turned to your side of the house.
-
-Nothing out here demands a speech.\
-It only asks that you open the door,\
-stand in the yard a while,\
-and let the dog see you are still here.
-
-*-pr*
-
-No. 176. Categories: [Seasons & Letters](#seasons--letters-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### Dear summer, remind me
-
-Remind me that life is not only weight.\
-There is warmth waiting for a man\
-who has spent too long braced against the cold.\
-I am allowed to drop the shovel\
-and stand in your long light a while.
-
-*-pr*
-
-No. 177. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Dear July, the long light
-
-The sun is staying up late these days,\
-leaving a light on the way a father does for a son not yet home.\
-I take it as it is meant.\
-An invitation to look up from the workbench\
-and see who is still here.
-
-*-pr*
-
-No. 178. Categories: [Seasons & Letters](#seasons--letters-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Dear July, the middle of the year
-
-The sun leaves the light on longer these days.\
-I eat a peach over the kitchen sink\
-and let it run down my wrist.\
-I watch fireflies in the yard\
-and ask nothing of them.\
-I sit back in the porch chair\
-and let the oak tree show me\
-how a heavy thing can still sway.
-
-*-pr*
-
-No. 179. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Dear August, be patient
-
-I hope August is patient with you.\
-The last long days of summer\
-spent at the window,\
-watching the road for autumn to come home.
-
-*-pr*
-
-No. 180. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
----
-
-## Honor & Character
-
-### No one saw the climb
-
-No one stood with you on the nights\
-you kept going on nothing but your own word.\
-A man does not need a witness\
-to know the weight of his coat.
-
-You know the miles.\
-That is enough.
-
-*-pr*
-
-No. 181. Categories: [Honor & Character](#honor--character-1), [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
-
----
-
-### Not the distance
-
-Do not measure it by the miles.\
-Any highway will carry a man far.\
-Measure it by what you kept the whole way\
-and never set down.
-
-Your name. Your word.\
-The one you said you would be.
-
-*-pr*
-
-No. 182. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### Ask what held
-
-The years will change a man.\
-That was never in question.\
-Ask instead what held.\
-The word he gave and kept,\
-the name he answers to,\
-the heavy door he pushes open\
-on days when showing up is the hard part.
-
-Do not ask how the wood warped.\
-Ask what the nails held.
-
-*-pr*
-
-No. 183. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
-### What if it was never the changing
-
-What if it was the word kept.\
-The man who walked up the drive\
-at the same hour every year\
-and knocked on the door.
-
-*-pr*
-
-No. 184. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
----
-
-## Faith & Reverence
-
-### The fullness of God in a chamomile flower
-
-Dried heads in a linen bag,\
-small enough to rest on a fingernail.\
-The scent takes the whole kitchen\
-before the water boils.
-
-I spent years working to be large.\
-Make me small before You,\
-filling the house anyway,\
-leaving no distance to cross.
-
-*-pr*
-
-No. 185. Categories: [Faith & Reverence](#faith--reverence-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
-
----
-
-### The way the earth turns
-
-Winter lays heavy on the coat.\
-You did not ask for the snow,\
-but you shovel the drive anyway.
-
-You step out at six in the morning,\
-finding the gray edge of the sun\
-the way the earth does.\
-Without being told.
-
-*-pr*
-
-No. 186. Categories: [Faith & Reverence](#faith--reverence-1), [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
-### Letters I have not opened
-
-Maybe the questions I cannot answer\
-are not asking to be solved.\
-Maybe they only ask to be carried.
-
-I pack them like sealed letters,\
-unread, stowed with the rest of my gear.\
-They remind me that when the woods go dark,\
-I am not walking them alone.
-
-If I carry them long enough,\
-I might learn that holding my own mystery\
-is the answer to a hunger older than any question.\
-It is the unknown in a man that lets him be known.
-
-*-pr*
-
-No. 187. Categories: [Faith & Reverence](#faith--reverence-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
-
----
-
----
-
-## Grief & Loss
-
-### Winter still sits in my shoulders
-
-long after my boots have found\
-the warm dirt of April.
-
-Maybe grief stays loyal\
-to the man who carried it\
-out into the sun.
-
-*-pr*
-
-No. 188. Categories: [Grief & Loss](#grief--loss-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-### What are tears
-
-I was taught to keep them.\
-I kept them for years\
-the way a concrete dam keeps a river\
-and called it strength.\
-But tears are only love\
-that has run out of room\
-and taken the only road out.
-
-*-pr*
-
-No. 189. Categories: [Grief & Loss](#grief--loss-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
-
----
-
----
-
-## Nature as Teacher
-
-### The oak is in no hurry
-
-Ten minutes, I said,\
-between the fence and the gutters,\
-and dragged the chair out under the oak.
-
-It took a hundred years to hold this much shade.\
-It lets it fall on the truck, the dog, the man\
-and never asks which of us earned it.
-
-The shade has moved a foot since I sat down.\
-So has the chair.
-
-*-pr*
-
-No. 190. Categories: [Nature as Teacher](#nature-as-teacher-1), [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
-
----
-
-### Where my feet are
-
-Let me stand fully where my feet are.\
-Let me count the evidence.\
-Let me stop for the magnolia on the wind,\
-set my fear down on the porch\
-and not pick it back up.\
-Let me give what is beautiful a chance\
-to make its case.
-
-*-pr*
-
-No. 191. Categories: [Nature as Teacher](#nature-as-teacher-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
-
----
-
-## Betrayal
 
 ### Brothers
 
@@ -4778,11 +1865,9 @@ Yeah ain’t life a [*bitch*]
 
 *-pr*
 
-No. 192. Categories: [Betrayal](#betrayal-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 15. Categories: [Betrayal](#betrayal), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
-
-## Addiction & Recovery
 
 ### Out of the Harbor
 
@@ -4808,7 +1893,7 @@ I am finally free.
 
 *-pr*
 
-No. 193. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+No. 16. Categories: [Addiction & Recovery](#addiction--recovery), [Grief & Loss](#grief--loss-1). [Contents](#contents)
 
 ---
 
@@ -4834,4 +1919,2962 @@ I am sincerely Sorry,
 
 *-pr*
 
-No. 194. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+No. 17. Categories: [Addiction & Recovery](#addiction--recovery), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Effigy
+
+I realize as I stand right here,\
+Looking back on every wasted year,\
+I set my highest hopes to aim\
+On a tomorrow that never came.
+
+What once was hidden now appears\
+To finally make me face my fears:\
+The truth that you could not give a damn\
+To even know, to care\
+What or where,\
+Or even how\
+I am.
+
+Even though you always knew\
+The quiet pain it caused me to\
+Bleed for the love I freely lent,\
+Now I know that it all meant\
+Nothing\
+To you.
+
+I was disposed of just like trash,\
+And now you walk away and laugh\
+With nothing in your chest to heal,\
+But every bit for me was real.
+
+Now I am the effigy,\
+Burned into the enemy,\
+Lit by the match still in your hand\
+So you never have to take the stand.
+
+So feed the fire, fan the flame,\
+Keep dancing on my blackened name.\
+I leave the ashes where they fell\
+And walk alone in my private hell,\
+The very one I told you of\
+Before I trusted you with love.
+
+You swore I'd never have to face\
+The hollow dark of this cold place,\
+You promised me I'd never see\
+The ruin this would do to me.\
+Yet here I am, Condemned to stay\
+Inside the vow You threw away,\
+Trapped in the dark You swore Would never be.
+
+*-pr*
+
+No. 18. Categories: [Betrayal](#betrayal), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+
+---
+
+---
+
+## Fortitude & Gentleness
+
+### The river does not apologize
+
+Stop apologizing for gentleness,\
+as if the river should be sorry\
+for bringing water to the low fields,\
+as if the porch light should ask pardon.
+
+A steady hand is not weakness.\
+It is what the work requires.
+
+*-pr*
+
+No. 19. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### You are allowed to be gentle
+
+The world taught you to harden,\
+to hold the line and never flinch.
+
+Gentleness is not what is left when strength fails.\
+It is the heavier tool, chosen.
+
+*-pr*
+
+No. 20. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Do not become the cold
+
+I have seen an orchard take the frost\
+and set heavy fruit in June.\
+It forgives the winter by bearing.
+
+Gentleness is not the soft part of a man.\
+It is the part that holds.
+
+*-pr*
+
+No. 21. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Sowing in winter
+
+You talk about tomorrow like a coming flood.\
+Yet you leave five dollars on the diner table\
+and fix the loose hinge on the screen door.
+
+You put seed in the ground with frost still on it.\
+A man expecting the end of the world\
+does not bother with the door.
+
+*-pr*
+
+No. 22. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Tempered, not hardened
+
+The fire does not make a man strong.\
+Heat makes iron hard,\
+and a brittle blade snaps on the first swing.
+
+You are strong because you took the heat\
+and still know how to bend.\
+You can hold a child's hand\
+without closing yours into a fist.
+
+*-pr*
+
+No. 23. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Let the weather come
+
+The field takes what the sky sends.\
+It takes the long rain and the frost,\
+and by harvest is more itself, not less.
+
+Stand in it.\
+No weather stays.\
+What you are meant to be\
+is whatever is still standing\
+when the snow starts.
+
+*-pr*
+
+No. 24. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Keep what they could not hold
+
+Keep the gentleness you carried\
+through hands that did not know its worth.\
+It was not theirs to keep, or to break.
+
+The field lies bare the whole of winter\
+and remembers the wheat by spring.
+
+*-pr*
+
+No. 25. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### The door left unbarred
+
+Remember the cost to leave the door unbarred\
+after what once came through it.\
+Any man can throw a bolt.\
+You kept yours open.
+
+Nothing you did took more nerve.
+
+*-pr*
+
+No. 26. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Kindness after the blow
+
+You were not strong enough to keep the pain out.\
+No one is.
+
+The test came after, when they handed you\
+every reason to turn to stone, and you set them down.\
+You stayed kind in a bitter place.\
+That is the harder discipline.
+
+*-pr*
+
+No. 27. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### What the break did not take
+
+Anyone can come out of a loss with harder hands.\
+That was never the work.
+
+The work is the part the break did not reach.\
+You still open the door. You still answer the call.\
+The difference was not the armor.\
+It was the part you refused to cover.
+
+*-pr*
+
+No. 28. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### No apology for the shade
+
+The oak owes no one an explanation\
+for the shade it throws across the yard.\
+The well is not sorry for the water\
+it gives to whoever lowers the bucket.
+
+Gentleness is not a leak in a man.\
+It is what he built himself to hold.
+
+*-pr*
+
+No. 29. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### What the blow did not take
+
+Anyone can be hardened.\
+The blow does that on its own.\
+The rarer thing is the man who takes it\
+and still lowers his voice for a toddler,\
+still opens his hand to feed a stray,\
+still chooses the quiet room when shouting is easy.
+
+Strength was never the question.\
+The question is what you kept.
+
+*-pr*
+
+No. 30. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Trust the gentleness in you
+
+Trust the gentleness.\
+It has outlasted hands that did not know\
+how to hold it, and it is still here.\
+It is not a soft metal.\
+It is the tempered blade,\
+heated, struck, and cooled in oil,\
+still careful with what it touches.
+
+*-pr*
+
+No. 31. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Feeling deeply is not the flaw
+
+The man who notices the flinch,\
+the scrape of a chair,\
+the silence at the dinner table,\
+is carrying more than the man who does not.
+
+Call it what it is.\
+Not a weakness.\
+Strength that has learned to keep its voice down.
+
+*-pr*
+
+No. 32. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Strength is what you kept open
+
+Do not measure yourself by the walls.\
+Any man can stack brick\
+after the first blow lands.\
+Measure what you left open on purpose.
+
+The hand that still unclenches,\
+the front door you still answer,\
+the voice you never let harden.\
+That took more than the masonry.
+
+*-pr*
+
+No. 33. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Gentleness is a decision
+
+Do not mistake a quiet hand for a weak one.\
+The river takes its time and carves the limestone.\
+A man who could strike and does not\
+carries more in his open palm\
+than a fist ever held.
+
+*-pr*
+
+No. 34. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Do not apologize for gentleness
+
+The rain does not feel shame\
+for watering the neighbor's wheat.\
+The sun does not ask permission\
+before it warms a stranger's neck on the train.\
+A gentle hand is not a flaw in a man.\
+It is a discipline he kept.
+
+*-pr*
+
+No. 35. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### When you love more than comes back to you
+
+It is how an oak is built.\
+The roots push further into the dark dirt\
+than any branch reaches into the air.\
+The trunk stands on what you cannot see.
+
+*-pr*
+
+No. 36. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### The bravest thing you ever did
+
+It was not what you took.\
+It was what you kept open afterward.\
+The front door.\
+The hand resting on the table.
+
+*-pr*
+
+No. 37. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### When the name you carry grows heavy
+
+Lie flat on the dirt.\
+The earth has taken the weight\
+of every man who ever knelt on it.\
+It asked him nothing.\
+It held him until he stood,\
+then let him walk away.
+
+*-pr*
+
+No. 38. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### What survives rough hands
+
+The quiet in you was never weak.\
+It outlasted men who did not know\
+how to hold a delicate thing.
+
+Trust it the way you trust a March field.\
+Under the frost and the flattened stems\
+the roots are already pulling water.
+
+*-pr*
+
+No. 39. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### What it did not take
+
+It is not the iron it left in you.\
+Not the anvil you learned to lift\
+without making a sound.
+
+It is what you refused to surrender.\
+The open hand.\
+The level voice.
+
+*-pr*
+
+No. 40. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Hope is a discipline
+
+Worry is the imagination losing its faith.\
+Hope is the same imagination\
+ordered back to its post.
+
+*-pr*
+
+No. 41. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### After all of it
+
+After the years that asked for more than you had,\
+if you can still be moved,\
+if a stranger's trouble still reaches you,\
+if your hand is still open and not a fist,\
+that is enough.\
+That is the whole account.
+
+*-pr*
+
+No. 42. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### The strongest kind of man
+
+Any man can go hard.\
+It costs him nothing.\
+The rare one carries the years on his back\
+and still sets a coffee cup down without a sound.\
+If your hands have borne that much\
+and stayed careful,\
+you are the strongest kind there is.
+
+*-pr*
+
+No. 43. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Let it begin with your hands
+
+Notice the dew set down on the grass\
+before anyone is awake.\
+Notice the spring wind carrying a cardinal's song\
+across the yard,\
+and the oak tree holding a place\
+for whoever needs to sit.
+
+On the days when kindness seems too far off to reach,\
+look at your own two hands.\
+They have carried worse than this.\
+Put them to work.
+
+*-pr*
+
+No. 44. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Put the stones down
+
+You do not have to prove your strength\
+to anyone after being broken.\
+You do not have to stack walls around yourself\
+with hands that have already worked too hard.
+
+Put the stones down.\
+Tend what is still standing at your feet,\
+the small green shoots that came through\
+the same winter you did.\
+It was never about how hard the hurt made you.\
+It was about how much gentleness you kept\
+when freezing would have been easier.
+
+*-pr*
+
+No. 45. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Gentleness is not weakness
+
+Gentleness is not weakness.\
+It is the quiet nerve of every field\
+that greens again after the fire\
+has had its say.
+
+*-pr*
+
+No. 46. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### The measure was never hardness
+
+The measure was never how hard the fire made you.\
+Good steel takes the blow,\
+bends,\
+and comes back true.
+
+*-pr*
+
+No. 47. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### If the door still opens
+
+After all of it,\
+if your front door still opens when a neighbor knocks,\
+if you still get out of the chair and answer,\
+that is enough.\
+That was the whole of the work.
+
+*-pr*
+
+No. 48. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### The bravest thing you did
+
+When they tally what you stood through,\
+the bravest thing you ever did\
+was not the ground you held.\
+It was the front door you left unbolted\
+after you had every reason to slide the iron home.
+
+*-pr*
+
+No. 49. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Not how strong it made you
+
+Anything left in a fire comes out harder.\
+That is not the measure.\
+It is what you carried out unburnt.\
+The even voice.\
+The open hand.\
+The mercy you still had for the next man in line.
+
+*-pr*
+
+No. 50. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Look at you, still standing
+
+The whole load on your back.\
+Nothing set down,\
+nothing handed off.\
+And still you find the sun\
+and turn your face to it.
+
+*-pr*
+
+No. 51. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### What if the measure was never strength
+
+What if the measure was never\
+how hard it made you,\
+but how much you carried out\
+with your hands still open.
+
+*-pr*
+
+No. 52. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### A gentle man was not spared
+
+A gentle man is not one\
+the world went easy on.\
+He has met all of it,\
+and refused it a room in his house.
+
+*-pr*
+
+No. 53. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### What held the wall
+
+What if the gentleness in you\
+was never the crack in the wall,\
+but the mortar.\
+The thing that held the stones\
+when everything else gave way.
+
+*-pr*
+
+No. 54. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### The strength it took
+
+Gentleness is not the absence of strength.\
+Consider what he walked through,\
+what it should have made of him,\
+and what he chose to remain.
+
+Staying gentle was the harder work.
+
+*-pr*
+
+No. 55. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Keep your heart from hardening
+
+Keep your heart from hardening.\
+Kindness is always looking\
+for steady ground to land on.\
+Be that ground.
+
+*-pr*
+
+No. 56. Categories: [Fortitude & Gentleness](#fortitude--gentleness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+---
+
+## Healing & Endurance
+
+### Only to keep turning
+
+Winter has settled on you\
+like a coat you never bought\
+and cannot take off.
+
+Each morning you find which way is south\
+by the half of the roof the frost quits first,\
+and set your face to it.
+
+No one asked you to be warm yet.\
+Only to keep turning.
+
+*-pr*
+
+No. 57. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Let the body do its part
+
+A man who blocks the wind\
+still has to stand in it.
+
+When your hands shake after the fact,\
+do not call it weakness.\
+The body is only taking its share of a load\
+you refused to put down.
+
+*-pr*
+
+No. 58. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Let it move through
+
+The ache of the year is a river, not a lake.\
+Dam it up in your chest\
+and it will flood the basement.
+
+Give it a channel.\
+Sit on the back step. Look at the pines.\
+Let the water pass.
+
+*-pr*
+
+No. 59. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Healing is not the pain leaving
+
+I used to think a fixed bone would stop hurting.\
+It aches every time it rains.
+
+Healing is not a clean slate.\
+It is pulling out a chair at the kitchen table,\
+letting the grief sit down with you,\
+and pouring the coffee anyway.
+
+*-pr*
+
+No. 60. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### What the dark still holds
+
+It may not be as bad as it looks.\
+I have stood in nights I was sure were empty,\
+looking east for a sun that keeps its own hours,\
+and missed the porch light two doors down,\
+the neighbor's cigarette on his back step,\
+the kitchen window somebody left burning.
+
+Kindness keeps the same hours as the dark.\
+Turn your back on the sun a minute.\
+Your eyes will find the rest.
+
+*-pr*
+
+No. 61. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### What did not harden
+
+Healing is not forgetting the fire.\
+It is standing on the far side of it\
+and finding your hands still open,\
+your voice still low,\
+your word still good.
+
+The heat had every chance to turn you to iron.\
+That it did not is the whole difference.
+
+*-pr*
+
+No. 62. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Set the bone first
+
+You chose to mend before you moved,\
+to set the bone before you put weight on it.\
+Call that patience, not delay.
+
+A man who means to walk the whole road\
+makes sure the leg will hold.
+
+*-pr*
+
+No. 63. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Put down the act
+
+Healing is not forgetting.\
+It is putting down the act.
+
+A man can walk around for years\
+with one hand pressed to his side,\
+lift the couch one-armed,\
+never say why, not to anyone,\
+not at night, not to the ceiling,\
+and call that strength.\
+He is the only one it fools.
+
+Say it plainly. That hurt.\
+The hand comes away on its own.
+
+*-pr*
+
+No. 64. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### The reason came after
+
+Nothing sent the storm.\
+Some things just fall,\
+and there is no reason in the falling.
+
+The reason came after,\
+when you knelt in the wet dirt\
+and built something a man could stand on.
+
+*-pr*
+
+No. 65. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Not to make you stronger
+
+The break was not sent to make you stronger.\
+It only split the wood to show what held it together.\
+The oak takes lightning down one side\
+and comes up green in April anyway.
+
+Nothing good left when it split.\
+It only needed the light.
+
+*-pr*
+
+No. 66. Categories: [Healing & Endurance](#healing--endurance-1), [Grief & Loss](#grief--loss-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### The weight no one lifted
+
+You are tired the way a beam is tired,\
+having held the roof through every storm\
+while the house slept beneath it.
+
+You carried everyone who asked\
+and a few who never did.\
+It is no shame to say your arms ache.\
+It is the truth about the load.
+
+*-pr*
+
+No. 67. Categories: [Healing & Endurance](#healing--endurance-1), [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Spring does not ask for an apology
+
+Spring does not ask the winter to apologize for the cold.\
+It does not stand at the fence waiting for the frost\
+to explain itself.
+
+The ground softens, and the work begins.\
+Take the thaw as it comes and plant again.
+
+*-pr*
+
+No. 68. Categories: [Healing & Endurance](#healing--endurance-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Count the harvest, not the rain
+
+Do not measure the years by how hard it rained.\
+Rain is only weather.\
+Walk the rows instead.\
+Count the corn that came up\
+out of that mud and stood.
+
+That is what shaped you.\
+Not the storm. The harvest.
+
+*-pr*
+
+No. 69. Categories: [Healing & Endurance](#healing--endurance-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### A chair for the pain
+
+Healing is not prying the ache out\
+like a bent nail from a floorboard.\
+It is pulling out a wooden chair,\
+letting it sit at your table,\
+and finishing your plate.
+
+It will stay as long as it stays.\
+So will you.
+
+*-pr*
+
+No. 70. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### You have not lost the light
+
+The sky has been low a long while,\
+that is all.\
+Wait for one clear night.\
+The moon has never seen its own face.\
+It only knows it shines by the river,\
+by the slate rooftops,\
+by the gravel road turned silver to your door.
+
+Look at what stands lit around you.\
+That is yours.
+
+*-pr*
+
+No. 71. Categories: [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### A steady love will find you
+
+Believe this, even in February.\
+A steady love is on its way.\
+Not loud. Not sudden.
+
+It will come the way the first warm day comes\
+after a winter you were sure would not end,\
+when you step out onto the porch without your coat\
+and the air, for once, does not fight you.
+
+*-pr*
+
+No. 72. Categories: [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
+
+---
+
+### Not how much, but how
+
+It was never the weight you carried.\
+Plenty of men stand under worse\
+and come out as stone.\
+It was how you walked through it.\
+You kept a steady hand on your own shoulder\
+the whole way down into the cellar,\
+and the whole way back up the stairs.
+
+*-pr*
+
+No. 73. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Healing does not remove the weight
+
+I waited for the pain to leave the house.\
+It stayed.\
+So I pulled up a second chair.\
+I learned to work with it at the table.\
+Healing is not the absence of the anvil.\
+It is a back that has learned to carry it.
+
+*-pr*
+
+No. 74. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Be home when it arrives
+
+Pain has one use.\
+It calls a man back into his own body,\
+back to the breath, the knuckles,\
+the pine floor under his boots.\
+Stay there. Sweep the kitchen.\
+Keep the house in order.\
+When healing knocks,\
+let it find someone home.
+
+*-pr*
+
+No. 75. Categories: [Healing & Endurance](#healing--endurance-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### You do not have to hold it all together
+
+You are the field and the weather over it.\
+When the rain breaks, let it fall.\
+The ground is not weakened by taking water.\
+It goes on holding the foundation of the house.
+
+*-pr*
+
+No. 76. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Give the pain a chair
+
+Do not rush it out the door.\
+Seat it at the table\
+like a traveler passing through.\
+Let it drink from your cup.
+
+A guest kept in a steady house\
+sets down his knife in time.
+
+*-pr*
+
+No. 77. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Some days are for holding the line
+
+Not every day is for growth you can measure.\
+Not every sunrise asks you to be more\
+than the man you were last night.\
+Some days the whole work is to stand\
+where you stood,\
+and be standing there at dark.
+
+*-pr*
+
+No. 78. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### How the orchard forgives the frost
+
+Trust your heart to hold its worth after the break,\
+the way a mended keel still holds the sea.\
+Then learn from the orchard\
+how to forgive the frost.\
+It does not argue.\
+It bears apples again.
+
+*-pr*
+
+No. 79. Categories: [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### One day the ledger balances
+
+One day you will sit with the years\
+and do the honest accounting.\
+You will find nothing went to waste.\
+Every loss bought something.\
+If what it bought was a man\
+who finally treats himself as worth keeping,\
+the books close square.
+
+*-pr*
+
+No. 80. Categories: [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### The well still gives
+
+After the dry years,\
+after all that was asked of you and taken,\
+lower the bucket.\
+If it comes up heavy with water,\
+if there is still some for the neighbor who comes thirsty,\
+then nothing that matters was lost.
+
+*-pr*
+
+No. 81. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### You do not have to prove it
+
+After all of it, if you are still kind,\
+that is enough.\
+You do not have to lay stone around your heart\
+with hands gone hard from the work.
+
+Tend what is still at your feet.\
+The rows that survived.\
+The boy who needs you.\
+The friend who kept calling.
+
+You will not find your proof\
+in how hard the pain made you.\
+You will find it in what was left standing,\
+still gentle, still yours.
+
+*-pr*
+
+No. 82. Categories: [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### I told my heart to keep going
+
+I told my heart it could keep going.\
+It took me at my word.\
+I have made harder promises\
+and kept them for less reason.
+
+*-pr*
+
+No. 83. Categories: [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+---
+
+## Growth & Becoming
+
+### I once thought winter was a boy like me
+
+restless for spring,\
+checking the ground for green.
+
+But who is this\
+frosting the window,\
+carrying what he does not know\
+the way a man carries a pocket watch,\
+close to the chest, without checking it.
+
+He is in no hurry to be understood.\
+That is the man I want to be.
+
+*-pr*
+
+No. 84. Categories: [Growth & Becoming](#growth--becoming-1), [Honor & Character](#honor--character-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
+
+---
+
+### Let me wear the new day
+
+the way the pasture wears the dew,\
+carrying what fell in the night\
+without complaint.\
+Let gentleness have the first word\
+and resolve the last.
+
+*-pr*
+
+No. 85. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Ask what the fear is made of
+
+Are you afraid of the next step,\
+or only a stranger to where it lands?
+
+Every road I trust now\
+was dirt the first time I walked it.\
+Fear and unfamiliarity wear the same heavy coat.\
+Take the step. The ground will tell you which.
+
+*-pr*
+
+No. 86. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### The acres you have not walked
+
+You only work the near field.\
+The dirt you can see from the porch.
+
+There is wind moving in the far acres.\
+The deed is in your name.\
+Walk out and lie down in the grass you own.
+
+*-pr*
+
+No. 87. Categories: [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Unfamiliar ground
+
+Ask yourself whether it is fear,\
+or only that you have never stood there.\
+Every good road I have taken\
+felt strange under my boots for the first mile.
+
+The gravel shifts.\
+Strange is not the same as wrong.
+
+*-pr*
+
+No. 88. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### The field was never dead
+
+The field was never dead. It was only waiting.\
+The roots kept working in the dark\
+through months no one looked at them.
+
+Whatever you buried to survive the cold\
+is moving now beneath the topsoil.\
+Give it time to break the dirt.
+
+*-pr*
+
+No. 89. Categories: [Growth & Becoming](#growth--becoming-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Patience at the forge
+
+Give yourself the patience you give the steel.\
+The slow heat, the long wait,\
+the strike that comes only when the iron glows orange.
+
+Nothing worth holding was hammered cold.\
+Take the time the work takes.\
+You are the work.
+
+*-pr*
+
+No. 90. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### No one calls the wheat slow
+
+Winter wheat goes in before the frost\
+and sits under the snow for months.\
+No farmer stands at the edge of the field calling it slow.
+
+Time is not a wage you have to earn.\
+It is the dirt you were given.\
+Stand in it.
+
+*-pr*
+
+No. 91. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Not starting over
+
+You are not starting over.\
+You are walking back to a man you left standing at the gate,\
+the one who held the post while you were gone.
+
+He is not angry. He kept the place.\
+Shake his hand. You know him.
+
+*-pr*
+
+No. 92. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### The river keeps its name
+
+Look for yourself in the river, not the mirror.\
+The glass holds still and tells you nothing.\
+The water takes your face apart\
+and gathers it again.\
+It is never the same water,\
+and you are never quite the same man.
+
+Every season brings a new current,\
+every bend shifts the bank,\
+and still the river keeps its name.\
+It still knows the way down to the gulf.
+
+*-pr*
+
+No. 93. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### The tools are where you left them
+
+The life you stopped making plans for has not gone anywhere.\
+It is a workshop with the door unlocked,\
+the wrenches on the bench,\
+the sawdust only sawdust.
+
+Go back in. Pick one up.\
+The wooden handle will remember your grip.
+
+*-pr*
+
+No. 94. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### The next step
+
+Ask yourself plainly.\
+Is it the step you fear,\
+or the man standing on the far side of the river.\
+He has already done what you are still deciding.\
+You will not know his name until you cross.
+
+*-pr*
+
+No. 95. Categories: [Growth & Becoming](#growth--becoming-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Starting over is not defeat
+
+The field is turned under every November.\
+The forge is banked at night\
+and lit again with the sun.\
+Nobody calls the farmer a failure.\
+Nobody calls the blacksmith a coward.\
+Laying the first stone twice\
+takes more nerve than laying it once.
+
+*-pr*
+
+No. 96. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Remember there is no hurry
+
+The ground has waited\
+on slower things than a man.\
+An elm does not ask your name\
+before it drops its shade.\
+It drops it on whoever stands there.
+
+*-pr*
+
+No. 97. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Set the seed in unfamiliar ground
+
+Take what you have left\
+and press it into a new field.\
+Turn the dirt with the spade.\
+Wait on the rain.
+
+Come back the slow way,\
+one green inch at a time.
+
+*-pr*
+
+No. 98. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### A seat at the table
+
+This hard season will not last,\
+and neither will the man I am inside it.\
+I want to give him room to breathe,\
+before the next one takes his place.\
+I want to stay on speaking terms\
+with every man I have been.
+
+When the work is done,\
+I hope they sit at one long table in the low light,\
+glad I pulled up a chair for this one too.\
+Maybe that is what the dark is for.\
+Not to find your way back into your body,\
+but to gather every man it has had to be.
+
+*-pr*
+
+No. 99. Categories: [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### You were never behind
+
+No one is timing you.\
+The sun was never late.\
+The river never hurried toward a sea\
+that was not going anywhere.\
+You were never behind.\
+You are only learning to carry\
+what is yours.
+
+*-pr*
+
+No. 100. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Eighty beats a second
+
+A hummingbird's wings beat eighty times a second.\
+The motion vanishes.\
+You see a bird holding still in the air\
+to hover at one flower and drink.\
+The work no one watches\
+is what lets you hold steady.\
+Do not apologize for the labor it takes\
+to arrive at a stillness\
+anyone would mistake for ease.
+
+*-pr*
+
+No. 101. Categories: [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Every man I have been
+
+This hard season will pass,\
+and so will the man standing in it.\
+While he is here I want to give him air.\
+I leave the line open to every man I have been.\
+The one who had nothing,\
+the one who nearly quit.\
+When the last of the work is done\
+we can all stand on the same porch.\
+None of us left out in the yard.
+
+*-pr*
+
+No. 102. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### The shape already in the iron
+
+The ore does not reach for the blade.\
+The blade is in it already,\
+waiting on heat and a heavy hammer.\
+What you are becoming\
+is not a thing to chase down the road.\
+It has been walking toward you the whole time,\
+carrying your name.\
+Your work is not to strain.\
+Your work is to stand in the fire\
+and let it find you.
+
+*-pr*
+
+No. 103. Categories: [Growth & Becoming](#growth--becoming-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### One day you will see it plainly
+
+One day you will see it plainly.\
+None of it was lost.\
+Not the long hours, not the hard ground,\
+if they taught you to speak to yourself\
+the way you speak to a man you respect.
+
+*-pr*
+
+No. 104. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Have patience with yourself
+
+Iron takes its time to cool\
+and is stronger for the waiting.\
+The road was not laid in a morning.
+
+Grant yourself the same patience\
+you would grant any honest work.\
+Time was given to you.\
+Take it.
+
+*-pr*
+
+No. 105. Categories: [Growth & Becoming](#growth--becoming-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+---
+
+## Grace & Self-Forgiveness
+
+### Every phase carries light
+
+The moon comes up over the shed\
+thin as a nail paring,\
+and nobody walks out to the yard\
+to tell it to try harder.
+
+You stand under it with the porch light off\
+and will not sign your own pardon,\
+as if a man carries light\
+only when he is full.
+
+Half of it is lit the whole time.\
+The dark is only where you stand.
+
+*-pr*
+
+No. 106. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Grace for this body
+
+I will let it tire.\
+I will let it set the sack of cement down\
+two steps short of the post hole\
+and call that far enough.\
+I will let it hold the banister.
+
+When it falters on the landing\
+I will remember\
+it has never been this old either.
+
+*-pr*
+
+No. 107. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### The oak is not late
+
+Have patience with yourself,\
+the way you have it for the south field,\
+for the white oak that takes a hundred years\
+and is not late.
+
+*-pr*
+
+No. 108. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### You would give any man time
+
+You honor the seed as much as the harvest,\
+the raw iron as much as the knife.\
+You would give any man time.\
+Give it to yourself.
+
+*-pr*
+
+No. 109. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### You forgive the sky its rain
+
+You forgive the sky without a second thought.\
+Why not the rain in your own head?
+
+It falls for the same reason.\
+It fills the well.\
+Wait and see what stands when it stops.
+
+*-pr*
+
+No. 110. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Stand on the ground you have
+
+No mason curses a brick before he lays it.\
+No smith beats the iron out of spite.
+
+You want a better man in the mirror,\
+but you keep spitting in his face.\
+Wash the glass.\
+Thank the man who got you this far,\
+then tell him the shift is not over.
+
+*-pr*
+
+No. 111. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Forgive the man you were
+
+He did not have the manual you carry now.\
+He was working with a bad flashlight\
+under the hood of a car he did not own.
+
+Forgive him the stripped bolts.\
+You will need the same mercy ten years from now,\
+and you should not have to ask yourself twice.
+
+*-pr*
+
+No. 112. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Grace for what survived
+
+Be gentle with the parts of you\
+that pulled you from the wreck.
+
+They were not graceful.\
+They built walls out of scrap wood.\
+They went quiet when they should have spoken.\
+They did not have the right tools.
+
+They just kept you breathing\
+long enough to find some.
+
+*-pr*
+
+No. 113. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### A kinder foreman
+
+Show the body some mercy.\
+It lifted the lumber you asked it to lift.\
+It stood on the concrete as long as you asked it to stand.
+
+It is walking this ground for the first time.\
+Give it a kinder foreman.
+
+*-pr*
+
+No. 114. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Not everything is a repair
+
+I have spent my life fixing engines,\
+so it took me years to learn\
+that a man is not a broken part.\
+You cannot tighten him back into place.
+
+Set the tools down.\
+Let mercy do what the wrench cannot.
+
+*-pr*
+
+No. 115. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### The same man walks out
+
+You do not leave the past by becoming someone new.\
+No one waits down the road to trade you places.
+
+The same man walks out who walked in.\
+Forgive him.\
+Then go.
+
+*-pr*
+
+No. 116. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### Mercy runs forward
+
+Forgive the man you were.\
+He did what he knew with what he had in his pockets.\
+The mercy you show him\
+is the mercy the next man inherits.
+
+You are the next man.
+
+*-pr*
+
+No. 117. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Grace for the man who got through
+
+Offer yourself the grace you would offer a stranger\
+who came through a hard stretch with the tools he had\
+instead of the ones he wished for.
+
+You did not do it cleanly. You did it.\
+Let that be enough tonight.
+
+*-pr*
+
+No. 118. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Mercy for the parts that survived
+
+Show some mercy to the parts of you\
+that survived the only way they knew how.\
+The fist that learned to close before the blow.\
+The silence that learned to pass for calm.\
+The watch you kept at the front window for years.
+
+They were not wrong.\
+They were on duty.\
+Thank them.\
+Then tell them to stand down.
+
+*-pr*
+
+No. 119. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Forgive yourself the storms
+
+Forgive yourself the storms.\
+You did not call them and you could not stop them,\
+and still you stood in the open and held.
+
+The wheat field does not curse the rain.\
+It takes what falls and makes a crop of it.\
+Take what fell.\
+Bail it into hay.
+
+*-pr*
+
+No. 120. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Grace for the body that carries me
+
+I owe this body some grace.\
+It has carried firewood and grief for thirty years\
+and asked for nothing back.\
+When the knee gives out on the stairs,\
+I will not curse it.\
+It is doing this for the first time, too.\
+It is learning the ice while it walks.
+
+*-pr*
+
+No. 121. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### He was working with less light
+
+The man I was at twenty\
+read the map by the light he had.\
+It was a thin bulb.\
+I would not fault a son for that.\
+I set the grudge down on the floor.\
+The road clears for the man I have not become yet,\
+who will look back at me in ten years\
+and need the same pardon.
+
+*-pr*
+
+No. 122. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Grace for the parts that survived
+
+Have grace for the parts of you\
+that survived the only way they knew.\
+They were not wise.\
+They were not gentle.\
+But they kept the house from burning.
+
+*-pr*
+
+No. 123. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Thank the crew that brought you in
+
+Be merciful to the parts of yourself\
+that survived the only way they knew how.\
+They were a rough crew.\
+They did not steer pretty,\
+and some of what they did you would not do again.\
+But they brought the ship in.
+
+If you are still here,\
+still taking the morning air,\
+still able to be gentle\
+after everything that tried to make you hard,\
+you did not fail yourself.\
+You held on to the one thing the storm was after.\
+You made port with it.
+
+*-pr*
+
+No. 124. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### They stood the watch
+
+May you find grace for the parts of you\
+that made it through the only way they knew.\
+They were not wrong.\
+They stood the watch.
+
+*-pr*
+
+No. 125. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### I watched the dawn come down
+
+I watched the dawn come down\
+on ground still cold from the night.\
+It asked nothing of the field.\
+It simply gave it light.
+
+I understood, at last,\
+what it looks like to forgive myself.
+
+*-pr*
+
+No. 126. Categories: [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+---
+
+## Rest & Stillness
+
+### Stand in the new snow
+
+Watch how calm the ground becomes\
+when it stops fighting what has fallen.
+
+You could carry that quiet.\
+It is not weather. It is a choice.
+
+*-pr*
+
+No. 127. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Peace is not a windless sky
+
+It takes courage to let peace be what it is,\
+not the dead calm you asked for,\
+but a steady hand on the wheel,\
+a roof that holds when the gale hits.
+
+*-pr*
+
+No. 128. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Rest is a form of trust
+
+When the sun goes down,\
+set the day down with it\
+like a heavy coat.\
+Do not lie awake\
+trying to guarantee the morning.
+
+*-pr*
+
+No. 129. Categories: [Rest & Stillness](#rest--stillness-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### Not every storm is yours to face
+
+Some come only to make you stop,\
+to put down the wrench and sit in the doorway.\
+Listen for the quiet\
+you carried all along\
+and never had the time to hear.
+
+*-pr*
+
+No. 130. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Winter is not a sentence
+
+Why do you serve January like a sentence?\
+It was never a punishment.
+
+The field lies fallow and is not ashamed.\
+The forge is banked, not cold.\
+Set the shovel down.\
+Rest is also the work.
+
+*-pr*
+
+No. 131. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Rest is not the pause
+
+The field lies fallow so the soil can pull itself together.\
+The axe is set down on the stump so it can be honed.
+
+You still think sleep is an interruption of the work.\
+You are driving a truck on fumes,\
+angry at the pump for slowing you down.
+
+*-pr*
+
+No. 132. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Gentleness is enough of a goal
+
+If your only aim is to stay gentle,\
+that is enough.\
+There is a freedom in standing where you are,\
+with nothing left to prove.
+
+It will carry a man further\
+than any race he could have run.
+
+*-pr*
+
+No. 133. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Peace is not a grip
+
+I thought peace was a matter of grip,\
+of holding every piece in place\
+until my hands forgot how to open.\
+It is not.
+
+Peace is the load set down at the door.\
+The arms still ache.\
+That passes.
+
+*-pr*
+
+No. 134. Categories: [Rest & Stillness](#rest--stillness-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### Put the problem down for the night
+
+Not every night calls for a fix.\
+Some call for the back step and the cold air.\
+The sky does its old work without any help from me.
+
+Most of what I carry shrinks under that much black.\
+What remains can wait for morning.
+
+*-pr*
+
+No. 135. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Roots go down in winter
+
+You are not stuck.\
+The oak does not do all its growing\
+where you can see it.\
+Half the work is done in the dark,\
+roots splitting limestone\
+while not a single branch moves above the frost.
+
+Stillness is not the pause between the work.\
+It is the work.
+
+*-pr*
+
+No. 136. Categories: [Rest & Stillness](#rest--stillness-1), [Growth & Becoming](#growth--becoming-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Alone was never the problem
+
+Alone was never the problem.\
+Alone was the first quiet room you were ever given,\
+no one at the door, no one to answer to,\
+and in the corner, waiting to be introduced,\
+a man you had not met yet.
+
+Sit down with him.\
+Learn his name.\
+He has been patient a long time.
+
+*-pr*
+
+No. 137. Categories: [Rest & Stillness](#rest--stillness-1), [Growth & Becoming](#growth--becoming-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Give yourself leave to rest
+
+The dark floor of the pines holds the damp.\
+A seed sits under it\
+and does nothing for a month.\
+Nobody calls it idle.
+
+*-pr*
+
+No. 138. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### In the lean months
+
+You do not have to perform.\
+The moon spends half its time\
+down to a sliver.\
+It keeps no ledger of who noticed the dark.
+
+*-pr*
+
+No. 139. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Dear June, remind me
+
+Remind me the arms of this life are open.\
+A man can set the shovel down\
+and let the heat take over.
+
+*-pr*
+
+No. 140. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
+
+---
+
+### Leave the window open
+
+Some days the whole of your duty\
+is to leave the window open,\
+let the wind and the sparrows have the room,\
+and trust that hope knows the way back in.
+
+*-pr*
+
+No. 141. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Keep the window open
+
+Some days this is the only work.\
+Leave the window open.\
+Do not throw the latch.\
+Hope knows this house.\
+Let it come in on its own\
+and find you in your chair.
+
+*-pr*
+
+No. 142. Categories: [Rest & Stillness](#rest--stillness-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### Still enough to hear it
+
+Sometimes the whole work is to get quiet.\
+Quiet enough to hear the dirt beneath the noise.\
+A hard world has never once\
+kept the wheat from coming up.\
+Goodness grows anyway.\
+Stand still long enough\
+and you will see it.
+
+*-pr*
+
+No. 143. Categories: [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### What your hands are for
+
+When it is too much to hold, open your hands.\
+Put them in cold water.\
+Put them in the dirt.\
+Run them along the grain of a pine board,\
+the bark of the oak by the fence,\
+the hair of a boy asleep on your shoulder.\
+Hands were not made only to carry.\
+They were made to tend, to build,\
+and when the time comes,\
+to open.
+
+*-pr*
+
+No. 144. Categories: [Rest & Stillness](#rest--stillness-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Make no apology for the rest
+
+Make no apology for being a man who tires.\
+For setting the load down at the door.\
+For letting the ones you have carried\
+carry you a while.
+
+You earned the chair.\
+Take it.
+
+*-pr*
+
+No. 145. Categories: [Rest & Stillness](#rest--stillness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### I want the composure of September
+
+I want the composure of September.\
+The way it sits on the porch at dusk\
+with the day's work set down beside it,\
+sleeves rolled, boots off,\
+in no hurry to be anywhere but here.
+
+It watches autumn walk up the road\
+and hears it say the light is going.\
+It answers with a late wind\
+that lays the long grass down in a bow.
+
+It holds the harvest back one more week,\
+with hands that have never once been rushed.
+
+See how wide the earth opens\
+for what takes its time.
+
+*-pr*
+
+No. 146. Categories: [Rest & Stillness](#rest--stillness-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+---
+
+## Worth & Belonging
+
+### Worthy of its return
+
+A man who works without a ledger\
+still gets paid at the end of the week.
+
+If your entire record is waking at five, boiling the water,\
+and keeping the heat on for the house,\
+you are allowed to sit at the table you bought.
+
+*-pr*
+
+No. 147. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Worth does not move with the water
+
+Set the striving down on the workbench.\
+Stand still.
+
+The river trades its water every afternoon\
+and keeps its name.\
+Your worth was never in the current.\
+It is the limestone bed beneath it.\
+It does not wash out.
+
+*-pr*
+
+No. 148. Categories: [Worth & Belonging](#worth--belonging-1), [Rest & Stillness](#rest--stillness-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Go stand in the sun
+
+When you forget what you are worth,\
+go out to the yard and stand there.
+
+The sun will lay its heat across your shoulders.\
+The oak will put its shade down over you.\
+Neither will ask to see your wallet.\
+You belong on the dirt you stand on.\
+That was settled before you were born.
+
+*-pr*
+
+No. 149. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Not everyone speaks it
+
+It may be that you speak a quieter tongue,\
+one that hears the silence before the answer,\
+and reads the room before a word is said.
+
+Not everyone was raised in that language.\
+Keep speaking it anyway.
+
+*-pr*
+
+No. 150. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Nothing left to prove
+
+The proof is already on the table.\
+The years, the work, the word you kept.\
+What is left is trusting the man who did it.
+
+Give him that.\
+He has earned the quiet.
+
+*-pr*
+
+No. 151. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### A chair set for you
+
+You carried the plates to other men's tables\
+long enough to forget a place was set for you.\
+It takes a different nerve to pull the chair out\
+and eat what they cooked for you.
+
+*-pr*
+
+No. 152. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Stand still and let them look
+
+You are not afraid of the bulb on the porch.\
+You are afraid of what it will show.\
+You have guessed wrong.\
+You have never stood still long enough\
+to learn your own worth in the morning.\
+Stand still. Let them look.\
+What they find will not shame you.
+
+*-pr*
+
+No. 153. Categories: [Worth & Belonging](#worth--belonging-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Some days you let the ground hold you
+
+Sit in the grass.\
+Let it take the weight.\
+The soil takes what falls\
+the same way it takes rain.\
+Nobody calls the rain unnecessary.
+
+*-pr*
+
+No. 154. Categories: [Worth & Belonging](#worth--belonging-1), [Healing & Endurance](#healing--endurance-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### The house you come home to
+
+It was not built to be looked at.\
+Like the gravel under your boots\
+it owes no apology for its shape.\
+The give in the knees.\
+The gray at the temples.
+
+It asks only for a chair\
+to set the load down.
+
+*-pr*
+
+No. 155. Categories: [Worth & Belonging](#worth--belonging-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Nothing in the field withholds
+
+The creek does not ration its water.\
+The elm drops its shade\
+on the stray dog and the priest.
+
+You are made of the same dirt.\
+Let the water run.\
+It was never meant to be kept in a jar.
+
+*-pr*
+
+No. 156. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Before anyone is awake
+
+The dew sits on the mower\
+before the house is up.\
+It sinks into the roots\
+and burns off by ten o'clock.
+
+No one comes out to thank it.\
+The yard is green all the same.
+
+*-pr*
+
+No. 157. Categories: [Worth & Belonging](#worth--belonging-1), [Honor & Character](#honor--character-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### What if I am a quieter thing
+
+What if I meet myself more fully\
+in an open field than in a crowded room.\
+What if I read my face in the sky\
+more easily than in a mirror.\
+What if my pulse keeps time\
+with the sparrows at first light.\
+What if I am a different, quieter thing,\
+and no less a man for it.
+
+*-pr*
+
+No. 158. Categories: [Worth & Belonging](#worth--belonging-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### May you never cut yourself down to size
+
+May you never trim what you feel\
+to something a closed hand can hold.\
+Let it stand at its full height.\
+The ones who mean to carry it will make room for the whole weight.
+
+*-pr*
+
+No. 159. Categories: [Worth & Belonging](#worth--belonging-1), [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+---
+
+## Fatherhood & Duty
+
+### Kneeling is its own prayer
+
+Again I tell myself\
+to keep an hour for God,\
+then drop to one knee in the grass\
+to inspect what a two-year-old holds up.\
+Three acorns and a twig.\
+I wash the small feet.\
+I hold the scraped shin\
+and blow on it, which does nothing,\
+and he stops crying.
+
+At night I unroll the mat.\
+The knees of my trousers are green.
+
+*-pr*
+
+No. 160. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### What I carry there
+
+His head fits my palm,\
+his ear to my chest.\
+He sleeps to the beat of it.\
+He has never asked what I keep there.
+
+So I guard it,\
+and keep it worth guarding.
+
+*-pr*
+
+No. 161. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### Tell me this is not prayer
+
+I tell myself to make an hour for God.\
+Then I am down on one knee in the gravel\
+because my son holds up an acorn\
+and needs a witness.\
+I wash the mud from his heel.\
+I inspect the scraped shin,\
+tell him it will hold,\
+and he stops crying.
+
+Most of my life is spent kneeling.\
+The trousers are worn through.\
+Tell me this is not prayer.
+
+*-pr*
+
+No. 162. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### Nothing gets done with you here
+
+I cannot chop an onion with crayons on the board.\
+I cannot fix the trap under the sink\
+with your hand closed around my wrench.\
+Nothing gets done with you here.
+
+Then I look at your hand,\
+the knuckles filling out,\
+one day closer to turning the doorknob without me.
+
+The sink can leak a while longer.\
+Nothing gets done with you here.\
+That is the work.
+
+*-pr*
+
+No. 163. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### No one told me about the arms
+
+No one told me my arms would never rest again.\
+They ache from carrying you up the stairs,\
+or they ache from the empty air when you are at school.\
+There is no third option.\
+I will carry either.
+
+*-pr*
+
+No. 164. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### I keep saying I will make time for prayer
+
+I bend to inspect a two-year-old's treasure,\
+three acorns and a muddy twig.\
+I wash his feet in the tub.\
+I blow on the scraped shin,\
+say I love him at his eye level,\
+so the words have somewhere to land.
+
+I have spent whole years kneeling.\
+Tell me that was not prayer.
+
+*-pr*
+
+No. 165. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Faith & Reverence](#faith--reverence-1). [Contents](#contents)
+
+---
+
+### It took becoming a father
+
+It took becoming a father\
+to meet the men I had been before.\
+The boy in the driveway, the hothead,\
+the one who kept running.\
+I shook each of their hands.\
+Now when I come home to myself\
+I open the door quietly,\
+with something good in my pockets.
+
+*-pr*
+
+No. 166. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### When my back aches from being a father
+
+When my back aches from lifting the boy,\
+I lie flat on the floorboards.\
+The oak teaches me without a word\
+how to give all I am\
+to feet that walk on me all afternoon.\
+It stays solid underneath them.\
+It calls it holding, not loss.
+
+*-pr*
+
+No. 167. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Nature as Teacher](#nature-as-teacher-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### You were built to feel
+
+A river was built to move water.\
+That is the design, not a flaw.\
+When it rises, let it rise.
+
+The lower pasture is not weak\
+for taking the flood.\
+It is how the hay comes back.
+
+*-pr*
+
+No. 168. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
+
+---
+
+### Stone fruit season
+
+The earth meets us halfway through the year\
+with the labor of late summer.\
+I rise before the light to take a knife to the apricots,\
+halving them for my children,\
+working the stone from the flesh\
+in a motion my wrists have memorized.
+
+I thank the ground for this reminder.\
+A man can give all of himself\
+and still keep his center.
+
+*-pr*
+
+No. 169. Categories: [Fatherhood & Duty](#fatherhood--duty-1), [Nature as Teacher](#nature-as-teacher-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
+
+---
+
+---
+
+## Letting Go
+
+### Winters that were never mine
+
+I am learning to set down\
+the frost that was never mine to carry,\
+to open my hands\
+and leave them open.
+
+Stop handing your harvest\
+to another man's weather.
+
+*-pr*
+
+No. 170. Categories: [Letting Go](#letting-go-1), [Fortitude & Gentleness](#fortitude--gentleness-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Winters that were never yours
+
+Set down the frost that was never yours to carry.\
+Feel for others, but with open hands,\
+not a fist that takes their cold as your own.
+
+Do not hand your one spring\
+to every storm that walks past you.\
+The field comes green on its own calendar.
+
+*-pr*
+
+No. 171. Categories: [Letting Go](#letting-go-1), [Seasons & Letters](#seasons--letters-1). [Contents](#contents)
+
+---
+
+### You do not need the whole map
+
+Thirty years in, I still check the mirrors.\
+The headlights only show forty yards of asphalt,\
+and forty yards is enough to steer by.
+
+Somewhere past the county line,\
+I stopped demanding to see the destination,\
+and started watching the man behind the wheel.
+
+*-pr*
+
+No. 172. Categories: [Letting Go](#letting-go-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### The man you would have been
+
+Let go of the man you would have been\
+if the bad year had skipped your house.\
+He is a pencil sketch. He never bled.
+
+The man standing in your boots\
+knows what a hundred pounds feels like\
+before he bends his knees.\
+Stand with him.\
+He is the one who showed up to work.
+
+*-pr*
+
+No. 173. Categories: [Letting Go](#letting-go-1), [Growth & Becoming](#growth--becoming-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### What made the difference
+
+Any man can clench his jaw and call it strength.\
+It takes something else to open your hands\
+and let the river take what was only water.
+
+That was the difference.
+
+*-pr*
+
+No. 174. Categories: [Letting Go](#letting-go-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Only what is yours
+
+Count the load again.\
+Some of it has your name on it.\
+Most of it does not.
+
+A man can carry a great deal\
+and still learn the difference between duty and habit.\
+Set down what was never yours.\
+Walk lighter, not smaller.
+
+*-pr*
+
+No. 175. Categories: [Letting Go](#letting-go-1), [Honor & Character](#honor--character-1). [Contents](#contents)
+
+---
+
+### What May taught me
+
+I have stopped waiting for the hard years\
+to say they were sorry.\
+The apple orchard never got an apology\
+from the late frost,\
+and it has never once withheld the fruit.
+
+May comes.\
+The branches do what branches do.\
+I have decided to do the same.
+
+*-pr*
+
+No. 176. Categories: [Letting Go](#letting-go-1), [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Set down what was never yours
+
+You are allowed to set it down.\
+The weight you picked up because no one else would.\
+The blame that was handed to you,\
+which you carried, because carrying is what you know.
+
+Let it go the way frost goes on the first morning of spring.\
+No fight. No sound.\
+Gone before the coffee in your mug is cold.
+
+*-pr*
+
+No. 177. Categories: [Letting Go](#letting-go-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### What the ground does with what falls
+
+You carry a heavy load\
+and will not set it down.\
+The forest floor takes the dead oak branch\
+and holds it until it rots into soil.
+
+In time it turns the weight to ground\
+that a green shoot can stand on.
+
+*-pr*
+
+No. 178. Categories: [Letting Go](#letting-go-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+---
+
+## Seasons & Letters
+
+### A note for the new month
+
+The field does not ask the winter to apologize.\
+It takes the frost, the long dark, the silence.\
+When the thaw comes it turns green again\
+without a word about the ice.
+
+Let this month find you the same.\
+Demand no apology.\
+Go about the work of growing back.
+
+*-pr*
+
+No. 179. Categories: [Seasons & Letters](#seasons--letters-1), [Nature as Teacher](#nature-as-teacher-1), [Letting Go](#letting-go-1). [Contents](#contents)
+
+---
+
+### Come back out
+
+The ground has thawed enough to walk on\
+and the wind has turned to your side of the house.
+
+Nothing out here demands a speech.\
+It only asks that you open the door,\
+stand in the yard a while,\
+and let the dog see you are still here.
+
+*-pr*
+
+No. 180. Categories: [Seasons & Letters](#seasons--letters-1), [Healing & Endurance](#healing--endurance-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### Dear summer, remind me
+
+Remind me that life is not only weight.\
+There is warmth waiting for a man\
+who has spent too long braced against the cold.\
+I am allowed to drop the shovel\
+and stand in your long light a while.
+
+*-pr*
+
+No. 181. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Dear July, the long light
+
+The sun is staying up late these days,\
+leaving a light on the way a father does for a son not yet home.\
+I take it as it is meant.\
+An invitation to look up from the workbench\
+and see who is still here.
+
+*-pr*
+
+No. 182. Categories: [Seasons & Letters](#seasons--letters-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Dear July, the middle of the year
+
+The sun leaves the light on longer these days.\
+I eat a peach over the kitchen sink\
+and let it run down my wrist.\
+I watch fireflies in the yard\
+and ask nothing of them.\
+I sit back in the porch chair\
+and let the oak tree show me\
+how a heavy thing can still sway.
+
+*-pr*
+
+No. 183. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Dear August, be patient
+
+I hope August is patient with you.\
+The last long days of summer\
+spent at the window,\
+watching the road for autumn to come home.
+
+*-pr*
+
+No. 184. Categories: [Seasons & Letters](#seasons--letters-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+---
+
+## Honor & Character
+
+### No one saw the climb
+
+No one stood with you on the nights\
+you kept going on nothing but your own word.\
+A man does not need a witness\
+to know the weight of his coat.
+
+You know the miles.\
+That is enough.
+
+*-pr*
+
+No. 185. Categories: [Honor & Character](#honor--character-1), [Healing & Endurance](#healing--endurance-1), [Worth & Belonging](#worth--belonging-1). [Contents](#contents)
+
+---
+
+### Not the distance
+
+Do not measure it by the miles.\
+Any highway will carry a man far.\
+Measure it by what you kept the whole way\
+and never set down.
+
+Your name. Your word.\
+The one you said you would be.
+
+*-pr*
+
+No. 186. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### Ask what held
+
+The years will change a man.\
+That was never in question.\
+Ask instead what held.\
+The word he gave and kept,\
+the name he answers to,\
+the heavy door he pushes open\
+on days when showing up is the hard part.
+
+Do not ask how the wood warped.\
+Ask what the nails held.
+
+*-pr*
+
+No. 187. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+### What if it was never the changing
+
+What if it was the word kept.\
+The man who walked up the drive\
+at the same hour every year\
+and knocked on the door.
+
+*-pr*
+
+No. 188. Categories: [Honor & Character](#honor--character-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+---
+
+## Faith & Reverence
+
+### The fullness of God in a chamomile flower
+
+Dried heads in a linen bag,\
+small enough to rest on a fingernail.\
+The scent takes the whole kitchen\
+before the water boils.
+
+I spent years working to be large.\
+Make me small before You,\
+filling the house anyway,\
+leaving no distance to cross.
+
+*-pr*
+
+No. 189. Categories: [Faith & Reverence](#faith--reverence-1), [Nature as Teacher](#nature-as-teacher-1). [Contents](#contents)
+
+---
+
+### The way the earth turns
+
+Winter lays heavy on the coat.\
+You did not ask for the snow,\
+but you shovel the drive anyway.
+
+You step out at six in the morning,\
+finding the gray edge of the sun\
+the way the earth does.\
+Without being told.
+
+*-pr*
+
+No. 190. Categories: [Faith & Reverence](#faith--reverence-1), [Healing & Endurance](#healing--endurance-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+### Letters I have not opened
+
+Maybe the questions I cannot answer\
+are not asking to be solved.\
+Maybe they only ask to be carried.
+
+I pack them like sealed letters,\
+unread, stowed with the rest of my gear.\
+They remind me that when the woods go dark,\
+I am not walking them alone.
+
+If I carry them long enough,\
+I might learn that holding my own mystery\
+is the answer to a hunger older than any question.\
+It is the unknown in a man that lets him be known.
+
+*-pr*
+
+No. 191. Categories: [Faith & Reverence](#faith--reverence-1), [Growth & Becoming](#growth--becoming-1). [Contents](#contents)
+
+---
+
+---
+
+## Grief & Loss
+
+### Winter still sits in my shoulders
+
+long after my boots have found\
+the warm dirt of April.
+
+Maybe grief stays loyal\
+to the man who carried it\
+out into the sun.
+
+*-pr*
+
+No. 192. Categories: [Grief & Loss](#grief--loss-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
+
+---
+
+### What are tears
+
+I was taught to keep them.\
+I kept them for years\
+the way a concrete dam keeps a river\
+and called it strength.\
+But tears are only love\
+that has run out of room\
+and taken the only road out.
+
+*-pr*
+
+No. 193. Categories: [Grief & Loss](#grief--loss-1), [Fortitude & Gentleness](#fortitude--gentleness-1). [Contents](#contents)
+
+---
+
+---
+
+## Nature as Teacher
+
+### The oak is in no hurry
+
+Ten minutes, I said,\
+between the fence and the gutters,\
+and dragged the chair out under the oak.
+
+It took a hundred years to hold this much shade.\
+It lets it fall on the truck, the dog, the man\
+and never asks which of us earned it.
+
+The shade has moved a foot since I sat down.\
+So has the chair.
+
+*-pr*
+
+No. 194. Categories: [Nature as Teacher](#nature-as-teacher-1), [Growth & Becoming](#growth--becoming-1), [Rest & Stillness](#rest--stillness-1). [Contents](#contents)
+
+---
+
+### Where my feet are
+
+Let me stand fully where my feet are.\
+Let me count the evidence.\
+Let me stop for the magnolia on the wind,\
+set my fear down on the porch\
+and not pick it back up.\
+Let me give what is beautiful a chance\
+to make its case.
+
+*-pr*
+
+No. 195. Categories: [Nature as Teacher](#nature-as-teacher-1), [Healing & Endurance](#healing--endurance-1). [Contents](#contents)
