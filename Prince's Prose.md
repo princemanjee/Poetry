@@ -1,6 +1,6 @@
 # Prince's Prose
 
-193 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
+194 poems by P. R. Manjee, gathered in groups. It opens with “The Undertow of Grace” and the thirteen new poems on loss, addiction, recovery and betrayal. The rest follow by theme.
 
 [Contents](#contents) | [Index by category](#by-category) | [Titles A to Z](#titles-a-to-z)
 
@@ -282,6 +282,7 @@ Companion books: [The Undertow of Grace](../The%20Undertow%20of%20Grace/The%20Un
 [Addiction & Recovery](#addiction--recovery-2)
 
 193. [Out of the Harbor](#out-of-the-harbor)
+194. [Dearest Love](#dearest-love)
 
 ---
 
@@ -291,7 +292,7 @@ A poem may appear under more than one category. Each title links to the poem.
 
 ### By category
 
-[Addiction & Recovery](#addiction--recovery-1) (7) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (44) | [Grief & Loss](#grief--loss-1) (10) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
+[Addiction & Recovery](#addiction--recovery-1) (8) | [Betrayal](#betrayal-1) (5) | [Confinement & Release](#confinement--release) (2) | [Faith & Reverence](#faith--reverence-1) (11) | [Fatherhood & Duty](#fatherhood--duty-1) (14) | [Fortitude & Gentleness](#fortitude--gentleness-1) (69) | [Grace & Self-Forgiveness](#grace--self-forgiveness-1) (45) | [Grief & Loss](#grief--loss-1) (10) | [Growth & Becoming](#growth--becoming-1) (46) | [Healing & Endurance](#healing--endurance-1) (69) | [Honor & Character](#honor--character-1) (32) | [Letting Go](#letting-go-1) (16) | [Nature as Teacher](#nature-as-teacher-1) (48) | [Rest & Stillness](#rest--stillness-1) (35) | [Seasons & Letters](#seasons--letters-1) (16) | [Worth & Belonging](#worth--belonging-1) (27)
 
 #### Addiction & Recovery
 
@@ -302,6 +303,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Good, Not Perfect](#good-not-perfect) (No. 10)
 - [Pilot Light](#pilot-light) (No. 11)
 - [Out of the Harbor](#out-of-the-harbor) (No. 193)
+- [Dearest Love](#dearest-love) (No. 194)
 
 [Back to the index](#index)
 
@@ -477,6 +479,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [The house you come home to](#the-house-you-come-home-to) (No. 151)
 - [It took becoming a father](#it-took-becoming-a-father) (No. 162)
 - [You were built to feel](#you-were-built-to-feel) (No. 164)
+- [Dearest Love](#dearest-love) (No. 194)
 
 [Back to the index](#index)
 
@@ -848,6 +851,7 @@ A poem may appear under more than one category. Each title links to the poem.
 - [Dear July, the middle of the year](#dear-july-the-middle-of-the-year) (No. 179)
 - [Dear June, remind me](#dear-june-remind-me) (No. 136)
 - [Dear summer, remind me](#dear-summer-remind-me) (No. 177)
+- [Dearest Love](#dearest-love) (No. 194)
 - [Do not apologize for gentleness](#do-not-apologize-for-gentleness) (No. 31)
 - [Do not become the cold](#do-not-become-the-cold) (No. 17)
 - [Eighty beats a second](#eighty-beats-a-second) (No. 97)
@@ -4805,3 +4809,29 @@ I am finally free.
 *-pr*
 
 No. 193. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grief & Loss](#grief--loss-1). [Contents](#contents)
+
+---
+
+### Dearest Love
+
+You deserved better…\
+I’m Sorry…\
+For all the times I made you wait.\
+For all the times I ran Late.\
+For all the ways I became the person you hate.\
+For all the ways you loved me that I failed to appreciate.
+
+For letting you consider it was something you had done.\
+For all those times I left you alone.\
+For not treating you like you were the one and only.\
+For all those times I made you feel lonely.
+
+For all those times I chose the drugs.\
+For all the times I missed you hugs.
+
+If I ever made you feel unloveable, because the way I acted was unforgivable.\
+I am sincerely Sorry,
+
+*-pr*
+
+No. 194. Categories: [Addiction & Recovery](#addiction--recovery-1), [Grace & Self-Forgiveness](#grace--self-forgiveness-1). [Contents](#contents)
